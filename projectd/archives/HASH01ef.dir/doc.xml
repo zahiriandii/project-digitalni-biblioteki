@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Eminem\EminemAwards\Award7.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">7441</Metadata>
+    <Metadata name="Source">Award7.jpeg</Metadata>
+    <Metadata name="SourceFile">Award7.jpeg</Metadata>
+    <Metadata name="srclink_file">Award7.jpeg</Metadata>
+    <Metadata name="srclinkFile">Award7.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Andi Zahiri</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A comprehensive list of awards and honors received by Eminem throughout his career.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music Awards Database</Metadata>
+    <Metadata name="dc.Relation">Eminem Discography</Metadata>
+    <Metadata name="dc.Rights">Public Domain</Metadata>
+    <Metadata name="dc.Source">Official Eminem Websites</Metadata>
+    <Metadata name="dc.Subject">Hip Hop, Rap, Grammy Awards, Music</Metadata>
+    <Metadata name="dc.Title">Eminem Awards</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Eminem Awards List Header</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.grammy.com/artists/eminem/8580</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Award7</Metadata>
+    <Metadata name="Identifier">HASH01ef986eae872765fecf8078</Metadata>
+    <Metadata name="lastmodified">1719848818</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849025</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH01ef.dir</Metadata>
+    <Metadata name="gsdlassocfile">Award7.jpeg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

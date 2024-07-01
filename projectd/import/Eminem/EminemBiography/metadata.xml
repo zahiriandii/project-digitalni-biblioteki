@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Venhar Ademi</Metadata>
+			
+			<Metadata mode="accumulate" name="dc.Title">Eminem Biography</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF, JEPG, HTML</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English, Macedonian</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text, Pictures, Text Document</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-20</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Eminem, Biography, Hip Hop, Rap, Music</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">A detailed biography of Eminem, covering his early life, career, and achievements.</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Music History Publications</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Eminem Official Website, Music History Archives</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">Global, USA</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Eminem Discography, Eminem Awards</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">All Rights Reserved</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Biography of Eminem: The Rise of a Rap Legend</Metadata>
+			<Metadata mode="accumulate" name="gs.OAIResourceURL">https://www.namesbiography.com/2019/02/eminem-rapper-biography.html</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

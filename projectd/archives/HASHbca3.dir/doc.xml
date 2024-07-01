@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/andiz/Downloads/ProjectDB/projectd/tmp/1719849031/Eminem Discography.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/andiz/Downloads/ProjectDB/projectd/tmp/1719849031/Eminem Discography.html</Metadata>
+    <Metadata name="Title">Eminem Discography</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Eminem\EminemDiscography\Eminem Discography.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719849031\Eminem Discography.html</Metadata>
+    <Metadata name="OrigSource">Eminem Discography.html</Metadata>
+    <Metadata name="Source">Eminem Discography.pdf</Metadata>
+    <Metadata name="SourceFile">Eminem Discography.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">115320</Metadata>
+    <Metadata name="FilenameRoot">Eminem Discography</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Contributor">Andi Zahiri</Metadata>
+    <Metadata name="dc.Coverage">Global, USA</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A comprehensive discography of Eminem, including all albums, singles, and collaborations.</Metadata>
+    <Metadata name="dc.Format">PDF, MP3, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music Records Database</Metadata>
+    <Metadata name="dc.Relation">Eminem Biography, Eminem Awards</Metadata>
+    <Metadata name="dc.Rights">All Rights Reserved</Metadata>
+    <Metadata name="dc.Source">Official Eminem Website, Music Records</Metadata>
+    <Metadata name="dc.Subject">Eminem, Discography, Albums, Singles, Music</Metadata>
+    <Metadata name="dc.Title">Eminem Discography </Metadata>
+    <Metadata name="dc.Type">Text, Videos, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Eminem Discography: Complete List of Albums and Singles</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.discogs.com/artist/38661-Eminem</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASHbca3b8a0de2c7e09599857</Metadata>
+    <Metadata name="lastmodified">1719848820</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849032</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHbca3.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:222px; top:74px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Eminem's Discography&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:102px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Дискографија&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:126px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Дискографијата на Еминем е обемна и вклучува неколку мултиплатинести албуми&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:141px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;кои ја дефинираа неговата кариера и оставија значајна трага во музичката&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:156px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;индустрија. Еве детален преглед на некои од неговите најзабележителни дела:&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:185px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1. Infinite (1996)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:202px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Дебитантскиот албум на Еминем, издаден независно, го покажа неговиот суров&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:218px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;талент и лирска умешност. Иако постигна ограничен комерцијален успех, албумот ја&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:233px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;постави основата за неговата иднина во рап индустријата. Интроспективните&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:248px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;текстови и сложената игра на зборови навестуваа на извонредната кариера што&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:263px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;претстоеше.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:292px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2. The Slim Shady LP (1999)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:310px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Овој албум означи голем пробив за Еминем, воведувајќи го неговото алтер его,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:325px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Слим Шејди. Продуциран од Др. Дре, албумот беше комерцијален успех и освои&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:340px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Греми за најдобар рап албум. Песни како „My Name Is“ и „Guilty Conscience“ станаа&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:355px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;инстант хитови, познати по нивната провокативна и хумористична содржина.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:384px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3. The Marshall Mathers LP (2000)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:401px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Еден од најиконичните албуми на Еминем, &lt;/span&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Marshall Mathers LP &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;стана еден од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:417px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;најбрзо продаваните албуми во историјата. Со хитови како „Stan“, „The Real Slim&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:432px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Shady“ и „The Way I Am“, албумот доби критичко признание и го зацврсти статусот на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:447px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Еминем како водечка фигура во хип&lt;/span&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;хопот. Темните и лични теми на албумот&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:462px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;резонираа со широка публика.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:491px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4. The Eminem Show (2002)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:509px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Следејќи го успехот на &lt;/span&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Marshall Mathers LP, The Eminem Show &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ја продолжи&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:524px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;доминацијата на Еминем во музичкиот свет. Албумот дебитираше на првото место&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:539px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на топ листите и вклучуваше хитови како „Without Me“, „Cleanin' Out My Closet“ и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:554px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;„Sing for the Moment“. Албумот обработуваше теми за слава, семејство и лични борби,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:569px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;носејќи му на Еминем уште една Греми награда за најдобар рап албум.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:598px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;5. Encore (2004)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:616px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Издаден на врвот на неговата слава, &lt;/span&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Encore &lt;/span&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;вклучуваше мешавина од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:631px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;хумористични и сериозни песни. Иако доби мешани критики, песни како „Like Toy&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:646px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Soldiers“ и „Mockingbird“ ја истакнаа способноста на Еминем за раскажување и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:661px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;емоционална длабочина.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:676px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Албумот обработуваше прашања како борбата со зависноста и притисоците од&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:692px;&quot;&gt;&lt;span class=&quot;p1f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;славата.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page2&quot;&gt;
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:74px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6. Relapse (2009)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:91px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;По паузата и борбите со зависноста, Еминем се врати со &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Relapse&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. Албумот означи&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:106px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;враќање на неговиот потемен и поконтроверзен стил, со Др. Дре како продуцент на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:121px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;многу од песните. Хитовите како „Crack a Bottle“ и „Beautiful“ ја покажаа неговата&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:136px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;лирска умешност и интроспективни теми, иако албумот доби мешани критики.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:163px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;7. Recovery (2010)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:181px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Сметан за враќање во форма, &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Recovery &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;беше добро примен и комерцијално и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:196px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;критички. Албумот претставуваше позрел и поразмислен Еминем, со хитови како&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:211px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;„Not Afraid“ и „Love the Way You Lie“ (со Ријана). Темите за откуп и издржливост на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:226px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;албумот резонираа со фановите, носејќи му на Еминем уште една Греми награда за&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:242px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;најдобар рап албум.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:269px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8. The Marshall Mathers LP 2 (2013)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:286px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Секвел на неговиот класик од 2000 година, &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Marshall Mathers LP 2 &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ги&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:301px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ревидираше темите од неговото рано дело, покажувајќи го неговиот раст како&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:316px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уметник. Со песни како „Berzerk“, „Rap God“ и „The Monster“ (со Ријана), албумот доби&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:331px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;позитивни критики и ја демонстрираше продолжената релевантност на Еминем во&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:347px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;рап светот.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:374px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;9. Revival (2017)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:79px; top:391px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Истражувајќи широк спектар на теми, од политички коментари до лични борби,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:406px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Revival &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;беше еден од најамбициозните проекти на Еминем. Со соработки со&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:421px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;уметници како Бијонсе („Walk on Water“) и Ед Ширан („River“), албумот доби мешани&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:437px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;критики, но ја покажа неговата спремност за експериментирање со нови стилови и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:452px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;теми.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:479px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;10. Kamikaze (2018)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:82px; top:496px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Како одговор на мешаниот прием на &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Revival&lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;, Еминем го издаде &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Kamikaze &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;како&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:511px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;изненадувачки албум. Албумот беше враќање на неговиот поагресивен и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:527px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;конфронтирачки стил, адресирајќи критичари и индустриски трендови. Песни како&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:542px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;„The Ringer“ и „Lucky You“ добија пофалби за нивната лирска комплексност и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:557px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;интензитет.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:584px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;11. Music to Be Murdered By (2020)&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:82px; top:601px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Уште едно изненадувачко издание, &lt;/span&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Music to Be Murdered By &lt;/span&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;вклучуваше&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:616px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;разновиден спектар на стилови и теми. Инспириран од Алфред Хичкок, албумот&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:632px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;вклучуваше песни како „Godzilla“ (со Џус ВРЛД) и „Darkness“. Албумот беше пофален&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:647px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;за техничката вештина и тематската длабочина, зацврстувајќи го статусот на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:662px;&quot;&gt;&lt;span class=&quot;p2f7&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Еминем како мајстор на својот занает.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

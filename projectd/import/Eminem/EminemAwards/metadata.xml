@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Eminem Awards</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Venhar Ademi</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Hip Hop, Rap, Grammy Awards, Music</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">A comprehensive list of awards and honors received by Eminem throughout his career.</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Music Awards Database</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Andi Zahiri</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-20</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text, Pictures, Text Document</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF, JEPG, HTML</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Official Eminem Websites</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English, Macedonian</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">Global</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">Public Domain</Metadata>
+			<Metadata mode="accumulate" name="gs.OAIResourceURL">https://www.grammy.com/artists/eminem/8580</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Eminem Awards List Header</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Eminem Discography</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

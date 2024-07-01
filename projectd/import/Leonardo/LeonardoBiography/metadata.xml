@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Leonardo Biography</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Andi Zahiri</Metadata>
+			
+			<Metadata mode="accumulate" name="dc.Date">2024-06-20</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text, Pictures, Text Document</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF, JEPG, HTML</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English, Macedonian</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Leonardo DiCaprio, Biography, Actor, Career, Movies</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">A detailed biography of Leonardo DiCaprio, covering his early life, career achievements, and personal life.</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Hollywood Database</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Hollywood Reporter Archives</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Related articles on Leonardo DiCaprio's movies and awards</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">Global</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">All rights reserved</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Leonardo DiCaprio Biography Compilation</Metadata>
+			<Metadata mode="accumulate" name="gs.OAIResourceURL">https://www.britannica.com/biography/Leonardo-DiCaprio</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

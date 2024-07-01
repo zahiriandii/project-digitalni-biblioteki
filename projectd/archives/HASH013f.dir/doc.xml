@@ -1,0 +1,5447 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Eminem\EminemBiography\Eminem Biography Web1.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">103234</Metadata>
+    <Metadata name="Source">Eminem Biography Web1.html</Metadata>
+    <Metadata name="SourceFile">Eminem Biography Web1.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">Eminem | Biography,...</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Eminem/EminemBiography/Eminem Biography Web1.html</Metadata>
+    <Metadata name="UTF8URL">http://Eminem/EminemBiography/Eminem Biography Web1.html</Metadata>
+    <Metadata name="dc.Coverage">Global, USA</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A detailed biography of Eminem, covering his early life, career, and achievements.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music History Publications</Metadata>
+    <Metadata name="dc.Relation">Eminem Discography, Eminem Awards</Metadata>
+    <Metadata name="dc.Rights">All Rights Reserved</Metadata>
+    <Metadata name="dc.Source">Eminem Official Website, Music History Archives</Metadata>
+    <Metadata name="dc.Subject">Eminem, Biography, Hip Hop, Rap, Music</Metadata>
+    <Metadata name="dc.Title">Eminem Biography</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Biography of Eminem: The Rise of a Rap Legend</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.namesbiography.com/2019/02/eminem-rapper-biography.html</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH013f05b387846d0ae0719afa</Metadata>
+    <Metadata name="lastmodified">1719848819</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849027</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH013f.dir</Metadata>
+  </Description>
+  <Content>
+
+    &lt;!--- assertive yield ---&gt;
+&lt;script&gt;Mendel.config.adProvider='ay';&lt;/script&gt;
+&lt;script async src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fsecurepubads.g.doubleclick.net%2ftag%2fjs%2fgpt.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/15510053/CMP_1x1', [1, 1], 'div-gpt-ad-1709766812090-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+&lt;/script&gt;
+&lt;script async defer src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2flaunchpad-wrapper.privacymanager.io%2f0ccc6fe8-1870-4ad8-b47b-6d029ac116fc%2flaunchpad-liveramp.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f%2fd3plfjw9uod7ab.cloudfront.net%2f12ca4747-8e80-4a36-b550-dc239c18b954.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fJRyhoywLYXNLYMAhs.ay.delivery%2fmanager%2fJRyhoywLYXNLYMAhs&quot; type=&quot;text/javascript&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/script&gt;
+
+
+
+
+
+
+
+&lt;script  id=&quot;json-navbar-info&quot;  type=&quot;application/json&quot;&gt;
+{&quot;topSectionLinks&quot;:[{&quot;title&quot;:&quot;Home&quot;,&quot;url&quot;:&quot;/&quot;,&quot;navbarId&quot;:&quot;HOME&quot;},{&quot;title&quot;:&quot;Games &amp; Quizzes&quot;,&quot;url&quot;:&quot;/quiz/browse&quot;,&quot;navbarId&quot;:&quot;QUIZZES&quot;},{&quot;title&quot;:&quot;History &amp; Society&quot;,&quot;url&quot;:&quot;/History-Society&quot;,&quot;navbarId&quot;:&quot;HISTORY&quot;},{&quot;title&quot;:&quot;Science &amp; Tech&quot;,&quot;url&quot;:&quot;/Science-Tech&quot;,&quot;navbarId&quot;:&quot;SCIENCE&quot;},{&quot;title&quot;:&quot;Biographies&quot;,&quot;url&quot;:&quot;/Biographies&quot;,&quot;navbarId&quot;:&quot;BIOS&quot;},{&quot;title&quot;:&quot;Animals &amp; Nature&quot;,&quot;url&quot;:&quot;/Animals-Nature&quot;,&quot;navbarId&quot;:&quot;ANIMALS&quot;},{&quot;title&quot;:&quot;Geography &amp; Travel&quot;,&quot;url&quot;:&quot;/Geography-Travel&quot;,&quot;navbarId&quot;:&quot;GEOGRAPHY&quot;},{&quot;title&quot;:&quot;Arts &amp; Culture&quot;,&quot;url&quot;:&quot;/Arts-Culture&quot;,&quot;selected&quot;:true,&quot;navbarId&quot;:&quot;ART&quot;},{&quot;title&quot;:&quot;Money&quot;,&quot;url&quot;:&quot;/money&quot;,&quot;navbarId&quot;:&quot;MONEY&quot;},{&quot;title&quot;:&quot;Videos&quot;,&quot;url&quot;:&quot;/videos&quot;,&quot;navbarId&quot;:&quot;VIDEOS&quot;}],&quot;leftMenu&quot;:[{&quot;title&quot;:{&quot;id&quot;:5,&quot;title&quot;:&quot;History &amp; Society&quot;,&quot;url&quot;:&quot;/History-Society&quot;},&quot;links&quot;:[{&quot;title&quot;:&quot;Lifestyles &amp; Social Issues&quot;,&quot;url&quot;:&quot;/browse/Lifestyles-Social-Issues&quot;},{&quot;title&quot;:&quot;Philosophy &amp; Religion&quot;,&quot;url&quot;:&quot;/browse/Philosophy-Religion&quot;},{&quot;title&quot;:&quot;Politics, Law &amp; Government&quot;,&quot;url&quot;:&quot;/browse/Politics-Law-Government&quot;},{&quot;title&quot;:&quot;World History&quot;,&quot;url&quot;:&quot;/browse/World-History&quot;}]},{&quot;title&quot;:{&quot;id&quot;:6,&quot;title&quot;:&quot;Science &amp; Tech&quot;,&quot;url&quot;:&quot;/Science-Tech&quot;},&quot;links&quot;:[{&quot;title&quot;:&quot;Health &amp; Medicine&quot;,&quot;url&quot;:&quot;/browse/Health-Medicine&quot;},{&quot;title&quot;:&quot;Science&quot;,&quot;url&quot;:&quot;/browse/Science&quot;},{&quot;title&quot;:&quot;Technology&quot;,&quot;url&quot;:&quot;/browse/Technology&quot;}]},{&quot;title&quot;:{&quot;id&quot;:3,&quot;title&quot;:&quot;Biographies&quot;,&quot;url&quot;:&quot;/Biographies&quot;},&quot;links&quot;:[{&quot;title&quot;:&quot;Browse Biographies&quot;,&quot;url&quot;:&quot;/browse/biographies&quot;}]},{&quot;title&quot;:{&quot;id&quot;:1,&quot;title&quot;:&quot;Animals &amp; Nature&quot;,&quot;url&quot;:&quot;/Animals-Nature&quot;},&quot;links&quot;:[{&quot;title&quot;:&quot;Birds, Reptiles &amp; Other Vertebrates&quot;,&quot;url&quot;:&quot;/browse/Birds-Reptiles-Vertebrates&quot;},{&quot;title&quot;:&quot;Bugs, Mollusks &amp; Other Invertebrates&quot;,&quot;url&quot;:&quot;/browse/Bugs-Mollusks-Invertebrates&quot;},{&quot;title&quot;:&quot;Environment&quot;,&quot;url&quot;:&quot;/browse/Environment&quot;},{&quot;title&quot;:&quot;Fossils &amp; Geologic Time&quot;,&quot;url&quot;:&quot;/browse/Fossil-Geologic-Time&quot;},{&quot;title&quot;:&quot;Mammals&quot;,&quot;url&quot;:&quot;/browse/Mammals&quot;},{&quot;title&quot;:&quot;Plants&quot;,&quot;url&quot;:&quot;/browse/Plants&quot;}]},{&quot;title&quot;:{&quot;id&quot;:4,&quot;title&quot;:&quot;Geography &amp; Travel&quot;,&quot;url&quot;:&quot;/Geography-Travel&quot;},&quot;links&quot;:[{&quot;title&quot;:&quot;Geography &amp; Travel&quot;,&quot;url&quot;:&quot;/browse/Geography-Travel&quot;}]},{&quot;title&quot;:{&quot;id&quot;:2,&quot;title&quot;:&quot;Arts &amp; Culture&quot;,&quot;url&quot;:&quot;/Arts-Culture&quot;},&quot;links&quot;:[{&quot;title&quot;:&quot;Entertainment &amp; Pop Culture&quot;,&quot;url&quot;:&quot;/browse/Entertainment-Pop-Culture&quot;},{&quot;title&quot;:&quot;Literature&quot;,&quot;url&quot;:&quot;/browse/Literature&quot;},{&quot;title&quot;:&quot;Sports &amp; Recreation&quot;,&quot;url&quot;:&quot;/browse/Sports-Recreation&quot;},{&quot;title&quot;:&quot;Visual Arts&quot;,&quot;url&quot;:&quot;/browse/Visual-Arts&quot;}]}],&quot;selectedSuperCategory&quot;:{&quot;id&quot;:2,&quot;title&quot;:&quot;Arts &amp; Culture&quot;,&quot;url&quot;:&quot;Arts-Culture&quot;,&quot;description&quot;:&quot;Explore arts and culture; entertainment and pop culture, actors, comics, dance, film, food, music, theatre, tv; visual arts, architecture, fashion, painting, photography, sculpture; literature, fiction, nonfiction, plays, poetry, short story; sports and recreation&quot;,&quot;keywords&quot;:&quot;entertainment and pop culture, actors, comics, dance, film, food, music, theatre, tv; visual arts, architecture, fashion, painting, photography, sculpture; literature, fiction, nonfiction, plays, poetry, short story; sports and recreation&quot;,&quot;classId&quot;:&quot;ART&quot;,&quot;sortOrder&quot;:6},&quot;selectedNavbarLink&quot;:{&quot;title&quot;:&quot;Arts &amp; Culture&quot;,&quot;url&quot;:&quot;/Arts-Culture&quot;,&quot;selected&quot;:true,&quot;navbarId&quot;:&quot;ART&quot;}}
+&lt;/script&gt;
+
+&lt;header id=&quot;header&quot; class=&quot;bg-navy-dark&quot;&gt;
+  &lt;div class=&quot;global-nav-top-bar&quot;&gt;
+    &lt;div class=&quot;grid gx-0 h-100 justify-content-between align-items-center container-lg mx-auto p-0 position-relative&quot;&gt;
+      &lt;!-- menu toggle and top search bar --&gt;
+      &lt;div class=&quot;d-flex align-items-center&quot;&gt;
+        &lt;button
+          class=&quot;d-flex align-items-center justify-self-start js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 p-10&quot;
+        &gt;
+        &lt;div class=&quot;hamburger-tooltip&quot;&gt;
+          &lt;em class=&quot;material-icons d-inline-block font-24&quot; id=&quot;nav-toggle&quot; data-icon=&quot;menu&quot;&gt;&lt;/em&gt;
+        &lt;/div&gt;
+          &lt;em
+          
+            class=&quot;material-icons d-inline-block font-24 global-nav-search-icon&quot;
+          
+            id=&quot;nav-search-icon&quot;
+            data-icon=&quot;search&quot;
+          &gt;&lt;/em&gt;
+          &lt;/button&gt;
+        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; class=&quot;d-flex align-items-center justify-content-center ml-10&quot;&gt;
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png&quot; alt=&quot;Encyclopedia Britannica&quot; class=&quot;global-nav-logo global-nav-logo-left&quot;  /&gt;
+&lt;/a&gt;
+          &lt;div class=&quot;global-nav-top-search-bar global-nav-top-search-container global-nav-search-container&quot; id=&quot;global-nav-top-search-bar&quot;&gt;
+          &lt;form method=&quot;get&quot; action=&quot;/search&quot; id=&quot;global-nav-search&quot; class=&quot;md-search-form m-0 global-nav-search-bar-small&quot;&gt;
+    &lt;div class=&quot;search-box position-relative col-100&quot;&gt;
+        &lt;label class=&quot;sr-only&quot; for=&quot;global-nav-search-query&quot;&gt;Search Britannica&lt;/label&gt;
+        &lt;input name=&quot;query&quot; id=&quot;global-nav-search-query&quot; placeholder=&quot;Search Britannica...&quot; class=&quot;form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm&quot;  maxlength=&quot;200&quot; autocomplete=&quot;off&quot;  aria-label=&quot;Search Britannica&quot; /&gt;
+        &lt;button class=&quot;search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none&quot; type=&quot;reset&quot;&gt;
+            &lt;em class=&quot;material-icons&quot; data-icon=&quot;close&quot;&gt;&lt;/em&gt;
+        &lt;/button&gt;
+        &lt;button class=&quot;search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100&quot; type=&quot;submit&quot; disabled&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Click here to search&lt;/span&gt;
+            &lt;em class=&quot;material-icons search-icon&quot; data-icon=&quot;search&quot;&gt;&lt;/em&gt;
+        &lt;/button&gt;
+        &lt;/div&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;!-- logo/search --&gt;
+      &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; class=&quot;d-flex align-items-center justify-content-center&quot;&gt;
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png&quot; alt=&quot;Encyclopedia Britannica&quot; class=&quot;global-nav-center global-nav-logo non-homepage-logo&quot;  /&gt;
+&lt;/a&gt;
+          &lt;form method=&quot;get&quot; action=&quot;/search&quot; id=&quot;global-nav-search&quot; class=&quot;md-search-form m-0 global-nav-search-bar-small global-nav-center search global-nav-center-search-container&quot;&gt;
+    &lt;div class=&quot;search-box position-relative col-100&quot;&gt;
+        &lt;label class=&quot;sr-only&quot; for=&quot;global-nav-search-query&quot;&gt;Search Britannica&lt;/label&gt;
+        &lt;input name=&quot;query&quot; id=&quot;global-nav-search-query&quot; placeholder=&quot;Search Britannica...&quot; class=&quot;form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm&quot;  maxlength=&quot;200&quot; autocomplete=&quot;off&quot;  aria-label=&quot;Search Britannica&quot; /&gt;
+        &lt;button class=&quot;search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none&quot; type=&quot;reset&quot;&gt;
+            &lt;em class=&quot;material-icons&quot; data-icon=&quot;close&quot;&gt;&lt;/em&gt;
+        &lt;/button&gt;
+        &lt;button class=&quot;search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100&quot; type=&quot;submit&quot; disabled&gt;
+            &lt;span class=&quot;sr-only&quot;&gt;Click here to search&lt;/span&gt;
+            &lt;em class=&quot;material-icons search-icon&quot; data-icon=&quot;search&quot;&gt;&lt;/em&gt;
+        &lt;/button&gt;
+        &lt;/div&gt;
+&lt;/form&gt;
+&lt;!-- login/subscription --&gt;
+      &lt;div class=&quot;col-35 col-sm-auto text-right order-3 mr-lg-15 align-items-center d-flex justify-content-end&quot;&gt;
+        &lt;div class=&quot;d-none d-md-inline-block&quot;&gt;
+              &lt;SPAN class=&quot;marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content&quot; data-marketing-id=&quot;HEADER_SUBSCRIPTION_DESKTOP2&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fsubscription.britannica.com%2fsubscribe%3fpartnerCode%3dBP%5fGN%5fNAC%5fEMEA&quot; class=&quot;subscribe-link btn btn-sm btn-orange py-5 mr-10&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+   Subscribe
+&lt;/a&gt;&lt;/SPAN&gt;&lt;/div&gt;
+            &lt;div class=&quot;d-inline-block d-md-none mr-5 mr-sm-10&quot;&gt;
+              &lt;SPAN class=&quot;marketing-HEADER_SUBSCRIPTION_MOBILE marketing-content&quot; data-marketing-id=&quot;HEADER_SUBSCRIPTION_MOBILE&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fpremium.britannica.com%2fpremium-membership%2f%3futm%5fsource%3dpremium%26utm%5fmedium%3dglobal-nav-mobile%26utm%5fcampaign%3devergreen&quot; class=&quot;subscribe-link btn btn-xs btn-orange p-5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+   Subscribe
+&lt;/a&gt;&lt;/SPAN&gt;&lt;/div&gt;
+            &lt;button class=&quot;js-toggle-user-dropdown js-toggle btn btn-sm btn-link link-white rounded-0 px-md-15 pl-5 pr-5&quot;&gt;
+              &lt;span class=&quot;d-none d-md-inline-block mr-5&quot;&gt;Login&lt;/span&gt;
+              &lt;em class=&quot;material-icons d-inline-block d-md-none font-16 font-sm-20&quot; data-icon=&quot;account_circle&quot;&gt;&lt;/em&gt;
+              &lt;em class=&quot;material-icons inactive-icon d-inline-block font-18&quot; data-icon=&quot;keyboard_arrow_down&quot;&gt;&lt;/em&gt;
+&lt;em class=&quot;material-icons active-icon d-inline-block font-18&quot; data-icon=&quot;keyboard_arrow_up&quot;&gt;&lt;/em&gt;
+&lt;/button&gt;
+          &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;div id=&quot;global-nav-react&quot;&gt;
+      &lt;div class=&quot;d-none&quot;&gt;
+        &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fbrowse&quot;&gt;Games &amp; Quizzes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fHistory-Society&quot;&gt;History &amp; Society&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fScience-Tech&quot;&gt;Science &amp; Tech&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fBiographies&quot;&gt;Biographies&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fAnimals-Nature&quot;&gt;Animals &amp; Nature&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fGeography-Travel&quot;&gt;Geography &amp; Travel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fArts-Culture&quot;&gt;Arts &amp; Culture&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fmoney&quot;&gt;Money&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fon-this-day&quot;&gt;On This Day&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fone-good-fact&quot;&gt;One Good Fact&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fdictionary&quot;&gt;Dictionary&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fnew-articles&quot;&gt;New Articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fHistory-Society&quot;&gt;History &amp; Society&lt;/a&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fLifestyles-Social-Issues&quot;&gt;Lifestyles &amp; Social Issues&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fPhilosophy-Religion&quot;&gt;Philosophy &amp; Religion&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fPolitics-Law-Government&quot;&gt;Politics, Law &amp; Government&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fWorld-History&quot;&gt;World History&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fScience-Tech&quot;&gt;Science &amp; Tech&lt;/a&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fHealth-Medicine&quot;&gt;Health &amp; Medicine&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fScience&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fTechnology&quot;&gt;Technology&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fBiographies&quot;&gt;Biographies&lt;/a&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fbiographies&quot;&gt;Browse Biographies&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fAnimals-Nature&quot;&gt;Animals &amp; Nature&lt;/a&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fBirds-Reptiles-Vertebrates&quot;&gt;Birds, Reptiles &amp; Other Vertebrates&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fBugs-Mollusks-Invertebrates&quot;&gt;Bugs, Mollusks &amp; Other Invertebrates&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fEnvironment&quot;&gt;Environment&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fFossil-Geologic-Time&quot;&gt;Fossils &amp; Geologic Time&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fMammals&quot;&gt;Mammals&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fPlants&quot;&gt;Plants&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fGeography-Travel&quot;&gt;Geography &amp; Travel&lt;/a&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fGeography-Travel&quot;&gt;Geography &amp; Travel&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fArts-Culture&quot;&gt;Arts &amp; Culture&lt;/a&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fEntertainment-Pop-Culture&quot;&gt;Entertainment &amp; Pop Culture&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fLiterature&quot;&gt;Literature&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fSports-Recreation&quot;&gt;Sports &amp; Recreation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fVisual-Arts&quot;&gt;Visual Arts&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fcompanion&quot;&gt;Companions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fdemystified&quot;&gt;Demystified&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fgallery%2fbrowse&quot;&gt;Image Galleries&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fstudy%2finfographics&quot;&gt;Infographics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fbrowse&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fpodcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fspotlight&quot;&gt;Spotlights&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fsummary&quot;&gt;Summaries&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fthe-forum&quot;&gt;The Forum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquestion&quot;&gt;Top Questions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstories%2fwtfact&quot;&gt;#WTFact&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fexplore%2f100women&quot; target=&quot;_blank&quot;&gt;100 Women&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fkids.britannica.com&quot; target=&quot;_blank&quot;&gt;Britannica Kids&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fexplore%2fsavingearth&quot; target=&quot;_blank&quot;&gt;Saving Earth&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fexplore%2fspace&quot; target=&quot;_blank&quot;&gt;Space Next 50&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fstudy&quot; target=&quot;_blank&quot;&gt;Student Center&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/header&gt;
+    &lt;!-- non homepage categories slider, homepage search and slider is in home-page.jsp --&gt;
+    &lt;div class=&quot;bg-navy-dark&quot;&gt;
+    &lt;div class=&quot;container-lg p-0 d-flex justify-content-center global-nav-categories-bar overflow-hidden&quot;&gt;
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;slider js-slider position-relative d-inline-flex align-items-center mw-100 global-nav-slider category-snap-slider&quot;&gt;
+    &lt;div class=&quot;slider-container js-slider-container overflow-hidden d-flex font-14 overflow-hidden text-nowrap mx-5&quot;&gt;
+        
+    &lt;a class=&quot;nav-bar-category mx-5 category-link-HOME &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot;&gt;Home&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-QUIZZES &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fbrowse&quot;&gt;Games &amp; Quizzes&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-HISTORY &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fHistory-Society&quot;&gt;History &amp; Society&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-SCIENCE &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fScience-Tech&quot;&gt;Science &amp; Tech&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-BIOS &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fBiographies&quot;&gt;Biographies&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-ANIMALS &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fAnimals-Nature&quot;&gt;Animals &amp; Nature&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-GEOGRAPHY &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fGeography-Travel&quot;&gt;Geography &amp; Travel&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-ART selected selected&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fArts-Culture&quot;&gt;Arts &amp; Culture&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-MONEY &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fmoney&quot;&gt;Money&lt;/a&gt;
+&lt;a class=&quot;nav-bar-category mx-5 category-link-VIDEOS &quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fvideos&quot;&gt;Videos&lt;/a&gt;
+
+
+    &lt;/div&gt;
+
+    
+
+    
+
+    
+
+    &lt;button disabled class=&quot;prev-button js-prev-button position-absolute btn btn-circle shadow  btn-blue &quot; aria-label=&quot;Previous&quot;&gt;
+        &lt;span class=&quot;material-icons md-24&quot; data-icon=&quot;keyboard_arrow_left&quot;&gt;&lt;/span&gt;
+    &lt;/button&gt;
+    &lt;button disabled class=&quot;next-button js-next-button position-absolute btn btn-circle shadow  btn-blue &quot; aria-label=&quot;Next&quot;&gt;
+        &lt;span class=&quot;material-icons md-24&quot; data-icon=&quot;keyboard_arrow_right&quot;&gt;&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;main&gt;
+
+    &lt;div class=&quot;md-page-wrapper&quot;&gt;
+
+        &lt;div id=&quot;content&quot; class=&quot;md-content&quot;&gt;
+
+        &lt;div class=&quot;md-article-container template-desktop&quot;&gt;
+&lt;div class=&quot;infinite-scroll-container article last&quot;&gt;
+        &lt;article class=&quot;article-content container-lg qa-content px-0 pt-0 pb-40 py-lg-20 content &quot; data-topic-id=&quot;711250&quot;&gt;
+            &lt;div class=&quot;grid gx-0&quot;&gt;
+
+            &lt;div class=&quot;col-auto&quot;&gt;
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;topic-left-rail md-article-drawer position-relative d-flex border-right-sm border-left-sm open&quot;&gt;
+    &lt;div class=&quot;drawer d-flex flex-column open&quot;&gt;
+        
+    &lt;div class=&quot;left-rail-section-content&quot;&gt;
+        
+
+        &lt;div class=&quot;topic-left-rail-header text-truncate bg-gray-50 position-relative text-right d-flex align-items-center&quot;&gt;
+            
+            &lt;div class=&quot;tlr-title px-20 py-15 text-left&quot;&gt;
+                &lt;em class=&quot;material-icons text-gray-400 d-lg-none&quot; data-icon=&quot;toc&quot;&gt;&lt;/em&gt;
+
+                &lt;a class=&quot;font-serif font-weight-bold text-black link-blue&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem&quot;&gt;Eminem&lt;/a&gt;
+
+            &lt;/div&gt;
+            
+
+            &lt;button
+                aria-label=&quot;Close&quot;
+                class=&quot;js-sections-close-button btn-link btn-sm btn d-lg-none position-absolute top-0 p-10 right-0&quot;
+            &gt;
+                &lt;em class=&quot;material-icons font-26&quot; data-icon=&quot;close&quot;&gt;&lt;/em&gt;
+
+            &lt;/button&gt;
+        &lt;/div&gt;
+
+        
+
+        &lt;div class=&quot;section-content pl-10 pr-20 pl-sm-50 pr-sm-60 pl-lg-5 pr-lg-10 pt-10 pt-lg-0 bg-gray-50 clear-catfish-ad&quot;&gt;
+            &lt;div class=&quot;toc mb-20&quot;&gt;
+                
+                &lt;div class=&quot;font-serif font-14 font-weight-bold mx-15 mb-15 mt-20&quot;&gt;
+                    Table of Contents
+                &lt;/div&gt;
+                
+
+                
+                    
+                    
+                        &lt;span class=&quot;toc-extra-link selected link-gray-900 mt-15&quot;&gt;
+                            Introduction
+                        &lt;/span&gt;
+                    
+                    
+                
+
+                
+
+                
+                &lt;a class=&quot;toc-extra-link link-gray-900&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem%2fadditional-info&quot;&gt;References &amp;amp; Edit History&lt;/a&gt;
+
+                
+
+                
+                &lt;a class=&quot;toc-extra-link link-gray-900&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ffacts%2fEminem&quot;&gt;Quick Facts &amp; Related Topics&lt;/a&gt;
+
+                
+            &lt;/div&gt;
+
+            
+                &lt;div class=&quot;tlr-media-slider pb-10 mb-30&quot;&gt;
+                    &lt;a class=&quot;section-header link-gray-900 font-serif font-14 font-weight-bold mb-10 mx-10&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem%2fimages-videos&quot;&gt;Images&lt;/a&gt;
+
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;slider js-slider position-relative d-inline-flex align-items-center mw-100 &quot;&gt;
+    &lt;div class=&quot;slider-container js-slider-container overflow-hidden d-flex overflow-hidden text-nowrap ml-15&quot;&gt;
+        
+                        
+                                
+                                
+                                    
+                                    
+                                    
+                                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f63%2f136263-050-7FBFFBD1%2fEminem.jpg&quot; data-href=&quot;/media/1/711250/173102&quot; class=&quot;media-overlay-link d-inline-block mr-5&quot;&gt;
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/63/136263-004-FCC34A0C/Eminem.jpg&quot; alt=&quot;Eminem&quot;   height=&quot;50&quot; /&gt;
+    
+
+
+                                        &lt;/a&gt;
+                                    
+                                
+                        
+                                
+                                
+                                    
+                                    
+                                    
+                                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f58%2f103158-050-7069AFD2%2fEminem-8-Mile.jpg&quot; data-href=&quot;/media/1/711250/107510&quot; class=&quot;media-overlay-link d-inline-block mr-5&quot;&gt;
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/58/103158-004-71B6D9D5/Eminem-8-Mile.jpg&quot; alt=&quot;Eminem in 8 Mile&quot;   height=&quot;50&quot; /&gt;
+    
+
+
+                                        &lt;/a&gt;
+                                    
+                                
+                        
+                                
+                                
+                                    
+                                    
+                                    
+                                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f64%2f136264-050-E96983FF%2fEminem-2009.jpg&quot; data-href=&quot;/media/1/711250/238362&quot; class=&quot;media-overlay-link d-inline-block mr-5&quot;&gt;
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/64/136264-004-0DFC60F3/Eminem-2009.jpg&quot; alt=&quot;Eminem&quot;   height=&quot;50&quot; /&gt;
+    
+
+
+                                        &lt;/a&gt;
+                                    
+                                
+                        
+                                
+                                
+                                    
+                                    
+                                    
+                                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f15%2f136315-050-EB55175C%2f50-Cent-Eminem-Dr-Dre-2004.jpg&quot; data-href=&quot;/media/1/711250/138599&quot; class=&quot;media-overlay-link d-inline-block mr-5&quot;&gt;
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/15/136315-004-449C9491/50-Cent-Eminem-Dr-Dre-2004.jpg&quot; alt=&quot;(From left to right) 50 Cent, Eminem, and Dr. Dre, 2004.&quot;   height=&quot;50&quot; /&gt;
+    
+
+
+                                        &lt;/a&gt;
+                                    
+                                
+                        
+                    
+    &lt;/div&gt;
+
+    
+
+    
+
+    
+
+    &lt;button disabled class=&quot;prev-button js-prev-button position-absolute btn btn-circle shadow  btn-blue &quot; aria-label=&quot;Previous&quot;&gt;
+        &lt;span class=&quot;material-icons md-24&quot; data-icon=&quot;keyboard_arrow_left&quot;&gt;&lt;/span&gt;
+    &lt;/button&gt;
+    &lt;button disabled class=&quot;next-button js-next-button position-absolute btn btn-circle shadow  btn-blue &quot; aria-label=&quot;Next&quot;&gt;
+        &lt;span class=&quot;material-icons md-24&quot; data-icon=&quot;keyboard_arrow_right&quot;&gt;&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+                &lt;/div&gt;
+            
+
+            
+
+            
+                &lt;div class=&quot;mb-30 tlr-related-quizzes&quot;&gt;
+                    &lt;div class=&quot;text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10&quot;&gt;
+                        Quizzes
+                    &lt;/div&gt;
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2foscar-worthy-movie-trivia&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/23/114923-131-785286EA/projection-screen-movie-theater-cinema.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Empty movie theater and blank screen (theatre, motion pictures, cinema).&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2foscar-worthy-movie-trivia&quot; &gt;Oscar-Worthy Movie Trivia&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fpop-culture-vocabulary-quiz&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/45/249845-131-314A2B7D/1970s-retro-television-set.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;1970s style television set with static on the screen, on a small table with a doily underneath. (retro style)&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fpop-culture-vocabulary-quiz&quot; &gt;Pop Culture Vocabulary Quiz&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fpop-culture-quiz&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/65/129465-131-8F637272/USA-Annual-Academy-Awards-Closeup-entrance-statue-2009.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;USA 2006 - 78th Annual Academy Awards. Closeup of giant Oscar statue at the entrance of the Kodak Theatre in Los Angeles, California. Hompepage blog 2009, arts and entertainment, film movie hollywood&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2fpop-culture-quiz&quot; &gt;Pop Culture Quiz&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2f90s-music-quiz&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/11/233911-131-657442F9/Boyz-II-Men-1992.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;American quartet Boyz II Men (left to right) Shawn Stockman, Wanya Morris, Nathan Morris and Michael McClary, 1992. (music, rhythm-and-blues). Photographed at the American Music Awards where they won Favorite Soul/R&amp;B New Artist, Los Angeles, California, January 27, 1992.&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2f90s-music-quiz&quot; &gt;90s Music Quiz&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2f2000s-music-quiz&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/27/198427-131-BC622F5B/Green-Day.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Green Day, American punk rock band&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2f2000s-music-quiz&quot; &gt;2000s Music Quiz&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                &lt;/div&gt;
+            
+
+            
+                &lt;div class=&quot;mb-30 tlr-related-questions&quot;&gt;
+                    &lt;div class=&quot;text-gray-900 p-5 pb-0 font-serif font-14 font-weight-bold mx-10 mb-15&quot;&gt;
+                        Related Questions
+                    &lt;/div&gt;
+
+                    &lt;ul&gt;
+                    
+                        &lt;li class=&quot;link-gray-900 mb-15&quot;&gt;&lt;a class=&quot;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquestion%2fWhat-are-the-four-main-elements-of-hip-hop&quot;&gt;What are the four main elements of hip-hop?&lt;/a&gt;
+&lt;/li&gt;
+                    
+                        &lt;li class=&quot;link-gray-900 mb-15&quot;&gt;&lt;a class=&quot;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquestion%2fHow-did-hip-hop-get-its-name&quot;&gt;How did hip-hop get its name?&lt;/a&gt;
+&lt;/li&gt;
+                    
+                        &lt;li class=&quot;link-gray-900 mb-15&quot;&gt;&lt;a class=&quot;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquestion%2fWho-are-the-founders-of-hip-hop&quot;&gt;Who are the founders of hip-hop?&lt;/a&gt;
+&lt;/li&gt;
+                    
+                        &lt;li class=&quot;link-gray-900 mb-15&quot;&gt;&lt;a class=&quot;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquestion%2fWhat-was-the-first-major-hip-hop-song&quot;&gt;What was the first major hip-hop song?&lt;/a&gt;
+&lt;/li&gt;
+                    
+                        &lt;li class=&quot;link-gray-900 mb-15&quot;&gt;&lt;a class=&quot;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquestion%2fWhat-are-some-of-the-major-film-festivals&quot;&gt;What are some of the major film festivals?&lt;/a&gt;
+&lt;/li&gt;
+                    
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            
+
+            
+                &lt;div class=&quot;mb-30 tlr-read-next&quot;&gt;
+                    &lt;div class=&quot;text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10&quot;&gt;
+                        Read Next
+                    &lt;/div&gt;
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2ftimeline-of-the-2000s&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/55/182155-050-30F55CFC/fire-US-Marines-Fallujah-Iraq-Second-Battle-November-2004.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;US Marines firing at Fallujah, Iraq, during the Second Battle of Fallujah in November 2004. Operation Iraqi Freedom, Iraq War.&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2ftimeline-of-the-2000s&quot; &gt;Timeline of the 2000s&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fwhats-the-difference-between-tempo-and-rhythm&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/58/178358-131-31BB9D53/Beatles-Publicity-Richard-Lester-Help-film-rock.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;the Beatles. Publicity still from Help! (1965) directed by Richard Lester starring The Beatles (John Lennon, Paul McCartney, George Harrison and Ringo Starr) a British musical quartet. film rock music movie&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fwhats-the-difference-between-tempo-and-rhythm&quot; &gt;What's the Difference Between Tempo and Rhythm?&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fyou-ought-to-be-in-pictures-8-filming-locations-you-can-actually-visit&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/44/191244-131-50EB6F02/Set-The-Hobbit-An-Unexpected-Journey.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Bag end on Bagshot row from the movies Lord of the Rings and The Hobbit in Hobbiton, New Zealand, Australia&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fyou-ought-to-be-in-pictures-8-filming-locations-you-can-actually-visit&quot; &gt;You Ought to Be in Pictures: 8 Filming Locations You Can Actually Visit&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fwhats-that-sound-8-intriguing-early-musical-instruments&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/86/191086-131-85619B55/Woman-oil-Men-canvas-Theorbo-Gerard-Terborch-1668.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Woman Playing a Theorbo to Two Men, oil on canvas by Gerard Terborch, 1667-1668. (Baroque Art)&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fwhats-that-sound-8-intriguing-early-musical-instruments&quot; &gt;What’s That Sound?: 8 Intriguing Early Musical Instruments&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fis-27-an-especially-deadly-age-for-musicians&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/23/190023-131-8EC31C15/Jimi-Hendrix-concert-performance-Open-Air-Love-September-6-1970.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;The last big concert of Jimi Hendrix before he died in London was in Germany on the isle of Fehmarn 6th of September 1970. The festival was called Love-and-Peace-Festival.&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fis-27-an-especially-deadly-age-for-musicians&quot; &gt;Is 27 an Especially Deadly Age for Musicians?&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                &lt;/div&gt;
+            
+
+            
+
+            
+                &lt;div class=&quot;mb-30 tlr-discover&quot;&gt;
+                    &lt;div class=&quot;text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10&quot;&gt;
+                        Discover
+                    &lt;/div&gt;
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fwhats-the-difference-between-a-solstice-and-an-equinox&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/90/202690-131-1D29B008/colorful-winter-sunset.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Colorful winter sunset&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fwhats-the-difference-between-a-solstice-and-an-equinox&quot; &gt;What's the Difference Between a Solstice and an Equinox?&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fis-holland-the-same-place-as-the-netherlands&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/26/188726-131-EF0AAD25/Map-Netherlands.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Map of the Netherlands&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fstory%2fis-holland-the-same-place-as-the-netherlands&quot; &gt;Is &quot;Holland&quot; the Same Place as &quot;the Netherlands&quot;?&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f5-remarkably-close-us-presidential-elections&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/94/182194-131-A1441287/Andrew-Jackson-town-supporters-inauguration-way-1829.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Andrew Jackson delivering a speech while on his way to Washington, D.C., for his inauguration in 1829. From Harper's Weekly, 1881.&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f5-remarkably-close-us-presidential-elections&quot; &gt;5 Remarkably Close U.S. Presidential Elections&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f8-famous-animals&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/52/236352-050-B27CF044/Sergeant-Stubby-World-War-I-dog.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Sergeant Stubby or also known as Mascot Stubby. Unofficial mascot dog of the 102nd Infantry Regiment of the United States with the 26th (Yankee) Division in World War I. War dog. Possibly a Boston terrier - also sometimes described as a Boston bull terrier&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f8-famous-animals&quot; &gt;8 Famous Animals&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f9-of-the-worlds-deadliest-snakes&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/68/152568-131-E6B869A4/King-cobra-world-snake.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;King Cobra snake in Malaysia. (reptile)&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f9-of-the-worlds-deadliest-snakes&quot; &gt;9 of the World’s Deadliest Snakes&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f11-memorable-quotes-from-us-presidential-debates&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/46/146446-131-83C57663/John-F-Kennedy-Test-Ban-Treaty-Oval-July-26-1963.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;President Kennedy address on Test Ban Treaty, White House, Oval Office, July 26, 1963. President John F. Kennedy, President Kennedy&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2f11-memorable-quotes-from-us-presidential-debates&quot; &gt;11 Memorable Quotes from U.S. Presidential Debates&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10&quot; &gt;
+
+
+
+&lt;div class=&quot;position-relative card-media&quot; style=&quot;flex: 0;&quot;&gt;
+
+
+
+&lt;a class=&quot;ilf-image position-relative&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fthe-10-greatest-basketball-players-of-all-time&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/31/142331-131-EE300AF6/basketball-Orange-background-lighting-Homepage-entertainment-history-2010.jpg?w=200&amp;h=200&amp;c=crop&quot; alt=&quot;Orange basketball on black background and with low key lighting. Homepage 2010, arts and entertainment, history and society&quot;  width=&quot;200&quot; height=&quot;200&quot; /&gt;
+    
+
+
+
+
+
+&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;card-body ilf-content&quot;&gt;
+&lt;a class=&quot;font-weight-semi-bold d-block mb-5 font-16&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2flist%2fthe-10-greatest-basketball-players-of-all-time&quot; &gt;The 10 Greatest Basketball Players of All Time&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                    
+                &lt;/div&gt;
+            
+
+        &lt;/div&gt;
+
+    &lt;/div&gt;
+
+
+    &lt;/div&gt;
+    &lt;button class=&quot;drawerToggle btn position-sticky border btn-xs btn-white btn-circle rounded-sm d-none d-lg-flex &quot; type=&quot;button&quot; aria-label=&quot;Toggle Drawer&quot;&gt;
+        &lt;em class=&quot;material-icons font-18 text-blue&quot; data-icon=&quot;keyboard_arrow_left&quot;&gt;&lt;/em&gt;
+
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+                &lt;div class=&quot;col&quot;&gt;
+                    &lt;div class=&quot;h-100 ml-0 pr-sm-10 pr-lg-0 &quot;&gt;
+                        &lt;div class=&quot;h-100 grid gx-0 gx-sm-20&quot;&gt;
+                            &lt;div class=&quot;h-100 col-sm&quot;&gt;
+                                &lt;div class=&quot;h-100 infinite-pagination-container d-flex flex-column position-relative&quot;&gt;
+                                    &lt;div class=&quot;position-absolute top-0 h-100 w-100&quot;&gt;
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;toc-sticky-header d-none d-lg-none bg-white px-20 px-sm-30 position-sticky w-100 &quot;&gt;
+&lt;div class=&quot;toc-sticky-header-inner-container align-items-center d-flex mx-auto h-100 w-100&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+&lt;button class=&quot;d-flex d-lg-none btn btn-xs btn-white text-blue rounded-lg border-2 shadow-sm js-sections-button d-lg-none p-5 px-10&quot;&gt;
+&lt;em class=&quot;material-icons my-n5 md-icon&quot; data-icon=&quot;toc&quot;&gt;&lt;/em&gt;
+
+Contents
+&lt;/button&gt;
+    
+    
+
+
+&lt;div class=&quot;header-ai-summarize-button-placeholder&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;grey-box w-100 grey-box-top
+grey-box-bottom&quot;&gt;
+&lt;div class=&quot;grey-box-content mx-auto w-100&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+&quot;@context&quot; : &quot;https://schema.org&quot;,
+&quot;@type&quot; : &quot;BreadcrumbList&quot;,
+&quot;itemListElement&quot; :
+[
+
+
+{
+&quot;@type&quot; : &quot;ListItem&quot;,
+&quot;position&quot; : 1,
+&quot;item&quot; :
+{
+&quot;@id&quot; : &quot;https://www.britannica.com/browse/Entertainment-Pop-Culture&quot;,
+&quot;name&quot;: &quot;Entertainment &amp;amp; Pop Culture&quot;
+}
+}
+
+,
+{
+&quot;@type&quot; : &quot;ListItem&quot;,
+&quot;position&quot; : 2,
+&quot;item&quot; :
+{
+&quot;@id&quot; : &quot;https://www.britannica.com/browse/Contemporary-Music&quot;,
+&quot;name&quot;: &quot;Music, Contemporary Genres&quot;
+}
+}
+
+,
+{
+&quot;@type&quot; : &quot;ListItem&quot;,
+&quot;position&quot; : 3,
+&quot;item&quot; :
+{
+&quot;@id&quot; : &quot;https://www.britannica.com/browse/Rap-Hip-Hop-Music&quot;,
+&quot;name&quot;: &quot;Rap &amp;amp; Hip-Hop Music&quot;
+}
+}
+
+]
+}
+&lt;/script&gt;
+
+
+&lt;nav class=&quot;breadcrumb mb-30 mt-20&quot;&gt;
+
+
+&lt;span class=&quot;breadcrumb-item &quot;&gt;
+
+
+
+&lt;a class=&quot;link-gray-600&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fEntertainment-Pop-Culture&quot;&gt;Entertainment &amp;amp; Pop Culture&lt;/a&gt;
+
+
+
+&lt;/span&gt;
+
+&lt;span class=&quot;breadcrumb-item &quot;&gt;
+
+
+
+&lt;a class=&quot;link-gray-600&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fContemporary-Music&quot;&gt;Music, Contemporary Genres&lt;/a&gt;
+
+
+
+&lt;/span&gt;
+
+&lt;span class=&quot;breadcrumb-item &quot;&gt;
+
+
+
+&lt;a class=&quot;link-gray-600&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fbrowse%2fRap-Hip-Hop-Music&quot;&gt;Rap &amp;amp; Hip-Hop Music&lt;/a&gt;
+
+
+
+&lt;/span&gt;
+
+&lt;/nav&gt;
+
+
+
+&lt;div class=&quot;page2ref-true topic-content topic-type-BIOGRAPHY&quot;  data-student-article=&quot;false&quot;&gt;
+
+        
+
+
+
+
+
+
+
+&lt;script   class=&quot;page-description-json&quot; type=&quot;application/json&quot;&gt;
+{
+&quot;url&quot;: &quot;/biography/Eminem&quot;,
+    &quot;shareUrl&quot;: &quot;https://www.britannica.com/biography/Eminem&quot;,
+    &quot;browserTitle&quot;: &quot;Eminem | Biography, Music, Awards, &amp; Facts&quot;,
+    &quot;documentGroup&quot;: &quot;TOPIC PAGINATED BIO MEDIUM&quot;,
+    &quot;firstTopicPage&quot;: true
+    }
+&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;reading-channel&quot;&gt;
+
+            &lt;div class=&quot;topic-header&quot;&gt;
+
+&lt;div class=&quot;d-flex align-items-top justify-content-between&quot;&gt;
+
+&lt;div class=&quot;d-flex flex-column&quot;&gt;
+&lt;div&gt;
+
+&lt;div&gt;
+&lt;h1 class=&quot;mb-0&quot;&gt;Eminem&lt;/h1&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;topic-identifier font-16 font-md-20&quot;&gt;American musician&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    &lt;div class=&quot;d-block d-sm-none md-topic-tools-mobile&quot; style=&quot;right:20px&quot; data-topic-id=&quot;711250&quot;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-tooltip-actions ml-10 btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; &gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;more_vert&quot;&gt;&lt;/em&gt;
+
+    
+            Actions
+        &lt;/button&gt;
+    
+
+
+
+        &lt;div class=&quot;md-actions-popover popover popover-sm py-5 px-0 z-1&quot;&gt;
+            
+
+            
+                &lt;div&gt;
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        &lt;button class=&quot;js-modal qa-cite-modal-button btn btn-sm btn-link gtm-topic-tool&quot; data-modal=&quot;[data-topic-id=711250] .md-cite-modal-mobile&quot;&gt;
+
+&lt;em class=&quot;material-icons mr-5 ml-n10 my-n5 md-icon&quot; data-icon=&quot;verified&quot;&gt;&lt;/em&gt;
+
+
+Cite
+&lt;/button&gt;
+    
+    
+
+
+&lt;div class=&quot;md-cite-modal-mobile size-lg d-none&quot;&gt;
+&lt;div class=&quot;md-modal-body&quot;&gt;
+&lt;div class=&quot;h2 font-serif d-flex align-items-center pb-15 border-bottom mb-15&quot;&gt;
+&lt;em class=&quot;material-icons text-blue mr-10&quot;&gt;verified&lt;/em&gt;Cite
+&lt;/div&gt;
+&lt;div class=&quot;font-serif&quot;&gt;
+While every effort has been made to follow citation style rules, there may be some discrepancies.
+Please refer to the appropriate style manual or other sources if you have any questions.
+&lt;/div&gt;
+&lt;div class=&quot;label mt-20 mb-10&quot;&gt;Select Citation Style&lt;/div&gt;
+&lt;select class=&quot;js-citation-format-select form-select&quot;&gt;
+&lt;option selected value=&quot;mla&quot;&gt;MLA&lt;/option&gt;
+&lt;option value=&quot;apa&quot;&gt;APA&lt;/option&gt;
+&lt;option value=&quot;chicago&quot;&gt;Chicago Manual of Style&lt;/option&gt;
+&lt;/select&gt;
+
+&lt;div
+class=&quot;citation font-serif border rounded p-15 mt-20&quot;
+data-authors=&quot;The Editors of Encyclopaedia Britannica&quot;
+data-title=&quot;Eminem&quot;
+data-published-date=&quot;27 Jun. 2024&quot;
+data-url=&quot;https://www.britannica.com/biography/Eminem&quot;
+&gt;
+&lt;div class=&quot;citation-text&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-copy-citation-button mt-20 btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; &gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;file_copy&quot;&gt;&lt;/em&gt;
+
+    
+&lt;span class=&quot;js-citation-status-text&quot;&gt;Copy Citation&lt;/span&gt;
+        &lt;/button&gt;
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+                &lt;/div&gt;
+            
+
+            
+
+            
+                &lt;div&gt;
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        &lt;button class=&quot;js-share-modal-button js-modal btn btn-sm btn-link gtm-topic-tool&quot; data-modal=&quot;[data-topic-id=711250] .md-share-modal&quot;&gt;
+            
+                &lt;em class=&quot;material-icons mr-5 ml-n10 my-n5 md-icon&quot; data-icon=&quot;share&quot;&gt;&lt;/em&gt;
+
+            
+            Share
+        &lt;/button&gt;
+    
+    
+
+
+&lt;div class=&quot;md-share-modal size-lg d-none qa-share-modal&quot;&gt;
+    &lt;div class=&quot;md-modal-body&quot;&gt;
+        &lt;div class=&quot;h2 font-serif d-flex align-items-center pb-15 border-bottom&quot;&gt;
+            &lt;em class=&quot;material-icons text-blue mr-10&quot; data-icon=&quot;share&quot;&gt;&lt;/em&gt;
+
+            Share
+        &lt;/div&gt;
+        &lt;div class=&quot;label my-20&quot;&gt;Share to social media&lt;/div&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+    
+        
+    
+    
+    
+
+
+
+
+
+
+&lt;div class=&quot;md-social-toolbar-circle d-flex align-items-start inverted&quot;
+     data-value=&quot;share&quot;
+     title=&quot;Eminem&quot;
+     data-url=&quot;https://www.britannica.com/biography/Eminem&quot;
+&gt;
+    
+    
+        &lt;a class=&quot;social-icon facebook justify-content-center d-flex align-items-center align-self-center&quot; data-provider=&quot;facebook&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fBRITANNICA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;social-icon x justify-content-center d-flex align-items-center align-self-center&quot; data-provider=&quot;x&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fx.com%2fbritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span&gt;X&lt;/span&gt;&lt;/a&gt;
+    
+    
+    
+    
+    
+    
+&lt;/div&gt;
+
+
+
+        &lt;div class=&quot;label pt-20 mt-20 mb-5 border-top&quot;&gt;URL&lt;/div&gt;
+        &lt;a class=&quot;font-serif text-truncate d-inline-block&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem&quot;&gt;https://www.britannica.com/biography/Eminem&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+                &lt;/div&gt;
+            
+
+            
+
+            
+                &lt;div&gt;
+                    &lt;button class=&quot;js-feedback-modal-button js-modal btn btn-sm btn-link gtm-topic-tool&quot; data-modal=&quot;.md-feedback-modal&quot;&gt;
+                        &lt;em class=&quot;material-icons mr-5 ml-n10 my-n5 md-icon&quot; data-icon=&quot;message&quot;&gt;&lt;/em&gt;
+
+                        Give Feedback
+                    &lt;/button&gt;
+                &lt;/div&gt;
+            
+
+            
+
+            
+                &lt;div&gt;
+                    &lt;button class=&quot;js-modal btn btn-sm btn-link gtm-topic-tool&quot; data-modal=&quot;[data-topic-id=711250] .md-websites-modal-mobile&quot;&gt;
+                        &lt;em class=&quot;material-icons mr-5 ml-n10 my-n5 md-icon&quot; data-icon=&quot;link&quot;&gt;&lt;/em&gt;
+
+                        External Websites
+                    &lt;/button&gt;
+                &lt;/div&gt;
+            
+        &lt;/div&gt;
+
+        
+            &lt;div class=&quot;md-feedback-modal size-lg d-none&quot;&gt;
+&lt;div class=&quot;md-modal-body&quot;&gt;
+&lt;div class=&quot;h2 font-serif pb-15 border-bottom&quot;&gt;
+Feedback
+&lt;/div&gt;
+
+&lt;form method=&quot;post&quot; action=&quot;/submission/feedback/711250&quot;&gt;
+
+&lt;div class=&quot;my-20&quot;&gt;
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+&lt;/div&gt;
+
+&lt;div class=&quot;type-menu&quot;&gt;
+&lt;label for=&quot;feedback-type&quot; class=&quot;label mb-10&quot;&gt;Feedback Type&lt;/label&gt;
+&lt;select id=&quot;feedback-type&quot; class=&quot;form-select mb-30&quot; name=&quot;feedbackTypeId&quot; required&gt;
+&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select a type (Required)&lt;/option&gt;
+&lt;option value=&quot;1&quot;&gt;Factual Correction&lt;/option&gt;
+&lt;option value=&quot;2&quot;&gt;Spelling/Grammar Correction&lt;/option&gt;
+&lt;option value=&quot;3&quot;&gt;Link Correction&lt;/option&gt;
+&lt;option value=&quot;4&quot;&gt;Additional Information&lt;/option&gt;
+&lt;option value=&quot;5&quot;&gt;Other&lt;/option&gt;
+&lt;/select&gt;
+&lt;/div&gt;
+
+&lt;label for=&quot;feedback&quot; class=&quot;label mb-10&quot;&gt;Your Feedback&lt;/label&gt;
+&lt;textarea id=&quot;feedback&quot; class=&quot;form-control mb-30&quot; name=&quot;feedback&quot; maxlength=&quot;3000&quot; rows=&quot;7&quot; required&gt;&lt;/textarea&gt;
+
+&lt;button class=&quot;btn btn-blue&quot; type=&quot;submit&quot;&gt;Submit Feedback&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;div class=&quot;success-messaging d-none mt-30&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Thank you for your feedback&lt;/div&gt;
+&lt;p&gt;Our editors will review what you’ve submitted and determine whether to revise the article.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+        
+
+        
+            &lt;div class=&quot;md-websites-modal-mobile size-lg d-none&quot;&gt;
+                &lt;div class=&quot;md-modal-body&quot;&gt;
+                    &lt;div class=&quot;h2 font-serif pb-15 border-bottom&quot;&gt;
+                        External Websites
+                    &lt;/div&gt;
+                    &lt;div class=&quot;pb-20&quot;&gt;
+            &lt;ul class=&quot;list-unstyled mt-20 lh-lg&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fmyhero.com%2fEminem%5fdnhs%5fsh%5fUS%5f2017%5ful&quot; target=&quot;_blank&quot; rel=&quot;noopener &quot;&gt;The MY HERO Project - Eminem&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.allmusic.com%2fartist%2feminem-mn0000157676&quot; target=&quot;_blank&quot; rel=&quot;noopener &quot;&gt;AllMusic - Eminem&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.tcm.com%2ftcmdb%2fperson%2f369400%257C0%2fEminem#overview&quot; target=&quot;_blank&quot; rel=&quot;noopener &quot;&gt;Turner Classic Movies - Biography of Eminem&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;md-websites-ebk-title&quot;&gt;Britannica Websites&lt;/div&gt;
+        &lt;div class=&quot;md-websites-ebk-subtitle&quot;&gt;Articles from Britannica Encyclopedias for elementary and high school students.&lt;/div&gt;
+
+        &lt;ul class=&quot;list-unstyled bps-topic-web-sites lh-lg&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fkids.britannica.com%2fstudents%2farticle%2fEminem%2f571650&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Eminem - Student Encyclopedia (Ages 11 and up)&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+
+    
+                &lt;/div&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;d-none d-sm-block md-topic-tools mt-15 mb-15 qa-action-buttons&quot; data-topic-id=&quot;711250&quot;&gt;
+
+    
+
+    
+        
+            
+            
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fprint%2farticle%2f711250&quot; class=&quot; btn btn-xs btn-outline-blue border shadow-sm pr-10&quot;  target=&quot;_blank&quot;&gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;print&quot;&gt;&lt;/em&gt;
+
+    
+                    Print
+        &lt;/a&gt;
+    
+    
+
+
+            
+        
+    
+
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-modal qa-cite-modal-button gtm-topic-tool btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; data-modal=&quot;[data-topic-id=711250]  .md-cite-modal&quot;&gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;verified&quot;&gt;&lt;/em&gt;
+
+    
+            Cite
+        &lt;/button&gt;
+    
+
+
+    
+
+
+&lt;div class=&quot;md-cite-modal size-lg d-none&quot;&gt;
+&lt;div class=&quot;md-modal-body&quot;&gt;
+&lt;div class=&quot;h2 font-serif d-flex align-items-center pb-15 border-bottom mb-15&quot;&gt;
+&lt;em class=&quot;material-icons text-blue mr-10&quot;&gt;verified&lt;/em&gt;Cite
+&lt;/div&gt;
+&lt;div class=&quot;font-serif&quot;&gt;
+While every effort has been made to follow citation style rules, there may be some discrepancies.
+Please refer to the appropriate style manual or other sources if you have any questions.
+&lt;/div&gt;
+&lt;div class=&quot;label mt-20 mb-10&quot;&gt;Select Citation Style&lt;/div&gt;
+&lt;select class=&quot;js-citation-format-select form-select&quot;&gt;
+&lt;option selected value=&quot;mla&quot;&gt;MLA&lt;/option&gt;
+&lt;option value=&quot;apa&quot;&gt;APA&lt;/option&gt;
+&lt;option value=&quot;chicago&quot;&gt;Chicago Manual of Style&lt;/option&gt;
+&lt;/select&gt;
+
+&lt;div
+class=&quot;citation font-serif border rounded p-15 mt-20&quot;
+data-authors=&quot;The Editors of Encyclopaedia Britannica&quot;
+data-title=&quot;Eminem&quot;
+data-published-date=&quot;27 Jun. 2024&quot;
+data-url=&quot;https://www.britannica.com/biography/Eminem&quot;
+&gt;
+&lt;div class=&quot;citation-text&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-copy-citation-button mt-20 btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; &gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;file_copy&quot;&gt;&lt;/em&gt;
+
+    
+&lt;span class=&quot;js-citation-status-text&quot;&gt;Copy Citation&lt;/span&gt;
+        &lt;/button&gt;
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-share-modal-button js-modal gtm-topic-tool  btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; data-modal=&quot;.md-share-modal711250&quot;&gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;share&quot;&gt;&lt;/em&gt;
+
+    
+            Share
+        &lt;/button&gt;
+    
+
+
+    
+
+
+&lt;div class=&quot;md-share-modal711250 size-lg d-none qa-share-modal&quot;&gt;
+    &lt;div class=&quot;md-modal-body&quot;&gt;
+        &lt;div class=&quot;h2 font-serif d-flex align-items-center pb-15 border-bottom&quot;&gt;
+            &lt;em class=&quot;material-icons text-blue mr-10&quot; data-icon=&quot;share&quot;&gt;&lt;/em&gt;
+
+            Share
+        &lt;/div&gt;
+        &lt;div class=&quot;label my-20&quot;&gt;Share to social media&lt;/div&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+    
+        
+    
+    
+    
+
+
+
+
+
+
+&lt;div class=&quot;md-social-toolbar-circle d-flex align-items-start inverted&quot;
+     data-value=&quot;share&quot;
+     title=&quot;Eminem&quot;
+     data-url=&quot;https://www.britannica.com/biography/Eminem&quot;
+&gt;
+    
+    
+        &lt;a class=&quot;social-icon facebook justify-content-center d-flex align-items-center align-self-center&quot; data-provider=&quot;facebook&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fBRITANNICA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span&gt;Facebook&lt;/span&gt;&lt;/a&gt;
+    
+    
+        &lt;a class=&quot;social-icon x justify-content-center d-flex align-items-center align-self-center&quot; data-provider=&quot;x&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fx.com%2fbritannica&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span&gt;X&lt;/span&gt;&lt;/a&gt;
+    
+    
+    
+    
+    
+    
+&lt;/div&gt;
+
+
+
+        &lt;div class=&quot;label pt-20 mt-20 mb-5 border-top&quot;&gt;URL&lt;/div&gt;
+        &lt;a class=&quot;font-serif text-truncate d-inline-block&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem&quot;&gt;https://www.britannica.com/biography/Eminem&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+    
+
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-feedback js-modal gtm-topic-tool btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; data-modal=&quot;.md-feedback-modal&quot;&gt;
+            &lt;em class=&quot;material-icons md-icon ml-n10 my-n5 mr-5&quot; data-icon=&quot;message&quot;&gt;&lt;/em&gt;
+
+    
+            Feedback
+        &lt;/button&gt;
+    
+
+
+    
+
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+
+    
+    
+        &lt;button class=&quot;js-tooltip btn btn-xs btn-outline-blue border shadow-sm pr-10&quot; &gt;
+            &lt;em class=&quot;material-icons md-icon ml-n5&quot; data-icon=&quot;more_vert&quot;&gt;&lt;/em&gt;
+        &lt;/button&gt;
+    
+
+
+        &lt;div class=&quot;md-more-popover popover popover-sm p-0 font-14 z-1&quot;&gt;
+            
+                &lt;button class=&quot;js-modal btn btn-sm btn-link gtm-topic-tool&quot; data-modal=&quot;[data-topic-id=711250] .md-websites-modal&quot;&gt;
+                    &lt;em class=&quot;material-icons md-icon ml-n5 mr-5&quot; data-icon=&quot;link&quot;&gt;&lt;/em&gt;
+
+                    External Websites
+                &lt;/button&gt;
+            
+        &lt;/div&gt;
+
+        &lt;div class=&quot;md-feedback-modal size-lg d-none&quot;&gt;
+&lt;div class=&quot;md-modal-body&quot;&gt;
+&lt;div class=&quot;h2 font-serif pb-15 border-bottom&quot;&gt;
+Feedback
+&lt;/div&gt;
+
+&lt;form method=&quot;post&quot; action=&quot;/submission/feedback/711250&quot;&gt;
+
+&lt;div class=&quot;my-20&quot;&gt;
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+&lt;/div&gt;
+
+&lt;div class=&quot;type-menu&quot;&gt;
+&lt;label for=&quot;feedback-type&quot; class=&quot;label mb-10&quot;&gt;Feedback Type&lt;/label&gt;
+&lt;select id=&quot;feedback-type&quot; class=&quot;form-select mb-30&quot; name=&quot;feedbackTypeId&quot; required&gt;
+&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select a type (Required)&lt;/option&gt;
+&lt;option value=&quot;1&quot;&gt;Factual Correction&lt;/option&gt;
+&lt;option value=&quot;2&quot;&gt;Spelling/Grammar Correction&lt;/option&gt;
+&lt;option value=&quot;3&quot;&gt;Link Correction&lt;/option&gt;
+&lt;option value=&quot;4&quot;&gt;Additional Information&lt;/option&gt;
+&lt;option value=&quot;5&quot;&gt;Other&lt;/option&gt;
+&lt;/select&gt;
+&lt;/div&gt;
+
+&lt;label for=&quot;feedback&quot; class=&quot;label mb-10&quot;&gt;Your Feedback&lt;/label&gt;
+&lt;textarea id=&quot;feedback&quot; class=&quot;form-control mb-30&quot; name=&quot;feedback&quot; maxlength=&quot;3000&quot; rows=&quot;7&quot; required&gt;&lt;/textarea&gt;
+
+&lt;button class=&quot;btn btn-blue&quot; type=&quot;submit&quot;&gt;Submit Feedback&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;div class=&quot;success-messaging d-none mt-30&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Thank you for your feedback&lt;/div&gt;
+&lt;p&gt;Our editors will review what you’ve submitted and determine whether to revise the article.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+        &lt;div class=&quot;md-websites-modal size-lg d-none&quot;&gt;
+            &lt;div class=&quot;md-modal-body&quot;&gt;
+                &lt;div class=&quot;h2 font-serif pb-15 border-bottom&quot;&gt;
+                    External Websites
+                &lt;/div&gt;
+                &lt;div class=&quot;pb-20&quot;&gt;
+            &lt;ul class=&quot;list-unstyled mt-20 lh-lg&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fmyhero.com%2fEminem%5fdnhs%5fsh%5fUS%5f2017%5ful&quot; target=&quot;_blank&quot; rel=&quot;noopener &quot;&gt;The MY HERO Project - Eminem&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.allmusic.com%2fartist%2feminem-mn0000157676&quot; target=&quot;_blank&quot; rel=&quot;noopener &quot;&gt;AllMusic - Eminem&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.tcm.com%2ftcmdb%2fperson%2f369400%257C0%2fEminem#overview&quot; target=&quot;_blank&quot; rel=&quot;noopener &quot;&gt;Turner Classic Movies - Biography of Eminem&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;md-websites-ebk-title&quot;&gt;Britannica Websites&lt;/div&gt;
+        &lt;div class=&quot;md-websites-ebk-subtitle&quot;&gt;Articles from Britannica Encyclopedias for elementary and high school students.&lt;/div&gt;
+
+        &lt;ul class=&quot;list-unstyled bps-topic-web-sites lh-lg&quot;&gt;
+            &lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fkids.britannica.com%2fstudents%2farticle%2fEminem%2f571650&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Eminem - Student Encyclopedia (Ages 11 and up)&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+
+    
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;div class=&quot;caption mt-5 mt-md-0&quot;&gt;Also known as: Marshall Bruce Mathers III&lt;/div&gt;
+&lt;div class=&quot;md-byline mb-10 &quot;&gt;
+&lt;div&gt;
+&lt;span class=&quot;written-by font-12 text-gray-700&quot;&gt;
+
+Written and fact-checked by
+&lt;/span&gt;
+&lt;div class=&quot;editor-popover popover p-0&quot;&gt;
+  &lt;a class=&quot;d-block p-20 gtm-byline font-12 byline-contributor&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2feditor%2fThe-Editors-of-Encyclopaedia-Britannica%2f4419&quot; &gt;
+        &lt;div class=&quot;editor-title font-16 font-weight-bold&quot;&gt;The Editors of Encyclopaedia Britannica&lt;/div&gt;
+
+        &lt;div class=&quot;editor-description font-12 font-serif mt-5 text-black&quot;&gt;Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.&lt;/div&gt;
+            &lt;/a&gt;
+    &lt;div data-popper-arrow&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;span class=&quot;btn btn-link byline-link editor-link p-0 gtm-byline font-12 byline-contributor&quot;&gt;
+  The Editors of Encyclopaedia Britannica&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;last-updated font-12&quot;&gt;
+&lt;span class=&quot;text-gray-700 font-sans-serif&quot;&gt;
+Last Updated: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;time datetime=&quot;2024-06-27T00:00:00CDT&quot; &gt;Jun 27, 2024&lt;/time&gt;
+•&lt;/span&gt;
+&lt;a class=&quot;byline-edit-history&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem%2fadditional-info#history&quot; rel=&quot;nofollow&quot;&gt;Article History&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+&lt;button class=&quot;d-flex d-lg-none btn btn-outline-blue border rounded-sm shadow-sm js-sections-inline-button my-20 mobile-toc-button&quot;&gt;
+&lt;em class=&quot;material-icons mr-5 ml-n10 my-n5 md-icon&quot; data-icon=&quot;toc&quot;&gt;&lt;/em&gt;
+
+Table of Contents
+&lt;/button&gt;
+    
+
+&lt;div class=&quot;js-qf-module qf-module border p-20 ml-lg-10 mx-auto mb-20 font-14 bg-white&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;m-n10 &quot;&gt;
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&quot;slider js-slider position-relative d-inline-flex align-items-center mw-100 media-slider card-snap-slider col-100&quot;&gt;
+    &lt;div class=&quot;slider-container js-slider-container overflow-hidden d-flex col-100&quot;&gt;
+        
+      &lt;div class=&quot;rw-track w-100&quot;&gt;
+&lt;div class=&quot;p-10 d-inline-flex col-100&quot;&gt;
+&lt;div class=&quot;card w-100&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f63%2f136263-050-7FBFFBD1%2fEminem.jpg&quot; data-href=&quot;/media/1/711250/173102&quot; class=&quot;media-overlay-link card-media d-flex align-items-center justify-content-center&quot; style=&quot;--aspect-ratio: 4/3&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/63/136263-050-7FBFFBD1/Eminem.jpg?w=400&amp;h=300&amp;c=crop&quot; alt=&quot;Eminem&quot;    /&gt;
+    
+
+&lt;button class=&quot;btn btn-circle position-absolute shadow btn-white&quot; aria-label=&quot;Zoom in&quot;&gt;
+&lt;em class=&quot;material-icons link-blue&quot; data-icon=&quot;zoom_in&quot;&gt;&lt;/em&gt;
+&lt;/button&gt;
+&lt;/a&gt;
+&lt;div class=&quot;card-body p-10 font-14&quot;&gt;
+Eminem &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+    &lt;/div&gt;
+
+    
+
+    
+        
+    
+
+    
+
+    &lt;button disabled class=&quot;prev-button js-prev-button position-absolute btn btn-circle shadow btn-lg btn-blue &quot; aria-label=&quot;Previous&quot;&gt;
+        &lt;span class=&quot;material-icons md-24&quot; data-icon=&quot;keyboard_arrow_left&quot;&gt;&lt;/span&gt;
+    &lt;/button&gt;
+    &lt;button disabled class=&quot;next-button js-next-button position-absolute btn btn-circle shadow btn-lg btn-blue &quot; aria-label=&quot;Next&quot;&gt;
+        &lt;span class=&quot;material-icons md-24&quot; data-icon=&quot;keyboard_arrow_right&quot;&gt;&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;text-center py-10&quot;&gt;
+&lt;a class=&quot;font-weight-bold&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fEminem%2fimages-videos&quot;&gt;See all media&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;facts-list pt-20 border-top&quot;&gt;
+&lt;div class=&quot;js-fact mb-10 line-clamp clamp-3&quot;&gt;
+&lt;dl&gt;
+&lt;dt&gt;Byname of: &lt;/dt&gt;
+&lt;dd&gt;Marshall Bruce Mathers III&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;button class=&quot;js-more-btn d-none btn btn-unstyled font-12 bg-white&quot; aria-label=&quot;Toggle more/less fact data&quot;&gt;
+&lt;em class=&quot;js-content link-blue&quot;&gt;(Show&amp;nbsp;more)&lt;/em&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&quot;js-fact mb-10 line-clamp clamp-3&quot;&gt;
+&lt;dl&gt;
+&lt;dt&gt;Born: &lt;/dt&gt;
+&lt;dd&gt;October 17, 1972, St. Joseph, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fplace%2fMissouri-state&quot;&gt;Missouri&lt;/a&gt;, U.S. (age 51)&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;button class=&quot;js-more-btn d-none btn btn-unstyled font-12 bg-white&quot; aria-label=&quot;Toggle more/less fact data&quot;&gt;
+&lt;em class=&quot;js-content link-blue&quot;&gt;(Show&amp;nbsp;more)&lt;/em&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&quot;js-fact mb-10 line-clamp clamp-3&quot;&gt;
+&lt;dl&gt;
+&lt;dt&gt;Awards And Honors: &lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fRock-and-Roll-Hall-of-Fame-and-Museum&quot;&gt;Rock and Roll Hall of Fame and Museum (2022)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2014)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2014)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2010)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2009)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2009)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2003)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2003)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fAcademy-Award&quot;&gt;Academy Award (2003)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2002)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2000)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (2000)&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fart%2fGrammy-Award&quot;&gt;Grammy Award (1999)&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;button class=&quot;js-more-btn d-none btn btn-unstyled font-12 bg-white&quot; aria-label=&quot;Toggle more/less fact data&quot;&gt;
+&lt;em class=&quot;js-content link-blue&quot;&gt;(Show&amp;nbsp;more)&lt;/em&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&quot;js-fact mb-0 line-clamp clamp-3&quot;&gt;
+&lt;dl&gt;
+&lt;dt&gt;Notable Works: &lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fCurtain-Call-album&quot;&gt;“Curtain Call: The Hits”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fEncore-album&quot;&gt;“Encore”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fKamikaze-by-Eminem&quot;&gt;“Kamikaze”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fLove-the-Way-You-Lie&quot;&gt;“Love the Way You Lie”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fMy-Name-Is&quot;&gt;“My Name Is”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fRecovery-album-by-Eminem&quot;&gt;“Recovery”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fRelapse-album-by-Eminem&quot;&gt;“Relapse”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fRevival-Eninem-album&quot;&gt;“Revival”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fThe-Eminem-Show&quot;&gt;“The Eminem Show”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fThe-Marshall-Mathers-LP&quot;&gt;“The Marshall Mathers LP”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fThe-Marshall-Mathers-LP-2&quot;&gt;“The Marshall Mathers LP 2”&lt;/a&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ftopic%2fThe-Slim-Shady-LP&quot;&gt;“The Slim Shady LP”&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;button class=&quot;js-more-btn d-none btn btn-unstyled font-12 bg-white&quot; aria-label=&quot;Toggle more/less fact data&quot;&gt;
+&lt;em class=&quot;js-content link-blue&quot;&gt;(Show&amp;nbsp;more)&lt;/em&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;text-center mt-20&quot;&gt;
+&lt;a class=&quot;btn btn-sm btn-outline-blue border&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ffacts%2fEminem&quot;&gt;
+See all related content &amp;rarr;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class=&quot;with-dotted-border recent-news mb-20 d-flex flex-column float-false&quot;&gt;
+&lt;h2 class=&quot;font-weight-bold font-16 mt-15 mb-10&quot;&gt;
+Recent News&lt;/h2&gt;
+
+&lt;div class=&quot;mb-15&quot;&gt;
+&lt;div class=&quot;recent-news-section mb-10&quot;&gt;
+&lt;div class=&quot;font-12&quot;&gt;
+June 25, 2024, 5:36 AM ET (Billboard)
+&lt;/div&gt;
+&lt;a class=&quot;d-block font-14 gtm-ap-news-link font-weight-semi-bold&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.billboard.com%2fmusic%2frb-hip-hop%2feminem-formula-1-grand-prix-concert-austin-1235716792&quot; rel=&quot;nofollow&quot;&gt;Eminem to Headline 2024 Formula 1 U.S. Grand Prix Concert in Texas: ‘Dare Me to Drive?!’&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;recent-news-section mb-10&quot;&gt;
+&lt;div class=&quot;font-12&quot;&gt;
+June 14, 2024, 8:30 AM ET (Billboard)
+&lt;/div&gt;
+&lt;a class=&quot;d-block font-14 gtm-ap-news-link font-weight-semi-bold&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.billboard.com%2fpro%2feminem-houdini-number-1-debut-streaming-songs-chart&quot; rel=&quot;nofollow&quot;&gt;Eminem's 'Houdini' Debuts at No. 1 on Streaming Songs Chart&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;recent-news-section mb-10&quot;&gt;
+&lt;div class=&quot;font-12&quot;&gt;
+June 12, 2024, 10:12 AM ET (Billboard)
+&lt;/div&gt;
+&lt;a class=&quot;d-block font-14 gtm-ap-news-link font-weight-semi-bold&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fca.billboard.com%2fmusic%2fchart-beat%2feminem-houdini-billboard-canadian-hot-100&quot; rel=&quot;nofollow&quot;&gt;Eminem's 'Houdini' Scores a No. 1 Debut on the Canadian Hot 100&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;recent-news-section mb-10&quot;&gt;
+&lt;div class=&quot;font-12&quot;&gt;
+June 12, 2024, 7:12 AM ET (Billboard)
+&lt;/div&gt;
+&lt;a class=&quot;d-block font-14 gtm-ap-news-link font-weight-semi-bold&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.billboard.com%2fmusic%2frb-hip-hop%2feminem-when-im-gone-video-billion-views-youtube-1235707949&quot; rel=&quot;nofollow&quot;&gt;Eminem’s ‘When I’m Gone’ Soars Past 1 Billion Views on YouTube&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;recent-news-section &quot;&gt;
+&lt;div class=&quot;font-12&quot;&gt;
+June 11, 2024, 4:47 AM ET (Billboard)
+&lt;/div&gt;
+&lt;a class=&quot;d-block font-14 gtm-ap-news-link font-weight-semi-bold&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.billboard.com%2flists%2fpost-malone-morgan-wallen-eminem-hot-100-top-10&quot; rel=&quot;nofollow&quot;&gt;Post Malone &amp; Morgan Wallen Lead Billboard Hot 100 for Fourth Week, Eminem Debuts at No. 2&lt;/a&gt;
+&lt;/div&gt;
+&lt;button class=&quot;show-more-button js-toggle-recent-news d-flex btn btn-unstyled font-14 pr-10 rounded-sm mt-10&quot; aria-label=&quot;Toggle additional news items&quot;&gt;
+&lt;em class=&quot;material-icons&quot; data-icon=&quot;expand_more&quot;&gt;&lt;/em&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;!--[BEFORE-ARTICLE]--&gt;&lt;span class=&quot;marker before-article&quot;&gt;&lt;/span&gt;&lt;section data-level=&quot;1&quot; id=&quot;ref1&quot;&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;&lt;strong&gt;&lt;span id=&quot;ref947006&quot;&gt;&lt;/span&gt;Eminem&lt;/strong&gt; (born October 17, 1972, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fSaint-Joseph&quot; class=&quot;md-crosslink autoxref&quot; data-show-preview=&quot;true&quot;&gt;St. Joseph&lt;/a&gt;, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fMissouri-state&quot; class=&quot;md-crosslink autoxref&quot; data-show-preview=&quot;true&quot;&gt;Missouri&lt;/a&gt;, U.S.) is an American rapper, record producer, and actor who is known as one of the most-controversial and best-selling artists of the early 21st century.&lt;/p&gt;&lt;!--[P1]--&gt;&lt;span class=&quot;marker p1&quot;&gt;&lt;/span&gt;&lt;!--[AM1]--&gt;&lt;span class=&quot;marker AM1 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD1]--&gt;&lt;span class=&quot;marker MOD1 mod-inline&quot;&gt;&lt;/span&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;Mathers had a turbulent childhood, marked by &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fpoverty&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;poverty&lt;/a&gt; and &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off eb&quot; data-term=&quot;allegations&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fdictionary%2fallegations&quot; data-type=&quot;EB&quot;&gt;allegations&lt;/a&gt; of abuse. At age 14 he began rapping in clubs in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fDetroit&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Detroit&lt;/a&gt;, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fMichigan&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Michigan&lt;/a&gt;, and, when unexcused absences kept him in the ninth grade for the third year, he quit school, determined to make it in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fhip-hop&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;hip-hop&lt;/a&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fmusic&quot; class=&quot;md-crosslink autoxref&quot; data-show-preview=&quot;true&quot;&gt;music&lt;/a&gt;. As Eminem, he made a name for himself in the hip-hop underground, both as a solo artist and as a member of the Detroit-based &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2frap&quot; class=&quot;md-crosslink autoxref&quot; data-show-preview=&quot;true&quot;&gt;rap&lt;/a&gt; sextet D12 (also known as the Dirty Dozen). His first album, &lt;em&gt;Infinite&lt;/em&gt; (1996), sold poorly, however, and he continued to work menial jobs.&lt;/p&gt;&lt;!--[P2]--&gt;&lt;span class=&quot;marker p2&quot;&gt;&lt;/span&gt;&lt;!--[AM2]--&gt;&lt;span class=&quot;marker AM2 am-inline&quot;&gt;&lt;/span&gt;&lt;a class=&quot;link-module shadow-sm d-block qa-quiz-module&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fquiz%2foscar-worthy-movie-trivia&quot; data-link-module-iframe-link=&quot;&quot;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        &lt;img loading=&quot;lazy&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/23/114923-131-785286EA/projection-screen-movie-theater-cinema.jpg&quot; alt=&quot;Empty movie theater and blank screen (theatre, motion pictures, cinema).&quot; class=&quot;rounded-sm mr-15&quot; width=&quot;70&quot;  /&gt;
+    
+
+
+
+
+&lt;div class=&quot;line-clamp clamp-5&quot;&gt;
+&lt;div class=&quot;module-title bg-green&quot;&gt;Britannica Quiz&lt;/div&gt;
+&lt;div class=&quot;font-weight-semi-bold mt-5&quot;&gt;Oscar-Worthy Movie Trivia&lt;/div&gt;
+&lt;/div&gt;
+&lt;/a&gt;&lt;!--[MOD2]--&gt;&lt;span class=&quot;marker MOD2 mod-inline&quot;&gt;&lt;/span&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;When Eminem placed second in the freestyle category at the 1997 Rap Olympics in &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fLos-Angeles-California&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Los Angeles&lt;/a&gt;, he came to the attention of &lt;span id=&quot;ref947009&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fDr-Dre&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Dr. Dre&lt;/a&gt;, founding member of pioneering rappers N.W.A. and the head of Aftermath Entertainment. By that time Eminem had developed the persona of the inhibitionless Slim Shady, who gave voice to Eminem’s id in often vulgar and violent lyrics. With Dr. Dre as his producer and mentor, Eminem released &lt;em&gt;&lt;span id=&quot;ref947010&quot;&gt;&lt;/span&gt;The Slim Shady LP&lt;/em&gt; early in 1999. Benefiting from the inventive channel-surfing &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fmusic-video&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;music video&lt;/a&gt; for the hit song “&lt;span id=&quot;ref1219889&quot;&gt;&lt;/span&gt;My Name Is” and the instant credibility of Dr. Dre’s involvement, the album sold several million copies, and Eminem won two &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fGrammy-Award&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Grammy Awards&lt;/a&gt; and four &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fMTV&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;MTV&lt;/a&gt; Video Music Awards.&lt;/p&gt;&lt;!--[P3]--&gt;&lt;span class=&quot;marker p3&quot;&gt;&lt;/span&gt;&lt;!--[AM3]--&gt;&lt;span class=&quot;marker AM3 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD3]--&gt;&lt;span class=&quot;marker MOD3 mod-inline&quot;&gt;&lt;/span&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;Grounded in his life experience but seemingly reflecting a troubled psyche, Eminem’s songs outraged many, including the &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fGLAAD&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Gay &amp;amp; Lesbian Alliance Against Defamation&lt;/a&gt;, which denounced him as a homophobic misogynist. His &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;tumultuous&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2ftumultuous&quot; data-type=&quot;MW&quot;&gt;tumultuous&lt;/a&gt; relationship with his wife, Kim, was chronicled in songs in which he rapped about killing her. In 2000 Eminem was charged with assault when he allegedly pistol-whipped a man he saw kissing her; the couple divorced in 2001, and their relationship remained rocky (in 2006 the couple remarried and divorced again). His mother also sued him for defaming her in song and in interviews.&lt;/p&gt;&lt;!--[P4]--&gt;&lt;span class=&quot;marker p4&quot;&gt;&lt;/span&gt;&lt;!--[AM4]--&gt;&lt;span class=&quot;marker AM4 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD4]--&gt;&lt;span class=&quot;marker MOD4 mod-inline&quot;&gt;&lt;/span&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;In 2000 Eminem released &lt;em&gt;&lt;span id=&quot;ref947011&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2fThe-Marshall-Mathers-LP&quot; class=&quot;md-crosslink&quot;&gt;The Marshall Mathers LP&lt;/a&gt;&lt;/em&gt;, which set a record in the &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fplace%2fUnited-States&quot; class=&quot;md-crosslink autoxref&quot; data-show-preview=&quot;true&quot;&gt;United States&lt;/a&gt; for the fastest-selling rap album. The incredible success of the album, which included the provocative hit singles “The Real Slim Shady” and “Stan,” brought more controversy. To silence critics, in 2001 Eminem performed a duet with openly gay musician &lt;span id=&quot;ref1219890&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fElton-John&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Elton John&lt;/a&gt; at the Grammy Awards, where &lt;em&gt;The Marshall Mathers LP&lt;/em&gt; was nominated for best album of the year. Later that year he recorded the album &lt;em&gt;&lt;span id=&quot;ref1219894&quot;&gt;&lt;/span&gt;Devil’s Night&lt;/em&gt; with D12 and toured with the group. He also created his own record label, Shady Records. The D12 &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;collective&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fcollective&quot; data-type=&quot;MW&quot;&gt;collective&lt;/a&gt;, 50 Cent, and other rappers signed to and released albums with the label.&lt;/p&gt;&lt;!--[P5]--&gt;&lt;span class=&quot;marker p5&quot;&gt;&lt;/span&gt;&lt;!--[AM5]--&gt;&lt;span class=&quot;marker AM5 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD5]--&gt;&lt;span class=&quot;marker MOD5 mod-inline&quot;&gt;&lt;/span&gt;&lt;div class=&quot;assemblies&quot;&gt;&lt;div class=&quot;w-100&quot;&gt;&lt;figure class=&quot;md-assembly card print-false&quot; data-assembly-id=&quot;107510&quot; data-asm-type=&quot;image&quot;&gt;&lt;div class=&quot;md-assembly-wrapper card-media&quot; data-type=&quot;image&quot;&gt;&lt;a style=&quot;min-height: 160px;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f58%2f103158-050-7069AFD2%2fEminem-8-Mile.jpg&quot; class=&quot;gtm-assembly-link position-relative d-flex align-items-center justify-content-center media-overlay-link card-media&quot; data-href=&quot;/media/1/711250/107510&quot;&gt;&lt;picture&gt;&lt;source media=&quot;(min-width: 680px)&quot; srcset=&quot;https://cdn.britannica.com/58/103158-050-7069AFD2/Eminem-8-Mile.jpg?w=300&quot;&gt;&lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/58/103158-050-7069AFD2/Eminem-8-Mile.jpg?w=300&quot; alttext=&quot;Eminem in 8 Mile&quot; data-width=&quot;1600&quot; data-height=&quot;1074&quot; loading=&quot;eager&quot;&gt;&lt;/picture&gt;&lt;button class=&quot;magnifying-glass btn btn-circle position-absolute shadow btn-white&quot; aria-label=&quot;Zoom in&quot;&gt;&lt;em class=&quot;material-icons link-blue&quot; data-icon=&quot;zoom_in&quot;&gt;&lt;/em&gt;&lt;/button&gt;&lt;/a&gt;&lt;/div&gt;&lt;figcaption class=&quot;card-body&quot;&gt;&lt;a class=&quot;gtm-assembly-link md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f58%2f103158-050-7069AFD2%2fEminem-8-Mile.jpg&quot; data-href=&quot;/media/1/711250/107510&quot;&gt;Eminem in &lt;em&gt;8 Mile&lt;/em&gt;&lt;/a&gt;&lt;div class=&quot;md-assembly-caption mt-5 text-muted font-14 font-serif line-clamp&quot;&gt;&lt;span&gt;Eminem in &lt;em&gt;8 Mile&lt;/em&gt; (2002).&lt;/span&gt;&lt;button class=&quot;js-more-btn d-none btn btn-unstyled font-12 bg-white js-content&quot; aria-label=&quot;Toggle more/less fact data&quot;&gt;&lt;span class=&quot;link-blue&quot;&gt;(more)&lt;/span&gt;&lt;/button&gt;&lt;/div&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;Eminem returned in 2002 with &lt;em&gt;&lt;span id=&quot;ref1219891&quot;&gt;&lt;/span&gt;The Eminem Show&lt;/em&gt;, which proved to be nearly as popular as &lt;em&gt;The Marshall Mathers LP&lt;/em&gt;. Also that year he made his acting debut in the semiautobiographical &lt;em&gt;&lt;span id=&quot;ref1036627&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2ftopic%2f8-Mile&quot; class=&quot;md-crosslink&quot;&gt;8 Mile&lt;/a&gt;&lt;/em&gt;. The gritty &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fmotion-picture&quot; class=&quot;md-crosslink autoxref&quot; data-show-preview=&quot;true&quot;&gt;film&lt;/a&gt; was a critical and commercial success. The following year he won an &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fart%2fAcademy-Award&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Academy Award&lt;/a&gt; for “Lose Yourself,” a song featured in the movie. After reteaming with D12 for &lt;em&gt;D12 World&lt;/em&gt; (2004), Eminem released &lt;em&gt;&lt;span id=&quot;ref1219892&quot;&gt;&lt;/span&gt;Encore&lt;/em&gt; (2004) and a greatest-hits set, &lt;em&gt;&lt;span id=&quot;ref1219893&quot;&gt;&lt;/span&gt;Curtain Call: The Hits&lt;/em&gt; (2005), both of which sold well but failed to garner as much attention as his previous albums had. He then stepped out of the public eye, resurfacing briefly in 2006 to eulogize friend and D12 member Proof, who was killed outside a Detroit nightclub. Two years later Eminem published the memoir &lt;em&gt;&lt;span id=&quot;ref1008093&quot;&gt;&lt;/span&gt;The Way I Am&lt;/em&gt;, which included photos, drawings, and lyrics.&lt;/p&gt;&lt;!--[P6]--&gt;&lt;span class=&quot;marker p6&quot;&gt;&lt;/span&gt;&lt;!--[AM6]--&gt;&lt;span class=&quot;marker AM6 am-inline&quot;&gt;&lt;/span&gt;&lt;DIV class=&quot;marketing-INLINE_SUBSCRIPTION marketing-content&quot; data-marketing-id=&quot;INLINE_SUBSCRIPTION&quot;&gt;&lt;div class=&quot;inline-subscription mb-30 mx-sm-20 font-16 text-center&quot;&gt;
+Get a Britannica Premium subscription and gain access to exclusive content. 
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fpremium.britannica.com%2fpremium-membership%2f%3futm%5fsource%3dinline%26utm%5fmedium%3dmendel%26utm%5fcampaign%3devergreen&quot; class=&quot;cta&quot;&gt;Subscribe Now&lt;/a&gt;
+&lt;/div&gt;&lt;/DIV&gt;&lt;!--[MOD6]--&gt;&lt;span class=&quot;marker MOD6 mod-inline&quot;&gt;&lt;/span&gt;&lt;div class=&quot;assemblies&quot;&gt;&lt;div class=&quot;w-100&quot;&gt;&lt;figure class=&quot;md-assembly card print-false&quot; data-assembly-id=&quot;238362&quot; data-asm-type=&quot;image&quot;&gt;&lt;div class=&quot;md-assembly-wrapper card-media&quot; data-type=&quot;image&quot;&gt;&lt;a style=&quot;min-height: 160px;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f64%2f136264-050-E96983FF%2fEminem-2009.jpg&quot; class=&quot;gtm-assembly-link position-relative d-flex align-items-center justify-content-center media-overlay-link card-media&quot; data-href=&quot;/media/1/711250/238362&quot;&gt;&lt;picture&gt;&lt;source media=&quot;(min-width: 680px)&quot; srcset=&quot;https://cdn.britannica.com/64/136264-050-E96983FF/Eminem-2009.jpg?w=300&quot;&gt;&lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://cdn.britannica.com/64/136264-050-E96983FF/Eminem-2009.jpg?w=300&quot; alttext=&quot;Eminem&quot; data-width=&quot;1600&quot; data-height=&quot;1067&quot; loading=&quot;eager&quot;&gt;&lt;/picture&gt;&lt;button class=&quot;magnifying-glass btn btn-circle position-absolute shadow btn-white&quot; aria-label=&quot;Zoom in&quot;&gt;&lt;em class=&quot;material-icons link-blue&quot; data-icon=&quot;zoom_in&quot;&gt;&lt;/em&gt;&lt;/button&gt;&lt;/a&gt;&lt;/div&gt;&lt;figcaption class=&quot;card-body&quot;&gt;&lt;a class=&quot;gtm-assembly-link md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2f64%2f136264-050-E96983FF%2fEminem-2009.jpg&quot; data-href=&quot;/media/1/711250/238362&quot;&gt;Eminem&lt;/a&gt;&lt;div class=&quot;md-assembly-caption mt-5 text-muted font-14 font-serif line-clamp&quot;&gt;&lt;span&gt;Eminem, 2009.&lt;/span&gt;&lt;button class=&quot;js-more-btn d-none btn btn-unstyled font-12 bg-white js-content&quot; aria-label=&quot;Toggle more/less fact data&quot;&gt;&lt;span class=&quot;link-blue&quot;&gt;(more)&lt;/span&gt;&lt;/button&gt;&lt;/div&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/div&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;&lt;em&gt;&lt;span id=&quot;ref1036628&quot;&gt;&lt;/span&gt;Relapse&lt;/em&gt; (2009) marked Eminem’s first collection of new material in five years. Although it featured solid production from Dr. Dre, the album met with middling reviews because of its over-the-top attempts to shock and its somewhat dated catalog of pop &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;culture&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fculture&quot; data-type=&quot;MW&quot;&gt;culture&lt;/a&gt; references. Nevertheless, the single “Crack a Bottle” became Eminem’s second song to top the &lt;em&gt;Billboard&lt;/em&gt; singles chart (after “Lose Yourself”), and Eminem won Grammy Awards for both the song and the album. His next album, &lt;em&gt;&lt;span id=&quot;ref1081301&quot;&gt;&lt;/span&gt;Recovery&lt;/em&gt; (2010), was a response to the &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;criticisms&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fcriticisms&quot; data-type=&quot;MW&quot;&gt;criticisms&lt;/a&gt; leveled at &lt;em&gt;Relapse&lt;/em&gt;. Although Eminem was no longer at the vanguard of hip-hop, &lt;em&gt;Recovery&lt;/em&gt; demonstrated that he remained a potent commercial force, as the soul-baring singles “Not Afraid” and “&lt;span id=&quot;ref1219902&quot;&gt;&lt;/span&gt;Love the Way You Lie” (featuring the singer &lt;span id=&quot;ref1219900&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fRihanna&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Rihanna&lt;/a&gt;) both became major hits. Eminem reteamed with Rihanna on “The Monster,” from &lt;em&gt;&lt;span id=&quot;ref1219903&quot;&gt;&lt;/span&gt;The Marshall Mathers LP 2&lt;/em&gt; (2013), and the album became his sixth to win the Grammy Award for best rap album.&lt;/p&gt;&lt;!--[P7]--&gt;&lt;span class=&quot;marker p7&quot;&gt;&lt;/span&gt;&lt;!--[AM7]--&gt;&lt;span class=&quot;marker AM7 am-inline&quot;&gt;&lt;/span&gt;&lt;div class=&quot;one-good-fact-module&quot;&gt;
+&lt;/div&gt;&lt;!--[MOD7]--&gt;&lt;span class=&quot;marker MOD7 mod-inline&quot;&gt;&lt;/span&gt;&lt;p class=&quot;topic-paragraph&quot;&gt;Eminem received mixed reviews for &lt;em&gt;&lt;span id=&quot;ref1254951&quot;&gt;&lt;/span&gt;Revival&lt;/em&gt; (2017), and &lt;em&gt;&lt;span id=&quot;ref1264089&quot;&gt;&lt;/span&gt;Kamikaze&lt;/em&gt; (2018) was described by many critics as somewhat curmudgeonly in tone. Such &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;criticism&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fcriticism&quot; data-type=&quot;MW&quot;&gt;criticism&lt;/a&gt; had little impact on sales, however, and in 2020 &lt;em&gt;&lt;span id=&quot;ref1280440&quot;&gt;&lt;/span&gt;Music to Be Murdered By&lt;/em&gt; became his 10th consecutive album to debut at the top of the &lt;em&gt;Billboard&lt;/em&gt; 200 chart. In addition, Eminem occasionally &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;collaborated&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2fcollaborated&quot; data-type=&quot;MW&quot;&gt;collaborated&lt;/a&gt; with rapper Royce da 5′9″ under the name Bad Meets Evil; among their releases was the EP &lt;em&gt;Hell: The Sequel&lt;/em&gt; (2011). In 2022 Eminem performed with other hip-hop stars—including Dr. Dre, &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fMary-J-Blige&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Mary J. Blige&lt;/a&gt;, and &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fbiography%2fSnoop-Dogg&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Snoop Dogg&lt;/a&gt;—at the &lt;span id=&quot;ref1300856&quot;&gt;&lt;/span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.britannica.com%2fsports%2fSuper-Bowl&quot; class=&quot;md-crosslink&quot; data-show-preview=&quot;true&quot;&gt;Super Bowl&lt;/a&gt; halftime show. Later that year he was selected for &lt;a class=&quot;md-dictionary-link md-dictionary-tt-off mw&quot; data-term=&quot;induction&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.merriam-webster.com%2fdictionary%2finduction&quot; data-type=&quot;MW&quot;&gt;induction&lt;/a&gt; into the Rock and Roll Hall of Fame.&lt;/p&gt;&lt;!--[P8]--&gt;&lt;span class=&quot;marker p8&quot;&gt;&lt;/span&gt;&lt;!--[AM8]--&gt;&lt;span class=&quot;marker AM8 am-inline&quot;&gt;&lt;/span&gt;&lt;!--[MOD8]--&gt;&lt;span class=&quot;marker MOD8 mod-inline&quot;&gt;&lt;/span&gt;&lt;/section&gt;           &lt;span class=&quot;md-signature&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2feditor%2fThe-Editors-of-Encyclopaedia-Britannica%2f4419&quot;&gt;The Editors of Encyclopaedia Britannica&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;md-signature&quot;&gt;This article was most recently revised and updated by &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcontributor%2fencyclopaedia-britannica%2f12989892&quot;&gt;Encyclopaedia Britannica&lt;/a&gt;.&lt;/span&gt;&lt;!--[END-OF-CONTENT]--&gt;&lt;span class=&quot;marker end-of-content&quot;&gt;&lt;/span&gt;&lt;!--[AFTER-ARTICLE]--&gt;&lt;span class=&quot;marker after-article&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+
+    &lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ai-dialog-placeholder&quot;&gt;&lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+
+                            &lt;aside class=&quot;col-md-da-320&quot;&gt;&lt;/aside&gt;
+                            &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+            &lt;/div&gt;
+
+        &lt;/article&gt;&lt;/div&gt;
+        &lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/main&gt;
+
+    &lt;div id=&quot;md-footer&quot;&gt;&lt;/div&gt; &lt;noscript&gt;&lt;iframe src=&quot;//www.googletagmanager.com/ns.html?id=GTM-5W6NC8&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;&lt;/iframe&gt;&lt;/noscript&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;_informizely_script_tag&quot;&gt;
+var IzWidget = IzWidget || {};
+(function (d)
+{ var scriptElement = d.createElement('script'); scriptElement.type = 'text/javascript'; scriptElement.async = true; scriptElement.src = &quot;https://insitez.blob.core.windows.net/site/f780f33e-a610-4ac2-af81-3eb184037547.js&quot;; var node = d.getElementById('_informizely_script_tag'); node.parentNode.insertBefore(scriptElement, node); }
+)(document);
+&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+&lt;script   class=&quot;marketing-page-info&quot; type=&quot;application/json&quot;&gt;
+{&quot;pageType&quot;:&quot;Topic&quot;,&quot;templateName&quot;:&quot;DESKTOP&quot;,&quot;pageNumber&quot;:1,&quot;pagesTotal&quot;:1,&quot;pageId&quot;:711250,&quot;pageLength&quot;:858,&quot;initialLoad&quot;:true,&quot;lastPageOfScroll&quot;:false}
+&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+&lt;script   class=&quot;marketing-content-info&quot; type=&quot;application/json&quot;&gt;
+[{&quot;id&quot;:1012,&quot;name&quot;:&quot;SUBSCRIPTION_LINK_DESKTOP&quot;,&quot;selector&quot;:&quot;#fake&quot;}]
+&lt;/script&gt;
+
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.britannica.com%2fmendel-resources%2f3-119%2fjs%2flibs%2fjquery-3.5.0.min.js%3fv%3d3.119.21&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; data-type=&quot;Init Mendel Code Splitting&quot;&gt;
+              (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: 'https://cdn.britannica.com/mendel-resources/3-119/dist/topic-page.js?v=3.119.21'
+                });
+              })();
+            &lt;/script&gt;
+
+
+
+
+
+
+
+
+&lt;script   class=&quot;analytics-metadata&quot; type=&quot;application/json&quot;&gt;
+{&quot;leg&quot;:&quot;B&quot;,&quot;userType&quot;:&quot;ANONYMOUS&quot;,&quot;pageType&quot;:&quot;Topic&quot;,&quot;pageSubtype&quot;:null,&quot;articleTemplateType&quot;:&quot;BIO_MEDIUM&quot;,&quot;gisted&quot;:false}
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.googletagmanager.com%2fgtag%2fjs%3fid%3dUA-6636134-11&quot; async=&quot;async&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+
+        function gaPageLoad(pathname, documentLocation) {
+            pathname = pathname || location.pathname;
+            documentLocation = documentLocation || document.querySelector('html').getAttribute('data-ytrk-page');
+
+            if (documentLocation) {
+                documentLocation = documentLocation.replace(/ /g, '/');
+
+                if (documentLocation.charAt(0) !== '/') {
+                    documentLocation = '/' + documentLocation;
+                }
+
+                window.dataLayer = window.dataLayer || [];
+
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+
+                gtag('js', new Date());
+
+                gtag('set', {
+                    'dimension1': 'ANONYMOUS',
+                    'dimension2': 'B',
+                    'dimension3': 'B'
+                });
+
+                //console.log( &quot;*****[UA]***** -&gt; &quot;, documentLocation + pathname + decodeURI(location.search) );
+
+                gtag('config', 'UA-6636134-11', {
+                    'page_path': documentLocation + pathname + decodeURI(location.search),
+                    'link_attribution': true,
+                });
+            }
+        }
+
+        gaPageLoad();
+    &lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+    &lt;/script&gt;
+
+    &lt;script type=&quot;text/javascript&quot;&gt;
+            ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,EBStat);}
+                     catch(err){}
+                 } );
+            })();
+            &lt;/script&gt;
+        &lt;div id=&quot;bc-fixed-dialogue&quot;&gt;&lt;/div&gt;
+&lt;script defer src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstatic.cloudflareinsights.com%2fbeacon.min.js%2fvcd15cbe7772f49c399c6a5babf22c1241717689176015&quot; integrity=&quot;sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==&quot; data-cf-beacon='{&quot;rayId&quot;:&quot;89b671929d0d1c2f&quot;,&quot;version&quot;:&quot;2024.4.1&quot;,&quot;token&quot;:&quot;5cc7d7124de641b181da990fc8c9a0b6&quot;}' crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+
+
+</Content>
+</Section>
+</Archive>

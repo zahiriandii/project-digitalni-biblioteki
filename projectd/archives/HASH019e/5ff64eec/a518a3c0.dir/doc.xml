@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Leonardo\LeonardoFacts\Fact3.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">7166</Metadata>
+    <Metadata name="Source">Fact3.jpeg</Metadata>
+    <Metadata name="SourceFile">Fact3.jpeg</Metadata>
+    <Metadata name="srclink_file">Fact3.jpeg</Metadata>
+    <Metadata name="srclinkFile">Fact3.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Venhar Ademi</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Andi Zahiri</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A collection of interesting and lesser-known facts about Leonardo DiCaprio, including details about his personal life, career, and achievements.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Hollywood Database</Metadata>
+    <Metadata name="dc.Relation">Related articles on Leonardo DiCaprio's movies and biography </Metadata>
+    <Metadata name="dc.Rights">All rights reserved</Metadata>
+    <Metadata name="dc.Source">Hollywood Reporter Archives</Metadata>
+    <Metadata name="dc.Subject">Leonardo DiCaprio, Facts, Trivia, Interesting Information, Biography</Metadata>
+    <Metadata name="dc.Title">Leonardo Facts</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Leonardo DiCaprio Facts Compilation</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.theguardian.com/film/filmblog/2014/nov/11/40-things-about-leonardo-dicaprio-birthday-trivia</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Fact3</Metadata>
+    <Metadata name="Identifier">HASH019e5ff64eeca518a3c01c88</Metadata>
+    <Metadata name="lastmodified">1719848823</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849044</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH019e/5ff64eec/a518a3c0.dir</Metadata>
+    <Metadata name="gsdlassocfile">Fact3.jpeg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

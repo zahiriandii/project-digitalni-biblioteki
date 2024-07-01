@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\RW1pbmVt\RW1pbmVtRGlzY29ncmFwaHk=\RW1pbmVtIC0gU29uZzE=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7593368</Metadata>
+    <Metadata name="Source">Eminem - Song1.mp3</Metadata>
+    <Metadata name="SourceFile">RW1pbmVtIC0gU29uZzE=.mp3</Metadata>
+    <Metadata name="mp3">Eminem - Song1</Metadata>
+    <Metadata name="srcurl">RW1pbmVtIC0gU29uZzE=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">RW1pbmVtIC0gU29uZzE=.mp3</Metadata>
+    <Metadata name="srclinkFile">RW1pbmVtIC0gU29uZzE=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Andi Zahiri</Metadata>
+    <Metadata name="dc.Coverage">Global, USA</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A comprehensive discography of Eminem, including all albums, singles, and collaborations.</Metadata>
+    <Metadata name="dc.Format">PDF, MP3, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music Records Database</Metadata>
+    <Metadata name="dc.Relation">Eminem Biography, Eminem Awards</Metadata>
+    <Metadata name="dc.Rights">All Rights Reserved</Metadata>
+    <Metadata name="dc.Source">Official Eminem Website, Music Records</Metadata>
+    <Metadata name="dc.Subject">Eminem, Discography, Albums, Singles, Music</Metadata>
+    <Metadata name="dc.Title">Eminem Discography </Metadata>
+    <Metadata name="dc.Type">Text, Videos, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Eminem Discography: Complete List of Albums and Singles</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.discogs.com/artist/38661-Eminem</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Eminem - Song1</Metadata>
+    <Metadata name="Identifier">HASH70e9950932cc9165f542e6</Metadata>
+    <Metadata name="lastmodified">1719848819</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849030</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH70e9.dir</Metadata>
+    <Metadata name="gsdlassocfile">RW1pbmVtIC0gU29uZzE=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

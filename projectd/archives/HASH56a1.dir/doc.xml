@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Leonardo\LeonardoAwards\Leonardo Awards Web.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">113432</Metadata>
+    <Metadata name="Source">Leonardo Awards Web.html</Metadata>
+    <Metadata name="SourceFile">Leonardo Awards Web.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">The Leonardo Award - The Leonardo</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Leonardo/LeonardoAwards/Leonardo Awards Web.html</Metadata>
+    <Metadata name="UTF8URL">http://Leonardo/LeonardoAwards/Leonardo Awards Web.html</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Andi Zahiri</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A comprehensive list of awards won by Leonardo DiCaprio throughout his career.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Hollywood Database</Metadata>
+    <Metadata name="dc.Relation">Related articles on Leonardo DiCaprio's career</Metadata>
+    <Metadata name="dc.Rights">All rights reserved</Metadata>
+    <Metadata name="dc.Source">Hollywood Reporter Archives</Metadata>
+    <Metadata name="dc.Subject">Awards, Leonardo DiCaprio, Oscars, Golden Globes</Metadata>
+    <Metadata name="dc.Title">Leonardo Awards</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Leonardo DiCaprio Awards Compilation</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://en.as.com/latest_news/how-many-academy-awards-does-leonardo-dicaprio-have-and-how-many-times-was-he-nominated-for-an-oscar-n/</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH56a12995e5006fb9ac8746</Metadata>
+    <Metadata name="lastmodified">1719848823</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849040</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH56a1.dir</Metadata>
+  </Description>
+  <Content>
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+var gemSettings = {&quot;isTouch&quot;:&quot;&quot;,&quot;forcedLasyDisabled&quot;:&quot;&quot;,&quot;tabletPortrait&quot;:&quot;1&quot;,&quot;tabletLandscape&quot;:&quot;&quot;,&quot;topAreaMobileDisable&quot;:&quot;&quot;,&quot;parallaxDisabled&quot;:&quot;&quot;,&quot;fillTopArea&quot;:&quot;&quot;,&quot;themePath&quot;:&quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem&quot;,&quot;rootUrl&quot;:&quot;https:\\/\\/theleonardo.org&quot;,&quot;mobileEffectsEnabled&quot;:&quot;&quot;,&quot;isRTL&quot;:&quot;&quot;};
+(function() {
+    function isTouchDevice() {
+        return (('ontouchstart' in window) ||
+            (navigator.MaxTouchPoints &gt; 0) ||
+            (navigator.msMaxTouchPoints &gt; 0));
+    }
+
+    window.gemSettings.isTouch = isTouchDevice();
+
+    function userAgentDetection() {
+        var ua = navigator.userAgent.toLowerCase(),
+        platform = navigator.platform.toLowerCase(),
+        UA = ua.match(/(opera|ie|firefox|chrome|version)[\\s\\/:]([\\w\\d\\.]+)?.*?(safari|version[\\s\\/:]([\\w\\d\\.]+)|$)/) || [null, 'unknown', 0],
+        mode = UA[1] == 'ie' &amp; &amp; document.documentMode;
+
+        window.gemBrowser = {
+            name: (UA[1] == 'version') ? UA[3] : UA[1],
+            version: UA[2],
+            platform: {
+                name: ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android)/) || platform.match(/mac|win|linux/) || ['other'])[0]
+                }
+        };
+            }
+
+    window.updateGemClientSize = function() {
+        if (window.gemOptions == null || window.gemOptions == undefined) {
+            window.gemOptions = {
+                first: false,
+                clientWidth: 0,
+                clientHeight: 0,
+                innerWidth: -1
+            };
+        }
+
+        window.gemOptions.clientWidth = window.innerWidth || document.documentElement.clientWidth;
+        if (document.body != null &amp; &amp; !window.gemOptions.clientWidth) {
+            window.gemOptions.clientWidth = document.body.clientWidth;
+        }
+
+        window.gemOptions.clientHeight = window.innerHeight || document.documentElement.clientHeight;
+        if (document.body != null &amp; &amp; !window.gemOptions.clientHeight) {
+            window.gemOptions.clientHeight = document.body.clientHeight;
+        }
+    };
+
+    window.updateGemInnerSize = function(width) {
+        window.gemOptions.innerWidth = width != undefined ? width : (document.body != null ? document.body.clientWidth : 0);
+    };
+
+    userAgentDetection();
+    window.updateGemClientSize(true);
+
+    window.gemSettings.lasyDisabled = window.gemSettings.forcedLasyDisabled || (!window.gemSettings.mobileEffectsEnabled &amp; &amp; (window.gemSettings.isTouch || window.gemOptions.clientWidth &lt;= 800));
+})();
+(function() {
+    if (window.gemBrowser.name == 'safari') {
+        try {
+            var safariVersion = parseInt(window.gemBrowser.version);
+        } catch(e) {
+            var safariVersion = 0;
+        }
+        if (safariVersion &gt;= 9) {
+            window.gemSettings.parallaxDisabled = true;
+            window.gemSettings.fillTopArea = true;
+        }
+    }
+})();
+(function() {
+    var fullwithData = {
+        page: null,
+        pageWidth: 0,
+        pageOffset: {},
+        fixVcRow: true,
+        pagePaddingLeft: 0
+    };
+
+    function updateFullwidthData() {
+        fullwithData.pageOffset = fullwithData.page.getBoundingClientRect();
+        fullwithData.pageWidth = parseFloat(fullwithData.pageOffset.width);
+        fullwithData.pagePaddingLeft = 0;
+
+        if (fullwithData.page.className.indexOf('vertical-header') != -1) {
+            fullwithData.pagePaddingLeft = 45;
+            if (fullwithData.pageWidth &gt;= 1600) {
+                fullwithData.pagePaddingLeft = 360;
+            }
+            if (fullwithData.pageWidth &lt; 980) {
+                fullwithData.pagePaddingLeft = 0;
+            }
+        }
+    }
+
+    function gem_fix_fullwidth_position(element) {
+        if (element == null) {
+            return false;
+        }
+
+        if (fullwithData.page == null) {
+            fullwithData.page = document.getElementById('page');
+            updateFullwidthData();
+        }
+
+        /*if (fullwithData.pageWidth &lt; 1170) {
+            return false;
+        }*/
+
+        if (!fullwithData.fixVcRow) {
+            return false;
+        }
+
+        if (element.previousElementSibling != null &amp; &amp; element.previousElementSibling != undefined &amp; &amp; element.previousElementSibling.className.indexOf('fullwidth-block') == -1) {
+            var elementParentViewportOffset = element.previousElementSibling.getBoundingClientRect();
+        } else {
+            var elementParentViewportOffset = element.parentNode.getBoundingClientRect();
+        }
+
+        /*if (elementParentViewportOffset.top &gt; window.gemOptions.clientHeight) {
+            fullwithData.fixVcRow = false;
+            return false;
+        }*/
+
+        if (element.className.indexOf('vc_row') != -1) {
+            var elementMarginLeft = -21;
+            var elementMarginRight = -21;
+        } else {
+            var elementMarginLeft = 0;
+            var elementMarginRight = 0;
+        }
+
+        var offset = parseInt(fullwithData.pageOffset.left + 0.5) - parseInt((elementParentViewportOffset.left &lt; 0 ? 0 : elementParentViewportOffset.left) + 0.5) - elementMarginLeft + fullwithData.pagePaddingLeft;
+        var offsetKey = window.gemSettings.isRTL ? 'right' : 'left';
+
+        element.style.position = 'relative';
+        element.style[offsetKey] = offset + 'px';
+        element.style.width = fullwithData.pageWidth - fullwithData.pagePaddingLeft + 'px';
+
+        if (element.className.indexOf('vc_row') == -1) {
+            element.setAttribute('data-fullwidth-updated', 1);
+        }
+
+        if (element.className.indexOf('vc_row') != -1 &amp; &amp; !element.hasAttribute('data-vc-stretch-content')) {
+            var el_full = element.parentNode.querySelector('.vc_row-full-width-before');
+            var padding = -1 * offset;
+            0 &gt; padding &amp; &amp; (padding = 0);
+            var paddingRight = fullwithData.pageWidth - padding - el_full.offsetWidth + elementMarginLeft + elementMarginRight;
+            0 &gt; paddingRight &amp; &amp; (paddingRight = 0);
+            element.style.paddingLeft = padding + 'px';
+            element.style.paddingRight = paddingRight + 'px';
+        }
+    }
+
+    window.gem_fix_fullwidth_position = gem_fix_fullwidth_position;
+
+    document.addEventListener('DOMContentLoaded', function() {
+        var classes = [];
+
+        if (window.gemSettings.isTouch) {
+            document.body.classList.add('thegem-touch');
+        }
+
+        if (window.gemSettings.lasyDisabled &amp; &amp; !window.gemSettings.forcedLasyDisabled) {
+            document.body.classList.add('thegem-effects-disabled');
+        }
+    });
+
+    if (window.gemSettings.parallaxDisabled) {
+        var head  = document.getElementsByTagName('head')[0],
+            link  = document.createElement('style');
+        link.rel  = 'stylesheet';
+        link.type = 'text/css';
+        link.innerHTML = &quot;.fullwidth-block.fullwidth-block-parallax-fixed .fullwidth-block-background { background-attachment: scroll !important; }&quot;;
+        head.appendChild(link);
+    }
+})();
+
+(function() {
+    setTimeout(function() {
+        var preloader = document.getElementById('page-preloader');
+        if (preloader != null &amp; &amp; preloader != undefined) {
+            preloader.className += ' preloader-loaded';
+        }
+    }, window.pagePreloaderHideTime || 1000);
+})();
+&lt;/script&gt;
+
+&lt;div id=&quot;page-preloader&quot;&gt;&lt;div class=&quot;page-preloader-spin&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+
+
+&lt;div id=&quot;page&quot; class=&quot;layout-fullwidth header-style-3&quot;&gt;
+
+&lt;a href=&quot;_httpsamepagelink_#page&quot; class=&quot;scroll-top-button&quot;&gt;&lt;/a&gt;
+
+
+&lt;div class=&quot;top-area-background top-area-scroll-hide&quot;&gt;
+&lt;div id=&quot;top-area&quot; class=&quot;top-area top-area-style-default top-area-alignment-justified&quot;&gt;
+&lt;div class=&quot;container container-fullwidth&quot;&gt;
+&lt;div class=&quot;top-area-items inline-inside&quot;&gt;
+&lt;div class=&quot;top-area-block top-area-contacts&quot;&gt;&lt;div class=&quot;gem-contacts inline-inside&quot;&gt;&lt;div class=&quot;gem-contacts-item gem-contacts-address&quot;&gt;209 E 500 S, Salt Lake City, UT 84111&lt;/div&gt;&lt;div class=&quot;gem-contacts-item gem-contacts-phone&quot;&gt;&lt;a href=&quot;_httpdocimg_/tel:.\\801.531.9800&quot;&gt;801.531.9800&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;top-area-block top-area-menu&quot;&gt;
+&lt;nav id=&quot;top-area-menu&quot;&gt;
+&lt;/nav&gt;
+&lt;div class=&quot;top-area-button&quot;&gt;&lt;div class=&quot;gem-button-container gem-button-position-inline thegem-button-668037b173dc13002&quot;  &gt;&lt;a class=&quot;gem-button gem-button-size-tiny gem-button-style-flat gem-button-text-weight-normal gem-button-no-uppercase&quot; data-ll-effect=&quot;drop-right-without-wrap&quot; style=&quot;border-radius: 3px;&quot; onmouseleave=&quot;&quot; onmouseenter=&quot;&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fdonate&quot; target=&quot;_blank&quot;&gt;Donate&lt;/a&gt;&lt;/div&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;site-header-wrapper&quot;  class=&quot;  &quot; &gt;
+
+
+&lt;header id=&quot;site-header&quot; class=&quot;site-header mobile-menu-layout-default&quot; role=&quot;banner&quot;&gt;
+
+&lt;div class=&quot;header-background&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;header-main logo-position-left header-layout-default header-style-3&quot;&gt;
+&lt;div class=&quot;site-title&quot;&gt;
+&lt;div class=&quot;site-logo&quot; style=&quot;width:150px;&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org&quot; rel=&quot;home&quot;&gt;
+&lt;span class=&quot;logo&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;53&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e5715a0c30552b25f618a038621aad7b_1x.png&quot; srcset=&quot;https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e5715a0c30552b25f618a038621aad7b_1x.png 1x,https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e5715a0c30552b25f618a038621aad7b_2x.png 2x,https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e5715a0c30552b25f618a038621aad7b_3x.png 3x&quot; alt=&quot;The Leonardo&quot; style=&quot;width:150px;&quot; class=&quot;tgp-exclude default&quot;/&gt;&lt;img width=&quot;200&quot; height=&quot;70&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e65a2a59411fe48d5f66f41cc82eb5cf_1x.png&quot; srcset=&quot;https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e65a2a59411fe48d5f66f41cc82eb5cf_1x.png 1x,https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e65a2a59411fe48d5f66f41cc82eb5cf_2x.png 2x,https://theleonardo.org/wp-content/uploads/thegem-logos/logo_e65a2a59411fe48d5f66f41cc82eb5cf_3x.png 3x&quot; alt=&quot;The Leonardo&quot; style=&quot;width:200px;&quot; class=&quot;tgp-exclude small&quot;/&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;nav id=&quot;primary-navigation&quot; class=&quot;site-navigation primary-navigation&quot; role=&quot;navigation&quot;&gt;
+&lt;button class=&quot;menu-toggle dl-trigger&quot;&gt;Primary Menu&lt;span class=&quot;menu-line-1&quot;&gt;&lt;/span&gt;&lt;span class=&quot;menu-line-2&quot;&gt;&lt;/span&gt;&lt;span class=&quot;menu-line-3&quot;&gt;&lt;/span&gt;&lt;/button&gt;&lt;ul id=&quot;primary-menu&quot; class=&quot;nav-menu styled no-responsive dl-menu&quot;&gt;&lt;li id=&quot;menu-item-33500&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33500 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fvisit-the-leonardo&quot;&gt;Plan Your Visit&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33568&quot; class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-33568 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2f50474.blackbaudhosting.com%2f50474%2ftickets%3ftab%3d3%26txobjid%3dc0e00bfa-0546-498f-99dd-413309dffb1c&quot;&gt;Get Tickets Now&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33524&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33524 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fmemberships&quot;&gt;Memberships&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33515&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33515 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fdirections-parking&quot;&gt;Directions and Parking&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33497&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33497 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fbirthdays&quot;&gt;Birthday Parties at The Leo&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33533&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33533 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fsalt-bistro&quot;&gt;Salt Bistro&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33526&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33526 megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fvisitors%2faccessibility-information&quot;&gt;Accessibility Information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33488&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33488 megamenu-enable megamenu-style-default megamenu-first-element&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fthis-month-at-the-leonardo&quot;&gt;Programs&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled megamenu-empty-right megamenu-empty-top megamenu-empty-bottom dl-submenu&quot; data-megamenu-columns=&quot;3&quot;  style=&quot;padding-left:20px; padding-right:0px; padding-top:0px; padding-bottom:0px; &quot;&gt;
+&lt;li id=&quot;menu-item-33720&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33720 megamenu-first-element&quot; style=&quot;width: 300px;&quot; &gt;&lt;span class=&quot;megamenu-column-header&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fthis-month-at-the-leonardo&quot;&gt;This Month at The Leonardo&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33511&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33511&quot; style=&quot;width: 300px;&quot; &gt;&lt;span class=&quot;megamenu-column-header&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fyouth-programs&quot;&gt;Youth Programs&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33532&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33532&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fyouth-programs%2fmind-riot&quot;&gt;Mind Riot&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33489&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33489&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fleonardo-summer-camp&quot;&gt;The Leonardo Summer Camps&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33527&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33527&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fartist-in-residence&quot;&gt;Artists In Residence&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33529&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33529&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fusu&quot;&gt;Engineer in Residence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33512&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33512&quot; style=&quot;width: 300px;&quot; &gt;&lt;span class=&quot;megamenu-column-header&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fadult-programs&quot;&gt;Adult Programs&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33531&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33531&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fleo-libations&quot;&gt;Leo Libations&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33528&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33528&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fcraft-paint-night&quot;&gt;Craft Paint Night&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33530&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33530&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fdrawing-classes-2&quot;&gt;Figure Drawing Classes&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33577&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33577&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fpride&quot;&gt;Pride&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33505&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33505&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits&quot;&gt;Exhibits&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33520&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33520&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits&quot;&gt;Current Exhibits&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33493&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33493&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits%2fintoai&quot;&gt;Into the Mind of Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33522&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33522&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits%2fflight&quot;&gt;Flight&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33521&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33521&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits%2fblackwings&quot;&gt;Black Wings&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33494&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33494&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits%2fwintercity&quot;&gt;Winter City&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33523&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33523&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits%2finnovation-showcase&quot;&gt;Innovation Showcase&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33491&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33491&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2feducators%2f100years&quot;&gt;100 Years of Silence&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33492&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33492&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fcurrent-exhibits%2fscottymitchell&quot;&gt;Look at Us – Scotty Mitchell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33516&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33516&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fart-installations&quot;&gt;Art Installations&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33517&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33517&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fart-installations%2fdouglas-snow&quot;&gt;Douglas Snow&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33518&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33518&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fart-installations%2fhylozoic-veil&quot;&gt;Hylozoic Veil&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33519&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33519&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fexhibits%2fart-installations%2ffrieze&quot;&gt;Jo Roper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33506&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33506&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2feducators&quot;&gt;Education&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33501&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33501&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2feducators%2ffield-trips&quot;&gt;Field Trips&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33535&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33535&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2feducators%2fleo-on-wheels&quot;&gt;The Leo on Wheels Education Outreach Program&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33509&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33509&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2feducators%2feducator-resources&quot;&gt;Educator Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33508&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33508&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2feducators%2feducator-memberships&quot;&gt;Educator Memberships&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33534&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33534&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fvenue&quot;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33502&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-33502&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fabout-the-leonardo&quot;&gt;About&lt;/a&gt;&lt;span class=&quot;menu-item-parent-toggle&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;sub-menu styled dl-submenu&quot;&gt;
+&lt;li id=&quot;menu-item-33503&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33503&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fboard-directors&quot;&gt;Board of Directors&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33504&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33504&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fstaff-directory-2&quot;&gt;Executive Staff&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33573&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33573&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fcareers&quot;&gt;Careers&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33525&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33525&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fnews&quot;&gt;News&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33514&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33514&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fcontact-us&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li id=&quot;menu-item-33495&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33495&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fleo500-3&quot;&gt;Leo500&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-33499&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-33499&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fprograms%2fthe-leonardo-award-2&quot;&gt;The 2024 Leonardo Award&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;menu-item menu-item-search menu-item-fullscreen-search&quot;&gt;&lt;a href=&quot;_httpsamepagelink_#&quot;&gt;&lt;/a&gt;&lt;div class=&quot;minisearch &quot;&gt;&lt;form role=&quot;search&quot; id=&quot;searchform&quot; class=&quot;sf&quot; action=&quot;https://theleonardo.org/&quot; method=&quot;GET&quot;&gt;&lt;input id=&quot;searchform-input&quot; class=&quot;sf-input&quot; type=&quot;text&quot; placeholder=&quot;Search...&quot; name=&quot;s&quot;&gt;&lt;span class=&quot;sf-submit-icon&quot;&gt;&lt;/span&gt;&lt;input id=&quot;searchform-submit&quot; class=&quot;sf-submit&quot; type=&quot;submit&quot; value=&quot;&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/nav&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/header&gt;&lt;!-- #site-header --&gt;
+&lt;/div&gt;&lt;!-- #site-header-wrapper --&gt;
+
+
+
+&lt;div id=&quot;main&quot; class=&quot;site-main page__top-shadow visible&quot;&gt;
+
+&lt;div id=&quot;main-content&quot; class=&quot;main-content&quot;&gt;
+
+&lt;div class=&quot;preloader slideshow-preloader&quot;&gt;&lt;div class=&quot;preloader-spin&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;gem-slideshow gem-slideshow-with-preloader gem-slideshow-rs&quot;&gt;
+&lt;!-- START The Leonardo Award REVOLUTION SLIDER 6.5.16 --&gt;&lt;p class=&quot;rs-p-wp-fix&quot;&gt;&lt;/p&gt;
+&lt;rs-module-wrap id=&quot;rev_slider_15_1_wrapper&quot; data-source=&quot;gallery&quot; style=&quot;visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;&quot;&gt;
+&lt;rs-module id=&quot;rev_slider_15_1&quot; style=&quot;&quot; data-version=&quot;6.5.16&quot;&gt;
+&lt;rs-slides&gt;
+&lt;rs-slide style=&quot;position: absolute;&quot; data-key=&quot;rs-69&quot; data-title=&quot;Libations3&quot; data-in=&quot;o:0;&quot; data-out=&quot;a:false;&quot;&gt;
+&lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=//theleonardo.org/wp-content/plugins/revslider/public/assets/assets/dummy.png&quot; alt=&quot;&quot; title=&quot;2023LeoAward_Background&quot; width=&quot;1800&quot; height=&quot;780&quot; class=&quot;rev-slidebg tp-rs-img rs-lazyload&quot; data-lazyload=&quot;//theleonardo.org/wp-content/uploads/2024/03/2023LeoAward_Background.jpg&quot; data-no-retina&gt;
+&lt;!----&gt;&lt;/rs-slide&gt;
+&lt;/rs-slides&gt;
+&lt;rs-static-layers&gt;&lt;!--
+--&gt;&lt;/rs-static-layers&gt;
+&lt;/rs-module&gt;
+&lt;script&gt;
+setREVStartSize({c: 'rev_slider_15_1',rl:[1920,1600,778,480],el:[600,500,500,500],gw:[1920,1024,778,480],gh:[600,500,500,500],type:'standard',justify:'',layout:'fullwidth',mh:&quot;0&quot;});if (window.RS_MODULES!==undefined &amp; &amp; window.RS_MODULES.modules!==undefined &amp; &amp; window.RS_MODULES.modules[&quot;revslider151&quot;]!==undefined) {window.RS_MODULES.modules[&quot;revslider151&quot;].once = false;window.revapi15 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+&lt;/script&gt;
+&lt;/rs-module-wrap&gt;
+&lt;!-- END REVOLUTION SLIDER --&gt;
+&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+var thegemSlideshowPreloader = document.querySelector('.slideshow-preloader');
+var thegemSlideshow = document.querySelector('.gem-slideshow');
+if(thegemSlideshow.hasChildNodes()) {
+thegemSlideshow.parentNode.insertBefore(thegemSlideshow, thegemSlideshowPreloader);
+thegemSlideshowPreloader.style.height = thegemSlideshow.clientHeight+'px';
+thegemSlideshow.parentNode.insertBefore(thegemSlideshowPreloader,thegemSlideshow);
+} else {
+thegemSlideshowPreloader.remove();
+thegemSlideshow.remove();
+}
+&lt;/script&gt;
+
+&lt;div class=&quot;block-content no-top-margin&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;div class=&quot;panel row&quot;&gt;
+
+&lt;div class=&quot;panel-center col-xs-12&quot;&gt;
+&lt;article id=&quot;post-31128&quot; class=&quot;post-31128 page type-page status-publish&quot;&gt;
+
+&lt;div class=&quot;entry-content post-content&quot;&gt;
+                        
+
+
+
+&lt;div class=&quot;vc_row-full-width-before&quot;&gt;&lt;/div&gt;&lt;div id=&quot;vc_row-668037b18ac42&quot; data-vc-full-width=&quot;true&quot; data-vc-full-width-init=&quot;false&quot; class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1646076766920 thegem-custom-668037b18abc7170 vc_row-has-fill&quot;&gt;&lt;script type=&quot;text/javascript&quot;&gt;if (typeof(gem_fix_fullwidth_position) == &quot;function&quot;) { gem_fix_fullwidth_position(document.getElementById(&quot;vc_row-668037b18ac42&quot;)); }&lt;/script&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-8 thegem-custom-668037b190baa4922&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b190bae &quot;&gt;&lt;style&gt;
+.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b190baa4922{display: flex !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b190baa4922{align-items: center !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b190baa4922{justify-content: flex-start !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b190baa4922{flex-direction: row !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b190baa4922{flex-wrap: wrap !important;}&lt;/style&gt;&lt;div class=&quot;wpb_wrapper thegem-custom-668037b190baa4922&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b1910693417&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h1&gt;The Leonardo Award&lt;/h1&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19131b9540&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;p&gt;&lt;b&gt;We believe in each person’s infinite potential, and that everyone has the innate ability to tap into the same genius that defines Leonardo da Vinci’s lasting legacy: curiosity and making connections between ideas and pieces of knowledge that lead to new insights and innovation.&lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In this spirit, we annually present The Leonardo Award to an individual who has demonstrated a lifelong sense of curiosity, someone who has pushed the boundaries of their disciplines, and who embodies Leonardo da Vinci’s ability to see new, untapped possibilities.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_empty_space&quot;   style=&quot;height: 40px&quot;&gt;&lt;span class=&quot;vc_empty_space_inner&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4 thegem-custom-668037b19174f7986&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b191752 vc_custom_1531167550247&quot;&gt;&lt;style&gt;
+.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b19174f7986{display: flex !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b19174f7986{align-items: center !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b19174f7986{justify-content: flex-start !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b19174f7986{flex-direction: row !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b19174f7986{flex-wrap: wrap !important;}&lt;/style&gt;&lt;div class=&quot;wpb_wrapper thegem-custom-668037b19174f7986&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;vc_row-full-width vc_clearfix&quot;&gt;&lt;/div&gt;&lt;div class=&quot;vc_row-full-width-before&quot;&gt;&lt;/div&gt;&lt;div id=&quot;vc_row-668037b191a60&quot; data-vc-full-width=&quot;true&quot; data-vc-full-width-init=&quot;false&quot; class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1648851410270 thegem-custom-668037b191a432900&quot;&gt;&lt;script type=&quot;text/javascript&quot;&gt;if (typeof(gem_fix_fullwidth_position) == &quot;function&quot;) { gem_fix_fullwidth_position(document.getElementById(&quot;vc_row-668037b191a60&quot;)); }&lt;/script&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-8 thegem-custom-668037b191df09541&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b191df4 &quot;&gt;&lt;style&gt;
+.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b191df09541{display: flex !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b191df09541{align-items: center !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b191df09541{justify-content: flex-start !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b191df09541{flex-direction: row !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b191df09541{flex-wrap: wrap !important;}&lt;/style&gt;&lt;div class=&quot;wpb_wrapper thegem-custom-668037b191df09541&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b1920cf7337&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h3&gt;2022 Leonardo Award Winner: Dr. Nalini Nadkarni&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19230a5389&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Dr. Nalini Nadkarni (born 1954) is an ecologist who pioneered the study of Costa Rican rainforest canopies. She spent over two decades climbing the trees of Costa Rica, Papua New Guinea, the Amazon, and the Pacific Northwest, exploring the world of animals and plants that live in the canopy; and how this upper layer of the forest interacts with the world on the ground. An internationally acclaimed, pioneering researcher in this area, Nadkarni created The Big Canopy database to help researchers store and understand the rich trove of data she and others are uncovering.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Why We’re Inspired: Having double-majored in biology and modern dance at Brown University, Dr. Nadkarni started with an appreciation for both the arts and sciences. But perhaps more than that, her deep commitment to engaging non-academic audiences to inspire them to care about science, trees, and nature, in general, sets her apart as someone who can inspire entire communities with her work. In particular, she has been a leading force in bringing science education classes to incarcerated youth. In addition, she collaborates with writers, poets, dancers, and musicians to help communicate the importance and significance of her work.&lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_empty_space&quot;   style=&quot;height: 40px&quot;&gt;&lt;span class=&quot;vc_empty_space_inner&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-4 thegem-custom-668037b1926307341&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b192633 vc_custom_1531167550247&quot;&gt;&lt;style&gt;
+.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b1926307341{display: flex !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b1926307341{align-items: center !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b1926307341{justify-content: flex-start !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b1926307341{flex-direction: row !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b1926307341{flex-wrap: wrap !important;}&lt;/style&gt;&lt;div class=&quot;wpb_wrapper thegem-custom-668037b1926307341&quot;&gt;
+
+&lt;div  class=&quot;wpb_single_image wpb_content_element vc_align_left&quot; &gt;
+
+&lt;figure class=&quot;wpb_wrapper vc_figure&quot;&gt;
+&lt;div class=&quot;vc_single_image-wrapper   vc_box_border_grey&quot;&gt;&lt;img fetchpriority=&quot;high&quot; decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; data-tgpli-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Nalini-e1649871759200.jpg&quot; class=&quot;vc_single_image-img attachment-large&quot; alt=&quot;&quot; title=&quot;RGB_Nalini&quot; data-tgpli-inited data-tgpli-image-inited id=&quot;tgpli-668037b1b18a5&quot;  /&gt;&lt;script&gt;window.tgpQueue.add('tgpli-668037b1b18a5')&lt;/script&gt;&lt;noscript&gt;&lt;img fetchpriority=&quot;high&quot; decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Nalini-e1649871759200.jpg&quot; class=&quot;vc_single_image-img attachment-large&quot; alt=&quot;&quot; title=&quot;RGB_Nalini&quot; /&gt;&lt;/noscript&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;vc_row-full-width vc_clearfix&quot;&gt;&lt;/div&gt;&lt;div class=&quot;vc_row-full-width-before&quot;&gt;&lt;/div&gt;&lt;div id=&quot;vc_row-668037b195652&quot; data-vc-full-width=&quot;true&quot; data-vc-full-width-init=&quot;false&quot; class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1648851452655 thegem-custom-668037b1956307404 vc_row-has-fill&quot;&gt;&lt;script type=&quot;text/javascript&quot;&gt;if (typeof(gem_fix_fullwidth_position) == &quot;function&quot;) { gem_fix_fullwidth_position(document.getElementById(&quot;vc_row-668037b195652&quot;)); }&lt;/script&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-12 thegem-custom-668037b195a4b9950&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b195a4f &quot;&gt;&lt;style&gt;
+.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b195a4b9950{display: flex !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b195a4b9950{align-items: center !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b195a4b9950{justify-content: flex-start !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b195a4b9950{flex-direction: row !important;}.thegem-template-wrapper .wpb_wrapper.thegem-custom-668037b195a4b9950{flex-wrap: wrap !important;}&lt;/style&gt;&lt;div class=&quot;wpb_wrapper thegem-custom-668037b195a4b9950&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b195e5e8287&quot; id=&quot;schedule&quot; &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h2&gt;Previous Award Recipients&lt;/h2&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_tta-container&quot; data-vc-action=&quot;collapse&quot;&gt;&lt;div class=&quot;vc_general vc_tta vc_tta-tabs vc_tta-color-thegem vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-left vc_tta-controls-align-left &quot; &gt;&lt;div class=&quot;vc_tta-tabs-container&quot;&gt;&lt;ul class=&quot;vc_tta-tabs-list&quot;&gt;&lt;li class=&quot;vc_tta-tab vc_active&quot; data-vc-tab&gt;&lt;a href=&quot;_httpsamepagelink_#1646075060182-54ea3b83-0c8d&quot; data-vc-tabs data-vc-container=&quot;.vc_tta&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2016 - Fred P. Lampropoulos&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;vc_tta-tab&quot; data-vc-tab&gt;&lt;a href=&quot;_httpsamepagelink_#1648850629264-cd95ab64-7f9f&quot; data-vc-tabs data-vc-container=&quot;.vc_tta&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2018 - Jackie Chan&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;vc_tta-tab&quot; data-vc-tab&gt;&lt;a href=&quot;_httpsamepagelink_#1648850758175-9831f09e-0fc5&quot; data-vc-tabs data-vc-container=&quot;.vc_tta&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2019 - Dr. Stephen C. Jacobsen&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;vc_tta-tab&quot; data-vc-tab&gt;&lt;a href=&quot;_httpsamepagelink_#1648850931627-dcfc357c-a146&quot; data-vc-tabs data-vc-container=&quot;.vc_tta&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2020 - Dr. Christopher R. Johnson&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panels-container&quot;&gt;&lt;div class=&quot;vc_tta-panels&quot;&gt;&lt;div class=&quot;vc_tta-panel vc_active&quot; id=&quot;1646075060182-54ea3b83-0c8d&quot; data-vc-content=&quot;.vc_tta-panel-body&quot;&gt;&lt;div class=&quot;vc_tta-panel-heading&quot;&gt;&lt;h4 class=&quot;vc_tta-panel-title&quot;&gt;&lt;a href=&quot;_httpsamepagelink_#1646075060182-54ea3b83-0c8d&quot; data-vc-accordion data-vc-container=&quot;.vc_tta-container&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2016 - Fred P. Lampropoulos&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel-body&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b1972b95880&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h3&gt;2016 Leonardo Award Winner: Fred P. Lampropoulos&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid custom-inner-column-668037b199e1f&quot;&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19bd57 &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div  class=&quot;wpb_single_image wpb_content_element vc_align_left&quot; &gt;
+
+&lt;figure class=&quot;wpb_wrapper vc_figure&quot;&gt;
+&lt;div class=&quot;vc_single_image-wrapper   vc_box_border_grey&quot;&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; data-tgpli-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Fred-e1649871800480.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_Fred&quot; data-tgpli-inited data-tgpli-image-inited id=&quot;tgpli-668037b1b18b6&quot;  /&gt;&lt;script&gt;window.tgpQueue.add('tgpli-668037b1b18b6')&lt;/script&gt;&lt;noscript&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Fred-e1649871800480.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_Fred&quot; /&gt;&lt;/noscript&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19c58f &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19c7cc2884&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fred Lampropoulos is an innovator who built his company, Merit Medical Systems, from the ground up. After 30 years in the medical device industry, he continues to advance life-saving technologies while building a global business. Merit Medical devices are used in the diagnostic and therapeutic treatment of cardiac, peripheral, gastrointestinal, and pulmonary conditions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Why We’re Inspired: Like Leonardo’s, Lampropoulos’ success was not pre-ordained based on family fortune, but he followed his curiosity which took him to the medical device industry, and without any background in medicine or med-tech, he went on to invent his own devices, eventually owning over 200 patents. His life story and success prove that a lot of passion, some resilience, and asking great questions can lead to the pinnacle of success.&lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel&quot; id=&quot;1648850629264-cd95ab64-7f9f&quot; data-vc-content=&quot;.vc_tta-panel-body&quot;&gt;&lt;div class=&quot;vc_tta-panel-heading&quot;&gt;&lt;h4 class=&quot;vc_tta-panel-title&quot;&gt;&lt;a href=&quot;_httpsamepagelink_#1648850629264-cd95ab64-7f9f&quot; data-vc-accordion data-vc-container=&quot;.vc_tta-container&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2018 - Jackie Chan&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel-body&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19cb429003&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h3&gt;2018 Leonardo Award Winner: Jackie Chan&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid custom-inner-column-668037b19cc91&quot;&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19cdf5 &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div  class=&quot;wpb_single_image wpb_content_element vc_align_left&quot; &gt;
+
+&lt;figure class=&quot;wpb_wrapper vc_figure&quot;&gt;
+&lt;div class=&quot;vc_single_image-wrapper   vc_box_border_grey&quot;&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; data-tgpli-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_JackieChan-e1649871789867.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_JackieChan&quot; data-tgpli-inited data-tgpli-image-inited id=&quot;tgpli-668037b1b18c0&quot;  /&gt;&lt;script&gt;window.tgpQueue.add('tgpli-668037b1b18c0')&lt;/script&gt;&lt;noscript&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_JackieChan-e1649871789867.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_JackieChan&quot; /&gt;&lt;/noscript&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19d53e &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19d6cf9633&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;p&gt;Jackie Chan, born to impoverished parents in 1954, is a world-renowned movie and action star, equally beloved in the East and West for his stunts and acrobatic fighting style. He has appeared in more than 150 films and is one of the most recognizable actors and influential personalities globally, including being a leading philanthropist. Chan is also an operatically trained vocalist who has released several music albums.&lt;/p&gt;
+&lt;p&gt;Why We’re Inspired: Chan, recognizing the tremendous platform that his stardom affords him, has branched out to inspire individuals and communities to understand the urgent need for environmental protection better. He collects and recycles props from his movie sets and works with artists to give them new life as sculptures that stand as a warning against our consumerist society. He inspires children to see themselves as ‘Green Heroes’ who can make a difference in the world. Chan’s dedication to this cause inspires anyone who seeks to create a better world with whatever skills and platforms we have.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel&quot; id=&quot;1648850758175-9831f09e-0fc5&quot; data-vc-content=&quot;.vc_tta-panel-body&quot;&gt;&lt;div class=&quot;vc_tta-panel-heading&quot;&gt;&lt;h4 class=&quot;vc_tta-panel-title&quot;&gt;&lt;a href=&quot;_httpsamepagelink_#1648850758175-9831f09e-0fc5&quot; data-vc-accordion data-vc-container=&quot;.vc_tta-container&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2019 - Dr. Stephen C. Jacobsen&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel-body&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19da354893&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h3&gt;2019 Leonardo Award Winner: Dr. Stephen C. Jacobsen&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid custom-inner-column-668037b19db62&quot;&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19dcc1 &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div  class=&quot;wpb_single_image wpb_content_element vc_align_left&quot; &gt;
+
+&lt;figure class=&quot;wpb_wrapper vc_figure&quot;&gt;
+&lt;div class=&quot;vc_single_image-wrapper   vc_box_border_grey&quot;&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; data-tgpli-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Jacobsen-e1649871891103.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_Jacobsen&quot; data-tgpli-inited data-tgpli-image-inited id=&quot;tgpli-668037b1b18c9&quot;  /&gt;&lt;script&gt;window.tgpQueue.add('tgpli-668037b1b18c9')&lt;/script&gt;&lt;noscript&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Jacobsen-e1649871891103.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_Jacobsen&quot; /&gt;&lt;/noscript&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19e421 &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19e5ad543&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;p&gt;Stephen Jacobsen (1940-2016) was an engineer, roboticist, and biomedical pioneer who worked on major breakthrough innovations, including the first artificial heart implanted in a human, the first artificial wearable kidney, and the Utah Arm – a prosthetic device for amputees. Jacobsen was the founder of several companies, including Sarcos, and he was a Distinguished Professor of Engineering at the University of Utah.&lt;/p&gt;
+&lt;p&gt;Why We’re Inspired: Jacobsen had a Tony Stark-like mindset, and he used his formidable skills not just to build companies or work with military leaders to develop exoskeleton suits for soldiers but also for whimsical, fun projects: he built mechanized dinosaurs for Universal’s Jurassic Park Ride, as well as the robotic controllers for the Bellagio Fountain in Las Vegas – which weighs 700,000 pounds and includes 125 individual robotic fountains. Like Leonardo’s, Jacobsen’s creativity and ceaseless innovative spirit knew no bounds, and also, like Leonardo, he found parallels that crossed disciplines.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel&quot; id=&quot;1648850931627-dcfc357c-a146&quot; data-vc-content=&quot;.vc_tta-panel-body&quot;&gt;&lt;div class=&quot;vc_tta-panel-heading&quot;&gt;&lt;h4 class=&quot;vc_tta-panel-title&quot;&gt;&lt;a href=&quot;_httpsamepagelink_#1648850931627-dcfc357c-a146&quot; data-vc-accordion data-vc-container=&quot;.vc_tta-container&quot;&gt;&lt;span class=&quot;vc_tta-title-text&quot;&gt;2020 - Dr. Christopher R. Johnson&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/div&gt;&lt;div class=&quot;vc_tta-panel-body&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19e8c35484&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;h3&gt;2020 Leonardo Award Winner: Dr. Christopher R. Johnson&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;vc_row wpb_row vc_inner vc_row-fluid custom-inner-column-668037b19e9f2&quot;&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19eb3a &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div  class=&quot;wpb_single_image wpb_content_element vc_align_left&quot; &gt;
+
+&lt;figure class=&quot;wpb_wrapper vc_figure&quot;&gt;
+&lt;div class=&quot;vc_single_image-wrapper   vc_box_border_grey&quot;&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; data-tgpli-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Chris-e1649871815728.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_Chris&quot; data-tgpli-inited data-tgpli-image-inited id=&quot;tgpli-668037b1b18d1&quot;  /&gt;&lt;script&gt;window.tgpQueue.add('tgpli-668037b1b18d1')&lt;/script&gt;&lt;noscript&gt;&lt;img decoding=&quot;async&quot; width=&quot;360&quot; height=&quot;240&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://theleonardo.org/wp-content/uploads/2022/04/RGB_Chris-e1649871815728.jpg&quot; class=&quot;vc_single_image-img attachment-full&quot; alt=&quot;&quot; title=&quot;RGB_Chris&quot; /&gt;&lt;/noscript&gt;&lt;/div&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;wpb_column vc_column_container vc_col-sm-6&quot;&gt;&lt;div class=&quot;vc_column-inner thegem-custom-inner-668037b19f2d0 &quot;&gt;&lt;div class=&quot;wpb_wrapper&quot;&gt;
+
+&lt;div class=&quot;wpb_text_column wpb_content_element  thegem-vc-text thegem-custom-668037b19f45f8504&quot;  &gt;
+&lt;div class=&quot;wpb_wrapper&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Chris Johnson (born 1960) is a computer scientist and distinguished Professor of Computer Science at the University of Utah. He is a world-renowned researcher and the founder of the Scientific Computing and Imaging Institute (SCI), which tackles some of the most complex problems in engineering and medicine through scientific and biomedical computing, visualization, and image analysis.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Why We’re Inspired: Dr. Johnson uses computing to help us see patterns in data or simulate real-world phenomena that can be applied to various engineering questions. Leonardo da Vinci spoke of “knowing how to see,” and Dr. Johnson’s work allows us to see the world entirely new ways. His success is born out of a deep commitment to interdisciplinary work, and the result is not just visually stunning but also scientifically important.&lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;vc_row-full-width vc_clearfix&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;!-- .entry-content --&gt;
+
+
+
+
+
+
+&lt;/article&gt;&lt;!-- #post-## --&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;!-- .block-content --&gt;
+
+&lt;/div&gt;&lt;!-- #main-content --&gt;
+
+
+&lt;/div&gt;&lt;!-- #main --&gt;
+&lt;div id=&quot;lazy-loading-point&quot;&gt;&lt;/div&gt;
+
+
+
+&lt;footer id=&quot;footer-nav&quot; class=&quot;site-footer&quot;&gt;
+&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;
+
+&lt;div class=&quot;col-md-3 col-md-push-9&quot;&gt;
+&lt;div id=&quot;footer-socials&quot;&gt;&lt;div class=&quot;socials inline-inside socials-colored&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2ftheleonardo&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot; class=&quot;socials-item&quot;&gt;&lt;i class=&quot;socials-item-icon facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.linkedin.com%2fcompany-beta%2f1403629&quot; target=&quot;_blank&quot; title=&quot;LinkedIn&quot; class=&quot;socials-item&quot;&gt;&lt;i class=&quot;socials-item-icon linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftwitter.com%2fthe%5fleonardo&quot; target=&quot;_blank&quot; title=&quot;Twitter&quot; class=&quot;socials-item&quot;&gt;&lt;i class=&quot;socials-item-icon twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.instagram.com%2ftheleonardoslc&quot; target=&quot;_blank&quot; title=&quot;Instagram&quot; class=&quot;socials-item&quot;&gt;&lt;i class=&quot;socials-item-icon instagram&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;!-- #footer-socials --&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;col-md-3 col-md-pull-9&quot;&gt;&lt;div class=&quot;footer-site-info&quot;&gt;© 2011–2022 The Leonardo. All rights reserved.&lt;/div&gt;&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;
+&lt;/footer&gt;&lt;!-- #footer-nav --&gt;
+
+&lt;/div&gt;&lt;!-- #page --&gt;
+
+
+
+&lt;script&gt;
+window.RS_MODULES = window.RS_MODULES || {};
+window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+window.RS_MODULES.defered = false;
+window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+window.RS_MODULES.type = 'compiled';
+&lt;/script&gt;
+&lt;script type=&quot;text/html&quot; id=&quot;wpb-modifications&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+if(typeof revslider_showDoubleJqueryError === &quot;undefined&quot;) {function revslider_showDoubleJqueryError(sliderID) {console.log(&quot;You have some jquery.js library include that comes after the Slider Revolution files js inclusion.&quot;);console.log(&quot;To fix this, you can:&quot;);console.log(&quot;1. Set 'Module General Options' -&gt; 'Advanced' -&gt; 'jQuery &amp; OutPut Filters' -&gt; 'Put JS to Body' to on&quot;);console.log(&quot;2. Find the double jQuery.js inclusion and remove it&quot;);return &quot;Double Included jQuery Library&quot;;}}
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+/* MonsterInsights Scroll Tracking */
+if ( typeof(jQuery) !== 'undefined' ) {
+jQuery( document ).ready(function(){
+function monsterinsights_scroll_tracking_load() {
+if ( ( typeof(__gaTracker) !== 'undefined' &amp; &amp; __gaTracker &amp; &amp; __gaTracker.hasOwnProperty( &quot;loaded&quot; ) &amp; &amp; __gaTracker.loaded == true ) || ( typeof(__gtagTracker) !== 'undefined' &amp; &amp; __gtagTracker ) ) {
+(function(factory) {
+factory(jQuery);
+}(function($) {
+
+/* Scroll Depth */
+&quot;use strict&quot;;
+var defaults = {
+percentage: true
+};
+
+var $window = $(window),
+cache = [],
+scrollEventBound = false,
+lastPixelDepth = 0;
+
+/*
+* Plugin
+*/
+
+$.scrollDepth = function(options) {
+
+var startTime = +new Date();
+
+options = $.extend({}, defaults, options);
+
+/*
+* Functions
+*/
+
+function sendEvent(action, label, scrollDistance, timing) {
+if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+return;
+}
+var paramName = action.toLowerCase();
+var fieldsArray = {
+send_to: 'G-W11LRLEP2H',
+non_interaction: true
+};
+fieldsArray[paramName] = label;
+
+if (arguments.length &gt; 3) {
+fieldsArray.scroll_timing = timing
+MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+} else {
+MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+}
+}
+
+function calculateMarks(docHeight) {
+return {
+'25%' : parseInt(docHeight * 0.25, 10),
+'50%' : parseInt(docHeight * 0.50, 10),
+'75%' : parseInt(docHeight * 0.75, 10),
+/* Cushion to trigger 100% event in iOS */
+'100%': docHeight - 5
+};
+}
+
+function checkMarks(marks, scrollDistance, timing) {
+/* Check each active mark */
+$.each(marks, function(key, val) {
+if ( $.inArray(key, cache) === -1 &amp; &amp; scrollDistance &gt;= val ) {
+sendEvent('Percentage', key, scrollDistance, timing);
+cache.push(key);
+}
+});
+}
+
+function rounded(scrollDistance) {
+/* Returns String */
+return (Math.floor(scrollDistance/250) * 250).toString();
+}
+
+function init() {
+bindScrollDepth();
+}
+
+/*
+* Public Methods
+*/
+
+/* Reset Scroll Depth with the originally initialized options */
+$.scrollDepth.reset = function() {
+cache = [];
+lastPixelDepth = 0;
+$window.off('scroll.scrollDepth');
+bindScrollDepth();
+};
+
+/* Add DOM elements to be tracked */
+$.scrollDepth.addElements = function(elems) {
+
+if (typeof elems == &quot;undefined&quot; || !$.isArray(elems)) {
+return;
+}
+
+$.merge(options.elements, elems);
+
+/* If scroll event has been unbound from window, rebind */
+if (!scrollEventBound) {
+bindScrollDepth();
+}
+
+};
+
+/* Remove DOM elements currently tracked */
+$.scrollDepth.removeElements = function(elems) {
+
+if (typeof elems == &quot;undefined&quot; || !$.isArray(elems)) {
+return;
+}
+
+$.each(elems, function(index, elem) {
+
+var inElementsArray = $.inArray(elem, options.elements);
+var inCacheArray = $.inArray(elem, cache);
+
+if (inElementsArray != -1) {
+options.elements.splice(inElementsArray, 1);
+}
+
+if (inCacheArray != -1) {
+cache.splice(inCacheArray, 1);
+}
+
+});
+
+};
+
+/*
+* Throttle function borrowed from:
+* Underscore.js 1.5.2
+* http://underscorejs.org
+* (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters &amp; Editors
+* Underscore may be freely distributed under the MIT license.
+*/
+
+function throttle(func, wait) {
+var context, args, result;
+var timeout = null;
+var previous = 0;
+var later = function() {
+previous = new Date;
+timeout = null;
+result = func.apply(context, args);
+};
+return function() {
+var now = new Date;
+if (!previous) previous = now;
+var remaining = wait - (now - previous);
+context = this;
+args = arguments;
+if (remaining &lt;= 0) {
+clearTimeout(timeout);
+timeout = null;
+previous = now;
+result = func.apply(context, args);
+} else if (!timeout) {
+timeout = setTimeout(later, remaining);
+}
+return result;
+};
+}
+
+/*
+* Scroll Event
+*/
+
+function bindScrollDepth() {
+
+scrollEventBound = true;
+
+$window.on('scroll.scrollDepth', throttle(function() {
+/*
+* We calculate document and window height on each scroll event to
+* account for dynamic DOM changes.
+*/
+
+var docHeight = $(document).height(),
+winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+scrollDistance = $window.scrollTop() + winHeight,
+
+/* Recalculate percentage marks */
+marks = calculateMarks(docHeight),
+
+/* Timing */
+timing = +new Date - startTime;
+
+checkMarks(marks, scrollDistance, timing);
+}, 500));
+
+}
+
+init();
+};
+
+/* UMD export */
+return $.scrollDepth;
+
+}));
+
+jQuery.scrollDepth();
+} else {
+setTimeout(monsterinsights_scroll_tracking_load, 200);
+}
+}
+monsterinsights_scroll_tracking_load();
+});
+}
+/* End MonsterInsights Scroll Tracking */
+
+&lt;/script&gt;
+&lt;link rel='stylesheet' id='vc_tta_style-css' href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fplugins%2fjs%5fcomposer%2fassets%2fcss%2fjs%5fcomposer%5ftta.min.css%3fver%3d6.8.0&quot; type='text/css' media='all' /&gt;
+&lt;link data-minify=&quot;1&quot; rel='stylesheet' id='rs-plugin-settings-css' href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fplugins%2frevslider%2fpublic%2fassets%2fcss%2frs6.css%3fver%3d1664404027&quot; type='text/css' media='all' /&gt;
+&lt;style id='rs-plugin-settings-inline-css' type='text/css'&gt;
+#rev_slider_15_1_wrapper rs-loader.spinner3 div{background-color:#ffffff !important}
+&lt;/style&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2fthegem-form-elements.js%3fver%3d1664403992&quot; id=&quot;thegem-form-elements-js&quot;&gt;&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2fjquery.easing.js%3fver%3d1664403992&quot; id=&quot;jquery-easing-js&quot;&gt;&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2fjquery.dlmenu.js%3fver%3d1664403992&quot; id=&quot;jquery-dlmenu-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;thegem-menu-init-script-js-extra&quot;&gt;
+/* &lt;![CDATA[ */
+var thegem_dlmenu_settings = {&quot;backLabel&quot;:&quot;Back&quot;,&quot;showCurrentLabel&quot;:&quot;Show this page&quot;};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2fthegem-menu%5finit.js%3fver%3d1664403992&quot; id=&quot;thegem-menu-init-script-js&quot;&gt;&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2fthegem-header.js%3fver%3d1664403992&quot; id=&quot;thegem-header-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;thegem-scripts-js-extra&quot;&gt;
+/* &lt;![CDATA[ */
+var thegem_scripts_data = {&quot;ajax_url&quot;:&quot;https:\\/\\/theleonardo.org\\/wp-admin\\/admin-ajax.php&quot;,&quot;ajax_nonce&quot;:&quot;4df1128ea7&quot;};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2ffunctions.js%3fver%3d1664403992&quot; id=&quot;thegem-scripts-js&quot;&gt;&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2ffancyBox%2fjquery.mousewheel.pack.js%3fver%3d1664403992&quot; id=&quot;jquery-mousewheel-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fthemes%2fthegem%2fjs%2ffancyBox%2fjquery.fancybox.min.js%3fver%3d6.5.5&quot; id=&quot;jquery-fancybox-js&quot;&gt;&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2ffancyBox%2fjquery.fancybox-init.js%3fver%3d1664403992&quot; id=&quot;fancybox-init-script-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;rocket-browser-checker-js-after&quot;&gt;
+/* &lt;![CDATA[ */
+&quot;use strict&quot;;var _createClass=function(){function defineProperties(target,props){for(var i=0;i&lt;props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,&quot;value&quot;in descriptor&amp; &amp;(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&amp; &amp;defineProperties(Constructor.prototype,protoProps),staticProps&amp; &amp;defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError(&quot;Cannot call a class as a function&quot;)}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&amp; &amp;options}return _createClass(RocketBrowserCompatibilityChecker,[{key:&quot;_checkPassiveOption&quot;,value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener(&quot;test&quot;,null,options),window.removeEventListener(&quot;test&quot;,null,options)}catch(err){self.passiveSupported=!1}}},{key:&quot;initRequestIdleCallback&quot;,value:function(){!1 in window&amp; &amp;(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&amp; &amp;(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:&quot;isDataSaverModeOn&quot;,value:function(){return&quot;connection&quot;in navigator&amp; &amp;!0===navigator.connection.saveData}},{key:&quot;supportsLinkPrefetch&quot;,value:function(){var elem=document.createElement(&quot;link&quot;);return elem.relList&amp; &amp;elem.relList.supports&amp; &amp;elem.relList.supports(&quot;prefetch&quot;)&amp; &amp;window.IntersectionObserver&amp; &amp;&quot;isIntersecting&quot;in IntersectionObserverEntry.prototype}},{key:&quot;isSlowConnection&quot;,value:function(){return&quot;connection&quot;in navigator&amp; &amp;&quot;effectiveType&quot;in navigator.connection&amp; &amp;(&quot;2g&quot;===navigator.connection.effectiveType||&quot;slow-2g&quot;===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;rocket-preload-links-js-extra&quot;&gt;
+/* &lt;![CDATA[ */
+var RocketPreloadLinksConfig = {&quot;excludeUris&quot;:&quot;\\/(?:.+\\/)?feed(?:\\/(?:.+\\/?)?)?$|\\/(?:.+\\/)?embed\\/|\\/(index\\.php\\/)?(.*)wp\\-json(\\/.*|$)|\\/refer\\/|\\/go\\/|\\/recommend\\/|\\/recommends\\/&quot;,&quot;usesTrailingSlash&quot;:&quot;1&quot;,&quot;imageExt&quot;:&quot;jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php&quot;,&quot;fileExt&quot;:&quot;jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm&quot;,&quot;siteUrl&quot;:&quot;https:\\/\\/theleonardo.org&quot;,&quot;onHoverDelay&quot;:&quot;100&quot;,&quot;rateThrottle&quot;:&quot;3&quot;};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;rocket-preload-links-js-after&quot;&gt;
+/* &lt;![CDATA[ */
+(function() {
+&quot;use strict&quot;;var r=&quot;function&quot;==typeof Symbol&amp; &amp;&quot;symbol&quot;==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&amp; &amp;&quot;function&quot;==typeof Symbol&amp; &amp;e.constructor===Symbol&amp; &amp;e!==Symbol.prototype?&quot;symbol&quot;:typeof e},e=function(){function i(e,t){for(var n=0;n&lt;t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,&quot;value&quot;in i&amp; &amp;(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&amp; &amp;i(e.prototype,t),n&amp; &amp;i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError(&quot;Cannot call a class as a function&quot;)}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:&quot;init&quot;,value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,&quot;i&quot;),images:RegExp(&quot;.(&quot;+this.config.imageExt+&quot;)$&quot;,&quot;i&quot;),fileExt:RegExp(&quot;.(&quot;+this.config.fileExt+&quot;)$&quot;,&quot;i&quot;)},this._initListeners(this))}},{key:&quot;_initListeners&quot;,value:function(e){-1&lt;this.config.onHoverDelay&amp; &amp;document.addEventListener(&quot;mouseover&quot;,e.listener.bind(e),e.listenerOptions),document.addEventListener(&quot;mousedown&quot;,e.listener.bind(e),e.listenerOptions),document.addEventListener(&quot;touchstart&quot;,e.listener.bind(e),e.listenerOptions)}},{key:&quot;listener&quot;,value:function(e){var t=e.target.closest(&quot;a&quot;),n=this._prepareUrl(t);if(null!==n)switch(e.type){case&quot;mousedown&quot;:case&quot;touchstart&quot;:this._addPrefetchLink(n);break;case&quot;mouseover&quot;:this._earlyPrefetch(t,n,&quot;mouseout&quot;)}}},{key:&quot;_earlyPrefetch&quot;,value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover&gt;i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&amp; &amp;(clearTimeout(r),r=null)},{passive:!0})}},{key:&quot;_addPrefetchLink&quot;,value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement(&quot;link&quot;);n.rel=&quot;prefetch&quot;,n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:&quot;_prepareUrl&quot;,value:function(e){if(null===e||&quot;object&quot;!==(void 0===e?&quot;undefined&quot;:r(e))||!1 in e||-1===[&quot;http:&quot;,&quot;https:&quot;].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:&quot;_getPathname&quot;,value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith(&quot;/&quot;)||(n=&quot;/&quot;+n),this._shouldAddTrailingSlash(n)?n+&quot;/&quot;:n}},{key:&quot;_shouldAddTrailingSlash&quot;,value:function(e){return this.config.usesTrailingSlash&amp; &amp;!e.endsWith(&quot;/&quot;)&amp; &amp;!this.regex.fileExt.test(e)}},{key:&quot;_isLinkOk&quot;,value:function(e){return null!==e&amp; &amp;&quot;object&quot;===(void 0===e?&quot;undefined&quot;:r(e))&amp; &amp;(!this.prefetched.has(e.href)&amp; &amp;e.origin===this.config.siteUrl&amp; &amp;-1===e.href.indexOf(&quot;?&quot;)&amp; &amp;-1===e.href.indexOf(&quot;#&quot;)&amp; &amp;!this.regex.excludeUris.test(e.href)&amp; &amp;!this.regex.images.test(e.href))}}],[{key:&quot;run&quot;,value:function(){&quot;undefined&quot;!=typeof RocketPreloadLinksConfig&amp; &amp;new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fplugins%2fvc-elegant-tabs%2fjs%2feTabs.js%3fver%3d1664403992&quot; id=&quot;iw_tabs-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fplugins%2fjs%5fcomposer%2fassets%2fjs%2fdist%2fjs%5fcomposer%5ffront.min.js%3fver%3d6.8.0&quot; id=&quot;wpb_composer_front_js-js&quot;&gt;&lt;/script&gt;
+&lt;script data-minify=&quot;1&quot; type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fcache%2fmin%2f1%2fwp-content%2fthemes%2fthegem%2fjs%2fvc-accordion.js%3fver%3d1664403992&quot; id=&quot;vc_accordion_script-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fplugins%2fjs%5fcomposer%2fassets%2flib%2fvc-tta-autoplay%2fvc-tta-autoplay.min.js%3fver%3d6.8.0&quot; id=&quot;vc_tta_autoplay_script-js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftheleonardo.org%2fwp-content%2fplugins%2fjs%5fcomposer%2fassets%2flib%2fvc%5ftabs%2fvc-tabs.min.js%3fver%3d6.8.0&quot; id=&quot;vc_tabs_script-js&quot;&gt;&lt;/script&gt;
+&lt;script id=&quot;rs-initialisation-scripts&quot;&gt;
+vartpj = jQuery;
+
+varrevapi15;
+
+if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+RS_MODULES.modules[&quot;revslider151&quot;] = {once: RS_MODULES.modules[&quot;revslider151&quot;]!==undefined ? RS_MODULES.modules[&quot;revslider151&quot;].once : undefined, init:function() {
+window.revapi15 = window.revapi15===undefined || window.revapi15===null || window.revapi15.length===0  ? document.getElementById(&quot;rev_slider_15_1&quot;) : window.revapi15;
+if(window.revapi15 === null || window.revapi15 === undefined || window.revapi15.length==0) { window.revapi15initTry = window.revapi15initTry ===undefined ? 0 : window.revapi15initTry+1; if (window.revapi15initTry&lt;20) requestAnimationFrame(function() {RS_MODULES.modules[&quot;revslider151&quot;].init()}); return;}
+window.revapi15 = jQuery(window.revapi15);
+if(window.revapi15.revolution==undefined){ revslider_showDoubleJqueryError(&quot;rev_slider_15_1&quot;); return;}
+revapi15.revolutionInit({
+revapi:&quot;revapi15&quot;,
+DPR:&quot;dpr&quot;,
+sliderLayout:&quot;fullwidth&quot;,
+duration:&quot;8500ms&quot;,
+visibilityLevels:&quot;1920,1600,778,480&quot;,
+gridwidth:&quot;1920,1024,778,480&quot;,
+gridheight:&quot;600,500,500,500&quot;,
+lazyType:&quot;smart&quot;,
+spinner:&quot;spinner3&quot;,
+perspective:600,
+perspectiveType:&quot;global&quot;,
+editorheight:&quot;600,500,500,500&quot;,
+responsiveLevels:&quot;1920,1600,778,480&quot;,
+progressBar:{disableProgressBar:true},
+navigation: {
+onHoverStop:false
+},
+viewPort: {
+global:false,
+globalDist:&quot;-200px&quot;,
+enable:false
+},
+fallbacks: {
+panZoomDisableOnMobile:true,
+allowHTML5AutoPlayOnAndroid:true
+},
+});
+(function() {
+jQuery(document).ready(function() {
+jQuery('.gem-slideshow-with-preloader.gem-slideshow-rs').each(function() {
+var slideshow = jQuery(this);
+slideshow.trigger('thegem-preloader-loaded');
+});
+});
+var revapi = jQuery(document).ready(function() {});
+revapi.one('revolution.slide.onloaded', function() {
+jQuery('.gem-slideshow').prev('.slideshow-preloader').remove();
+});
+})();
+
+}} // End of RevInitScript
+
+if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+&lt;/script&gt;
+&lt;div id=&quot;ajax-search-params&quot; data-post-types=&quot;[&amp;quot;post&amp;quot;,&amp;quot;thegem_pf_item&amp;quot;,&amp;quot;page&amp;quot;]&quot; data-post-types-ppp=&quot;[&amp;quot;8&amp;quot;,&amp;quot;8&amp;quot;,&amp;quot;8&amp;quot;]&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;thegem-fullscreen-search ajax-search&quot;
+ data-id=&quot;header-search&quot; &gt;
+&lt;form role=&quot;search&quot; class=&quot;searchform sf&quot; action=&quot;https://theleonardo.org/&quot;
+  method=&quot;GET&quot;&gt;
+&lt;input class=&quot;thegem-fullscreen-searchform-input sf-input&quot; type=&quot;text&quot;
+   placeholder=&quot;Start typing to search...&quot;
+   name=&quot;s&quot; data-styles=&quot;[&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/thegem-portfolio.css&amp;quot;,&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/thegem-woocommerce.css&amp;quot;,&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/thegem-woocommerce-temp.css&amp;quot;,&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/thegem-portfolio-products-extended.css&amp;quot;,&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/thegem-hovers.css&amp;quot;,&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/hovers\\/thegem-hovers-fade.css&amp;quot;,&amp;quot;https:\\/\\/theleonardo.org\\/wp-content\\/themes\\/thegem\\/css\\/thegem-news-grid.css&amp;quot;]&quot;&gt;
+&lt;div class=&quot;sf-close&quot;&gt;&lt;/div&gt;
+&lt;/form&gt;
+&lt;div class=&quot;search-scroll&quot;&gt;
+&lt;div class=&quot;sf-result&quot;&gt;
+&lt;div class=&quot;result-sections&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstats.wp.com%2fe-202426.js&quot; defer&gt;&lt;/script&gt;
+&lt;script&gt;
+_stq = window._stq || [];
+_stq.push([ 'view', {v:'ext',blog:'101256192',post:'31128',tz:'0',srv:'theleonardo.org',j:'1:11.9.2'} ]);
+_stq.push([ 'clickTrackerInit', '101256192', '31128' ]);
+&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;(function() {var parent = document.getElementById(&quot;page&quot;);var deferredFile1 = document.createElement(&quot;link&quot;);deferredFile1.rel = &quot;stylesheet&quot;;deferredFile1.type = &quot;text/css&quot;;deferredFile1.href = &quot;https://theleonardo.org/wp-content/cache/min/1/wp-content/themes/thegem/css/icons-fontawesome.css?ver=1664404027&quot;;document.body.appendChild(deferredFile1);window.addEventListener(&quot;load&quot;,function(){var elem = document.getElementById(&quot;thegem-preloader-inline-css&quot;);setTimeout(function() { if (elem!==null &amp; &amp; elem.parentNode!==null) elem.parentNode.removeChild(elem) }, 300); });})();&lt;/script&gt;
+
+
+
+&lt;!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1719678897 --&gt;</Content>
+</Section>
+</Archive>

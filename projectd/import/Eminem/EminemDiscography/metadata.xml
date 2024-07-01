@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Eminem Discography </Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Venhar Ademi</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Andi Zahiri</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-20</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF, MP3, HTML</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text, Videos, Text Document</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English, Macedonian</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.OAIResourceURL">https://www.discogs.com/artist/38661-Eminem</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">Eminem Discography: Complete List of Albums and Singles</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">All Rights Reserved</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">Global, USA</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Eminem Biography, Eminem Awards</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Official Eminem Website, Music Records</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Music Records Database</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">A comprehensive discography of Eminem, including all albums, singles, and collaborations.</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Eminem, Discography, Albums, Singles, Music</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

@@ -1,0 +1,69 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">75</metadata>
+<metadata name="buildType">lucene</metadata>
+<metadata name="indexStem">projectd</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="buildDate">1719849063</metadata>
+<metadata name="earliestDatestamp">1719849023</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2LuceneSearch">
+<indexStem name="projectd" />
+<databaseType name="jdbm" />
+<indexList>
+<index name="text" shortname="TX" />
+<index name="dc.Title,ex.dc.Title,Title" shortname="TI" />
+<index name="Source" shortname="SO" />
+<index name="dc.Contributor" shortname="CN" />
+<index name="dc.Coverage" shortname="CO" />
+<index name="dc.Creator" shortname="CR" />
+<index name="dc.Date" shortname="DA" />
+<index name="dc.Description" shortname="DE" />
+<index name="dc.Format" shortname="FO" />
+<index name="dc.Language" shortname="LG" />
+<index name="dc.Publisher" shortname="PU" />
+<index name="dc.Relation" shortname="RE" />
+<index name="dc.Type" shortname="TY" />
+<index name="dc.Rights" shortname="RI" />
+<index name="dc.Source" shortname="SR" />
+<index name="dc.Subject" shortname="SU" />
+<index name="dc.Title" shortname="TT" />
+<index name="gs.DocumentHeader" shortname="DO" />
+<index name="gs.filenameEncoding" shortname="FI" />
+<index name="gs.OAIResourceURL" shortname="OA" />
+</indexList>
+<defaultIndex shortname="TX" />
+<levelList>
+<level name="document" shortname="Doc" />
+<level name="section" shortname="Sec" />
+</levelList>
+<defaultLevel shortname="Doc" />
+<defaultDBLevel shortname="Sec" />
+<sortList>
+<sort name="rank" shortname="rank" />
+<sort name="none" shortname="none" />
+</sortList>
+<defaultSort shortname="rank" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+</serviceRack>
+<serviceRack name="GS2LuceneRetrieve">
+<indexStem name="projectd" />
+<defaultLevel shortname="Sec" />
+<databaseType name="jdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="projectd" />
+<databaseType name="jdbm" />
+<classifierList>
+<classifier name="CL1" content="dc.Title,Title" />
+<classifier name="CL2" content="Source" />
+<classifier name="CL3" content="dc.Description" />
+<classifier name="CL4" content="dc.Creator" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

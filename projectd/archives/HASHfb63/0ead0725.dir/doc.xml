@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Leonardo\LeonardoLife\photo2.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">7147</Metadata>
+    <Metadata name="Source">photo2.jpeg</Metadata>
+    <Metadata name="SourceFile">photo2.jpeg</Metadata>
+    <Metadata name="srclink_file">photo2.jpeg</Metadata>
+    <Metadata name="srclinkFile">photo2.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Venhar Ademi</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Andi Zahiri</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">An in-depth look at the life of Leonardo DiCaprio, covering his early years, career milestones, personal life, and contributions to the entertainment industry.</Metadata>
+    <Metadata name="dc.Format">PDF, JPEG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Hollywood Database</Metadata>
+    <Metadata name="dc.Relation">Related articles on Leonardo DiCaprio's biography and career</Metadata>
+    <Metadata name="dc.Rights">All rights reserved</Metadata>
+    <Metadata name="dc.Source">Hollywood Reporter Archives</Metadata>
+    <Metadata name="dc.Subject">Leonardo DiCaprio, Life, Biography, Career, Personal Life</Metadata>
+    <Metadata name="dc.Title">Leonardo Life</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Leonardo DiCaprio Life Overview</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.esquire.com/entertainment/g29637849/rare-photos-leonardo-dicaprio/</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">photo2</Metadata>
+    <Metadata name="Identifier">HASHfb630ead07252d6803c182</Metadata>
+    <Metadata name="lastmodified">1719848825</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849049</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHfb63/0ead0725.dir</Metadata>
+    <Metadata name="gsdlassocfile">photo2.jpeg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

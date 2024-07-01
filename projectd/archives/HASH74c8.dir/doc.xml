@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Eminem\EminemLifeStory\Eminem Legacy.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">81867</Metadata>
+    <Metadata name="Source">Eminem Legacy.jpg</Metadata>
+    <Metadata name="SourceFile">Eminem Legacy.jpg</Metadata>
+    <Metadata name="srclink_file">Eminem Legacy.jpg</Metadata>
+    <Metadata name="srclinkFile">Eminem Legacy.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Contributor">Andi Zahiri</Metadata>
+    <Metadata name="dc.Coverage">Global, USA</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A detailed account of Eminem's life story, including his early life, rise to fame, and personal struggles.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music Biography Publications</Metadata>
+    <Metadata name="dc.Relation">Eminem Biography, Eminem Discography, Eminem Facts</Metadata>
+    <Metadata name="dc.Rights">All Rights Reserved</Metadata>
+    <Metadata name="dc.Source">Eminem Official Website, Music Biography Archives</Metadata>
+    <Metadata name="dc.Subject">Eminem, Life Story, Biography, Music, Rap</Metadata>
+    <Metadata name="dc.Title">Eminem Life Style</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">The Life Story of Eminem: From Humble Beginnings to Rap Legend</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://detroithistorical.org/learn/encyclopedia-of-detroit/mathers-marshall-eminem</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Eminem Legacy</Metadata>
+    <Metadata name="Identifier">HASH74c8752001fd86aefa57</Metadata>
+    <Metadata name="lastmodified">1719848822</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849036</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH74c8.dir</Metadata>
+    <Metadata name="gsdlassocfile">Eminem Legacy.jpg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

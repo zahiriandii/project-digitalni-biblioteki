@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Users/andiz/Downloads/ProjectDB/projectd/tmp/1719849046/Leonardo Facts.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Users/andiz/Downloads/ProjectDB/projectd/tmp/1719849046/Leonardo Facts.html</Metadata>
+    <Metadata name="Title">Leonardo Facts</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Leonardo\LeonardoFacts\Leonardo Facts.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1719849046\Leonardo Facts.html</Metadata>
+    <Metadata name="OrigSource">Leonardo Facts.html</Metadata>
+    <Metadata name="Source">Leonardo Facts.pdf</Metadata>
+    <Metadata name="SourceFile">Leonardo Facts.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">49196</Metadata>
+    <Metadata name="FilenameRoot">Leonardo Facts</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="dc.Contributor">Venhar Ademi</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Andi Zahiri</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A collection of interesting and lesser-known facts about Leonardo DiCaprio, including details about his personal life, career, and achievements.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Hollywood Database</Metadata>
+    <Metadata name="dc.Relation">Related articles on Leonardo DiCaprio's movies and biography </Metadata>
+    <Metadata name="dc.Rights">All rights reserved</Metadata>
+    <Metadata name="dc.Source">Hollywood Reporter Archives</Metadata>
+    <Metadata name="dc.Subject">Leonardo DiCaprio, Facts, Trivia, Interesting Information, Biography</Metadata>
+    <Metadata name="dc.Title">Leonardo Facts</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Leonardo DiCaprio Facts Compilation</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.theguardian.com/film/filmblog/2014/nov/11/40-things-about-leonardo-dicaprio-birthday-trivia</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH0168279789da4c9831841e94</Metadata>
+    <Metadata name="lastmodified">1719848824</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849047</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH0168.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">page2.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page1&quot;&gt;
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:monospace; font-weight:bold; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:72px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leonardo DiCaprio – Interesting Facts&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:98px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;1. Ран почеток&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:122px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Детски актер: Леонардо ја започна својата кариера во забавната индустрија на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:138px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;млада возраст, појавувајќи се во ТВ реклами и емисии како Растечки болки пред&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:153px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;да го направи своето филмско деби.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:177px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;2. Пробивна улога&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:201px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Што јаде Гилберт Грејп: Неговата улога како Арни Грејп во овој филм му ја донесе&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:217px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;првата номинација за Оскар на само 19 години, покажувајќи го својот талент рано.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:241px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;3. Еколошки активизам&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:265px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Посветен екологист: Ди Каприо е страствен застапник за еколошки прашања. Тој&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:280px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ја основа Фондацијата Леонардо ди Каприо во 1998 година, фокусирајќи се на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:296px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;глобалните напори за зачувување.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:320px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4. Слава на Титаник&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:344px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Глобална ѕвезда: Неговата улога како Џек Досон во Титаник го катапултираше до&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:360px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;светска слава, правејќи го познато име и срцекршач на доцните 1990-ти.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:383px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;5. Соработка со Мартин Скорсезе&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:407px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Динамично дуо: Ди Каприо соработуваше со легендарниот режисер Мартин&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:423px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Скорсезе на повеќе филмови, вклучувајќи ги „Авијатичарот“, „Волкот од Волстрит“&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:439px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и „Заминаа“.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:463px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;6. Добитник на Оскар&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:486px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Најдобар актер: По неколку номинации, Ди Каприо го доби својот прв Оскар за&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:502px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;најдобар актер во The Revenant (2015), каде што портретираше граничен човек во&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:518px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;потрага по опстанок.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:542px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;7. Филантропија&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:566px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Дарежлив донатор: Покрај неговата работа за животната средина, Ди Каприо&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:581px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;поддржува различни добротворни цели, вклучително и помош при катастрофи и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:597px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;зачувување на дивиот свет.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:621px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8. Разновидни улоги&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:645px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Опсег на ликови: Тој прикажа широк спектар на ликови, од историски личности&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:661px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;како Џ. Едгар Хувер во Џ. Едгар до шармантен измамник во Фати ме ако можеш.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:684px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;9. Продуцент на документарни филмови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:708px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Подигнување на свеста: Леонардо продуцираше неколку документарни филмови&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:724px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;фокусирани на еколошки прашања, како што се Пред поплавата и мразот на огнот,&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:740px;&quot;&gt;&lt;span class=&quot;p1f12&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;користејќи ја својата платформа за едуцирање на јавноста.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 2</Metadata>
+  </Description>
+  <Content>
+&lt;div id=&quot;page2&quot;&gt;
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f3 { font-family:monospace; font-weight:bold; font-style:normal; }
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f9 { font-family:monospace; font-weight:normal; font-style:normal; }
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:72px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;10. Колекционер на уметност и филм&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:95px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Уметнички ентузијаст: Ди Каприо е страствен колекционер на уметнички дела и&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:111px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;љубител на филмски сувенири, честопати забележан на големи уметнички аукции&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:127px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и настани.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:151px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;11. Страст за климатски промени&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:175px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Гласник на мирот на ОН: Во 2014 година, тој беше назначен за гласник на мирот на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:190px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Обединетите нации со фокус на климатските промени, говорејќи на самитите на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:206px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ОН за климата за да се залага за акција.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:230px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;12. Почитуван актер&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:254px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Критички признат: познат по неговата интензивна посветеност на своите улоги, тој&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:270px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;често поминува низ значителни физички и ментални подготовки за да ги&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:285px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;отелотвори своите ликови.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:309px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Заклучок&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:333px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Леонардо ди Каприо не е само успешен актер, туку и посветен еколошки активист&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:349px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и филантроп. Неговиот придонес во филмот и неговото застапување за еколошки&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:365px;&quot;&gt;&lt;span class=&quot;p2f5&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;прашања го прават извонредна фигура и на екранот и надвор од него.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>

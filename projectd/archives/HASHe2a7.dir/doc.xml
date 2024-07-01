@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Leonardo\LeonardoBiography\Biography3.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">9201</Metadata>
+    <Metadata name="Source">Biography3.jpeg</Metadata>
+    <Metadata name="SourceFile">Biography3.jpeg</Metadata>
+    <Metadata name="srclink_file">Biography3.jpeg</Metadata>
+    <Metadata name="srclinkFile">Biography3.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Andi Zahiri</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">A detailed biography of Leonardo DiCaprio, covering his early life, career achievements, and personal life.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Hollywood Database</Metadata>
+    <Metadata name="dc.Relation">Related articles on Leonardo DiCaprio's movies and awards</Metadata>
+    <Metadata name="dc.Rights">All rights reserved</Metadata>
+    <Metadata name="dc.Source">Hollywood Reporter Archives</Metadata>
+    <Metadata name="dc.Subject">Leonardo DiCaprio, Biography, Actor, Career, Movies</Metadata>
+    <Metadata name="dc.Title">Leonardo Biography</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">Leonardo DiCaprio Biography Compilation</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://www.britannica.com/biography/Leonardo-DiCaprio</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Biography3</Metadata>
+    <Metadata name="Identifier">HASHe2a73c12d56a657d22db01</Metadata>
+    <Metadata name="lastmodified">1719848823</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849042</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASHe2a7.dir</Metadata>
+    <Metadata name="gsdlassocfile">Biography3.jpeg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

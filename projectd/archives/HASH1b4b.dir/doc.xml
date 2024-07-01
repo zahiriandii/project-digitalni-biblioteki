@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Eminem\EminemFacts\Eminems Fact6.jpeg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="FileSize">12507</Metadata>
+    <Metadata name="Source">Eminems Fact6.jpeg</Metadata>
+    <Metadata name="SourceFile">Eminems Fact6.jpeg</Metadata>
+    <Metadata name="srclink_file">Eminems Fact6.jpeg</Metadata>
+    <Metadata name="srclinkFile">Eminems Fact6.jpeg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot;&gt;</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; alt=&quot;[srclinkFile]&quot; width=&quot;100&quot;&gt;</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">Interesting and lesser-known facts about Eminem, covering his life, career, and achievements.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music Trivia Publications</Metadata>
+    <Metadata name="dc.Relation">Eminem Biography, Eminem Discography</Metadata>
+    <Metadata name="dc.Rights">Public Domain</Metadata>
+    <Metadata name="dc.Source">Eminem Official Website, Music Trivia Archives</Metadata>
+    <Metadata name="dc.Subject">Eminem, Facts, Trivia, Music, Rap</Metadata>
+    <Metadata name="dc.Title">Eminem Facts</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">&quot;Interesting Facts about Eminem: From His Early Life to Global Fame</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://facts.net/history/people/15-facts-about-eminem/</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Title">Eminems Fact6</Metadata>
+    <Metadata name="Identifier">HASH1b4b3d14ef755df3ebf513</Metadata>
+    <Metadata name="lastmodified">1719848822</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849035</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH1b4b.dir</Metadata>
+    <Metadata name="gsdlassocfile">Eminems Fact6.jpeg::</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,306 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH01cf.dir\doc.xml"  gs2:docOID="HASH01cfa1a747ffb859b30c3f0a" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH01cfa1a747ffb859b30c3f0a" gs2:mode="add">
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH01cfa1a747ffb859b30c3f0a.1" gs2:mode="add">
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f79 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f80 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f81 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f82 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f83 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f84 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f85 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f86 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f87 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f88 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f89 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f90 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f91 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f92 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f93 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f94 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f95 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f96 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:233px; top:74px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Eminem’s &lt;/span&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:15px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Life Story&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:100px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Подем до Славата&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:124px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Еминем разви голем интерес за раскажување приказни и хип&lt;/span&gt;&lt;span class=&quot;p1f11&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;хоп во текот на&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:139px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;неговите тинејџерски години. Тој започна да учествува во рап битки низ Детроит,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:154px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;постепено градејќи репутација на локалната сцена за неговата остроумност и лирска&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:169px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;умешност. Во 1996 година, го издаде својот прв албум, *Infinite*, кој постигна&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:184px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ограничен комерцијален успех, но го покажа неговиот суров талент и потенцијал.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:200px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Интроспективните текстови на албумот и сложената игра на зборови навестуваа на&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:215px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;извонредната кариера што претстоеше.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:230px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Пробивот на Еминем дојде со објавувањето на &lt;/span&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Slim Shady EP &lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;во 1997 година, што го&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:244px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;привлече вниманието на Др. Дре. Под менторството на Дре, Еминем го издаде &lt;/span&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;The Slim Shady&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:257px;&quot;&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:10px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;LP &lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;во 1999 година, кој беше монументален успех, освојувајќи Греми за најдобар рап албум.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:271px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Неговото алтер его, Слим Шејди, и провокативните теми на албумот му донесоа признание и&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:285px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;контроверзии, воспоставувајќи го како голема сила во музичката индустрија.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:315px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Личен Живот&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:338px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Личниот живот на Еминем често е тема во неговата музика. Тој отворено зборува за&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:354px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;своите борби со зависноста, за бурната врска со поранешната сопруга &lt;/span&gt;&lt;span class=&quot;p1f43&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Ким &lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и за&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:369px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;неговата улога како татко на неговата ќерка &lt;/span&gt;&lt;span class=&quot;p1f43&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Хејли&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;. Неговата музика често ги&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:384px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;одразува неговите лични искуства и емоционални борби, нудејќи им на слушателите&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:399px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;суров и нефилтриран поглед во неговиот живот. Песни како &amp;quot;&lt;/span&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Cleanin' Out My Closet&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot; и&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:414px;&quot;&gt;&lt;span class=&quot;p1f11&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Mockingbird&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot; се длабоко лични, откривајќи ја неговата ранливост и издржливост.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:445px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Наследство&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:468px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Еминем нашироко се смета за еден од најголемите рапери на сите времиња, познат&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:484px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;по неговите сложени текстови, техничка вештина и длабокото влијание врз&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:499px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;музичката индустрија. Добитник е на бројни награди, вклучително и повеќе Греми&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:514px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;награди и Оскар за најдобра оригинална песна за &amp;quot;&lt;/span&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Lose Yourself&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;&amp;quot; од филмот &lt;/span&gt;&lt;span class=&quot;p1f24&quot; style=&quot;font-size:11px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;8 Mile&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:529px;&quot;&gt;&lt;span class=&quot;p1f11&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(20&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;02), кој лабаво го прикажува неговиот ран живот. Неговото влијание се протега&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:544px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;надвор од музиката; тој ги скрши бариерите во хип&lt;/span&gt;&lt;span class=&quot;p1f11&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;хопот како бел рапер во&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:560px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;претежно црнец жанр и ја искористи својата платформа за решавање на социјалните&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:575px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;прашања. Неговата искреност, издржливост и иновативност продолжуваат да ги&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:590px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;инспирираат уметниците и обожавателите ширум светот.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:620px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Заклучок&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:644px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Патувањето на Еминем од проблематичното детство до глобалната суперѕвезда е&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:659px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;доказ за неговиот талент и одлучност. И покрај бројните предизвици, тој остави&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:674px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;неизбришлива трага во музиката и културата, зацврстувајќи го своето наследство&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:690px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;како вистинска икона во хип&lt;/span&gt;&lt;span class=&quot;p1f11&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;хопот. Неговата приказна е приказна за упорност и&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:705px;&quot;&gt;&lt;span class=&quot;p1f9&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;триумф, илустрирајќи ја моќта на музиката како средство за личен израз&lt;/span&gt;&lt;span class=&quot;p1f11&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>

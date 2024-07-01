@@ -1,0 +1,1231 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH6f06.dir\doc.xml"  gs2:docOID="HASH6f06f1ab565b0947157f16" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH6f06f1ab565b0947157f16" gs2:mode="add">
+
+&lt;div id=&quot;wrapper&quot;&gt;
+    &lt;div class=&quot;page-wrap&quot;&gt;
+        &lt;header id=&quot;header&quot; class=&quot;infinite &quot;&gt;
+            &lt;div class=&quot;nav-drop&quot;&gt;
+                &lt;div class=&quot;jcf-scrollable&quot;&gt;
+                    &lt;div class=&quot;aside-holder&quot;&gt;
+                        &lt;nav id=&quot;aside-nav&quot;&gt;
+                            &lt;div class=&quot;nav-top&quot;&gt;
+                                &lt;div class=&quot;logo&quot;&gt;
+                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; class=&quot;logo-holder&quot;&gt;
+                                                                                    &lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://www.grunge.com/img/grunge_logo_orange.svg&quot; alt=&quot;Grunge&quot; width=&quot;142&quot; height=&quot;30&quot;&gt;
+                                                                            &lt;/a&gt;
+                                    &lt;a href=&quot;_httpsamepagelink_#&quot; class=&quot;nav-opener close&quot;&gt;×&lt;/a&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                                                                                        &lt;ul&gt;
+                                                                            &lt;li class=&quot;weird-facts-stories &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fweird-facts-stories%2f&quot;&gt;WEIRD&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;history &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fhistory%2f&quot;&gt;HISTORY&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;crime-stories &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fcrime-stories%2f&quot;&gt;CRIME&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;entertainment &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fentertainment%2f&quot;&gt;ENTERTAINMENT&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;science-facts &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fscience-facts%2f&quot;&gt;SCIENCE&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;nature-facts &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fnature-facts%2f&quot;&gt;NATURE&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;politics &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fpolitics%2f&quot;&gt;POLITICS&lt;/a&gt;&lt;/li&gt;
+                                                                            &lt;li class=&quot;features &quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2ffeatures%2f&quot;&gt;FEATURES&lt;/a&gt;&lt;/li&gt;
+                                                                        &lt;li class=&quot;social-icons&quot;&gt;
+                                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.facebook.com%2fGrungeHQ&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#facebook&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fc%2fGrungeHQ&quot; target=&quot;_blank&quot; title=&quot;YouTube&quot; aria-label=&quot;YouTube&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#youtube&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fflipboard.com%2f@Grunge&quot; target=&quot;_blank&quot; title=&quot;Flipboard&quot; aria-label=&quot;Flipboard&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#flipboard&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstory.snapchat.com%2fp%2fcfe0aaa2-9525-4d16-ad4c-200655b7b7fa&quot; target=&quot;_blank&quot; title=&quot;Snapchat&quot; aria-label=&quot;Snapchat&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#snapchat&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fnews.google.com%2fpublications%2fCAAqBwgKMKqIhQswlZmCAw&quot; target=&quot;_blank&quot; title=&quot;Google&quot; aria-label=&quot;Google&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#google&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ffeed%2f&quot; target=&quot;_blank&quot; title=&quot;RSS&quot; aria-label=&quot;RSS&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#rss&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;                                    &lt;/li&gt;
+
+                                    
+                                    
+                                    &lt;li class=&quot;newsletter-container&quot;&gt;&lt;div class=&quot;newsletter advertise&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstatic.com%2fadvertise&quot; target=&quot;_blank&quot; title=&quot;Advertise&quot; aria-label=&quot;Advertise&quot;&gt;&lt;svg&gt;&lt;use xlink:href=&quot;#advertise&quot;&gt;&lt;/use&gt;&lt;/svg&gt; Advertise&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;
+
+                                    &lt;li class=&quot;info-links first-info-link&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fabout%2f&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li class=&quot;info-links&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fpolicies%2f&quot;&gt;Editorial Policies&lt;/a&gt;&lt;/li&gt;
+                                                                                                                &lt;li class=&quot;info-links&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2four-experts%2f&quot;&gt;Our Experts&lt;/a&gt;&lt;/li&gt;
+                                                                        &lt;li class=&quot;info-links&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.static.com%2fprivacy-policy&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;
+                                    &lt;li class=&quot;info-links&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.static.com%2fterms&quot; target=&quot;_blank&quot;&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;
+                                &lt;/ul&gt;
+                                                    &lt;/nav&gt;
+                        &lt;div class=&quot;nav-bottom&quot;&gt;
+                            &lt;span class=&quot;copyright-info&quot;&gt;© 2024                                &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.static.com&quot; target=&quot;_blank&quot;&gt;Static Media&lt;/a&gt;. All Rights Reserved
+                            &lt;/span&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div id=&quot;bg&quot;&gt;&lt;/div&gt;
+         
+            &lt;div id=&quot;header-container&quot;&gt;
+                &lt;div id=&quot;hamburger-holder&quot;&gt;
+                    &lt;div class=&quot;hamburger nav-opener&quot;&gt;&lt;/div&gt;
+                &lt;/div&gt;
+
+                                    &lt;div id=&quot;logo&quot; class=&quot;top-nav-standard&quot;&gt;
+                                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; &gt;
+                                                            &lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://www.grunge.com/img/grunge_logo_orange.svg&quot; alt=&quot;Grunge&quot; width=&quot;142&quot; height=&quot;30&quot;&gt;
+                                                    &lt;/a&gt;
+                                    &lt;/div&gt;
+                
+                &lt;div id=&quot;logo-icon&quot; class=&quot;top-nav-scrolled&quot;&gt;
+                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; &gt;
+                                                    &lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://www.grunge.com/img/grunge_icon_orange.svg&quot; alt=&quot;Grunge&quot; width=&quot;24&quot; height=&quot;30&quot;&gt;
+                                            &lt;/a&gt;
+                &lt;/div&gt;
+
+                &lt;div id=&quot;top-nav-title&quot; class=&quot;top-nav-scrolled&quot;&gt;Eminem's Insane Real-Life Story&lt;/div&gt;
+
+                                    &lt;div id=&quot;search-container&quot; class=&quot;top-nav-standard&quot;&gt;
+                        &lt;nav id=&quot;top-nav-holder&quot;&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fweird-facts-stories%2f&quot; class=&quot;weird-facts-stories &quot;&gt;WEIRD&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fhistory%2f&quot; class=&quot;history &quot;&gt;HISTORY&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fcrime-stories%2f&quot; class=&quot;crime-stories &quot;&gt;CRIME&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fentertainment%2f&quot; class=&quot;entertainment &quot;&gt;ENTERTAINMENT&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fscience-facts%2f&quot; class=&quot;science-facts &quot;&gt;SCIENCE&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fnature-facts%2f&quot; class=&quot;nature-facts &quot;&gt;NATURE&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fpolitics%2f&quot; class=&quot;politics &quot;&gt;POLITICS&lt;/a&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2ffeatures%2f&quot; class=&quot;features &quot;&gt;FEATURES&lt;/a&gt;
+                                                &lt;/nav&gt;
+                    &lt;/div&gt;
+                
+                                    &lt;nav id=&quot;social-nav-holder&quot; class=&quot;top-nav-standard&quot;&gt;
+                        &lt;svg width=&quot;0&quot; height=&quot;0&quot; class=&quot;hidden&quot;&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;rss&quot;&gt;
+                                &lt;path d=&quot;M4.259 23.467A4.265 4.265 0 000 27.719a4.25 4.25 0 004.259 4.244 4.25 4.25 0 004.265-4.244 4.265 4.265 0 00-4.265-4.252zM.005 10.873v6.133c3.993 0 7.749 1.562 10.577 4.391A14.897 14.897 0 0114.966 32h6.16c0-11.651-9.478-21.127-21.121-21.127zM.012 0v6.136C14.255 6.136 25.848 17.74 25.848 32H32C32 14.36 17.648 0 .012 0z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 512 512&quot; id=&quot;twitter&quot;&gt;
+                                &lt;path d=&quot;M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;facebook&quot;&gt;
+                                &lt;path d=&quot;M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;flipboard&quot;&gt;
+                                &lt;path d=&quot;M0 0v32h32V0zm25.6 12.8h-6.4v6.4h-6.4v6.4H6.4V6.4h19.2z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;instagram&quot;&gt;
+                                &lt;path d=&quot;M16 2.881c4.275 0 4.781.019 6.462.094 1.563.069 2.406.331 2.969.55a4.952 4.952 0 011.837 1.194 5.015 5.015 0 011.2 1.838c.219.563.481 1.412.55 2.969.075 1.688.094 2.194.094 6.463s-.019 4.781-.094 6.463c-.069 1.563-.331 2.406-.55 2.969a4.94 4.94 0 01-1.194 1.837 5.02 5.02 0 01-1.837 1.2c-.563.219-1.413.481-2.969.55-1.688.075-2.194.094-6.463.094s-4.781-.019-6.463-.094c-1.563-.069-2.406-.331-2.969-.55a4.952 4.952 0 01-1.838-1.194 5.02 5.02 0 01-1.2-1.837c-.219-.563-.481-1.413-.55-2.969-.075-1.688-.094-2.194-.094-6.463s.019-4.781.094-6.463c.069-1.563.331-2.406.55-2.969a4.964 4.964 0 011.194-1.838 5.015 5.015 0 011.838-1.2c.563-.219 1.412-.481 2.969-.55 1.681-.075 2.188-.094 6.463-.094zM16 0c-4.344 0-4.887.019-6.594.094-1.7.075-2.869.35-3.881.744-1.056.412-1.95.956-2.837 1.85a7.833 7.833 0 00-1.85 2.831C.444 6.538.169 7.7.094 9.4.019 11.113 0 11.656 0 16s.019 4.887.094 6.594c.075 1.7.35 2.869.744 3.881.413 1.056.956 1.95 1.85 2.837a7.82 7.82 0 002.831 1.844c1.019.394 2.181.669 3.881.744 1.706.075 2.25.094 6.594.094s4.888-.019 6.594-.094c1.7-.075 2.869-.35 3.881-.744 1.05-.406 1.944-.956 2.831-1.844s1.438-1.781 1.844-2.831c.394-1.019.669-2.181.744-3.881.075-1.706.094-2.25.094-6.594s-.019-4.887-.094-6.594c-.075-1.7-.35-2.869-.744-3.881a7.506 7.506 0 00-1.831-2.844A7.82 7.82 0 0026.482.843C25.463.449 24.301.174 22.601.099c-1.712-.081-2.256-.1-6.6-.1z&quot;&gt;&lt;/path&gt;
+                                &lt;path d=&quot;M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219A8.221 8.221 0 0016 7.781zm0 13.55a5.331 5.331 0 110-10.663 5.331 5.331 0 010 10.663zM26.462 7.456a1.919 1.919 0 11-3.838 0 1.919 1.919 0 013.838 0z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;youtube&quot;&gt;
+                                &lt;path d=&quot;M31.681 9.6s-.313-2.206-1.275-3.175C29.187 5.15 27.825 5.144 27.2 5.069c-4.475-.325-11.194-.325-11.194-.325h-.012s-6.719 0-11.194.325c-.625.075-1.987.081-3.206 1.356C.631 7.394.325 9.6.325 9.6s-.319 2.588-.319 5.181v2.425c0 2.587.319 5.181.319 5.181s.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563.244 10.881.319 10.881.319s6.725-.012 11.2-.331c.625-.075 1.988-.081 3.206-1.356.962-.969 1.275-3.175 1.275-3.175s.319-2.587.319-5.181v-2.425c-.006-2.588-.325-5.181-.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;pinterest&quot;&gt;
+                                &lt;path d=&quot;M16 0C7.175 0 0 7.175 0 16s7.175 16 16 16 16-7.175 16-16S24.825 0 16 0zm0 29.863c-1.431 0-2.806-.219-4.106-.619.563-.919 1.412-2.431 1.725-3.631.169-.65.863-3.294.863-3.294.45.863 1.775 1.594 3.175 1.594 4.181 0 7.194-3.844 7.194-8.625 0-4.581-3.738-8.006-8.544-8.006-5.981 0-9.156 4.019-9.156 8.387 0 2.031 1.081 4.563 2.813 5.369.262.125.4.069.463-.188.044-.194.281-1.131.387-1.575a.427.427 0 00-.094-.4c-.575-.694-1.031-1.975-1.031-3.162 0-3.056 2.313-6.019 6.256-6.019 3.406 0 5.788 2.319 5.788 5.637 0 3.75-1.894 6.35-4.356 6.35-1.363 0-2.381-1.125-2.05-2.506.394-1.65 1.15-3.425 1.15-4.613 0-1.063-.569-1.95-1.756-1.95-1.394 0-2.506 1.438-2.506 3.369 0 1.225.412 2.056.412 2.056s-1.375 5.806-1.625 6.887c-.281 1.2-.169 2.881-.05 3.975-5.156-2.012-8.813-7.025-8.813-12.9 0-7.656 6.206-13.863 13.862-13.863s13.863 6.206 13.863 13.863c0 7.656-6.206 13.863-13.863 13.863z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;tiktok&quot;&gt;
+                                &lt;path d=&quot;M 22.472559,-3.8146973e-6 C 23.000559,4.5408962 25.535059,7.2481962 29.941559,7.5361962 v 5.1073998 c -2.5536,0.2496 -4.7905,-0.5856 -7.3922,-2.1601 v 9.5523 c 0,12.1348 -13.2292004,15.927 -18.5478004,7.2291 -3.4177,-5.597 -1.3248,-15.4181 9.6387004,-15.8117 v 5.3857 c -0.8352,0.1344 -1.728,0.3456 -2.5441,0.6241 -2.4384004,0.8256 -3.8209004,2.3712 -3.4369004,5.0977 0.7392,5.2226 10.3204004,6.7682 9.5235004,-3.4369 V 0.00959619 h 5.2898 z&quot; /&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;twitch&quot;&gt;
+                                &lt;path d=&quot;M3 0l-3 5v23h8v4h4l4-4h5l9-9v-19h-27zM26 17l-5 5h-5l-4 4v-4h-6v-18h20v13z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M19 8h3v8h-3v-8z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M13 8h3v8h-3v-8z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 512 512&quot; id=&quot;snapchat&quot;&gt;
+                                &lt;path d=&quot;M496.926,366.6c-3.373-9.176-9.8-14.086-17.112-18.153-1.376-.806-2.641-1.451-3.72-1.947-2.182-1.128-4.414-2.22-6.634-3.373-22.8-12.09-40.609-27.341-52.959-45.42a102.889,102.889,0,0,1-9.089-16.12c-1.054-3.013-1-4.724-.248-6.287a10.221,10.221,0,0,1,2.914-3.038c3.918-2.591,7.96-5.22,10.7-6.993,4.885-3.162,8.754-5.667,11.246-7.44,9.362-6.547,15.909-13.5,20-21.278a42.371,42.371,0,0,0,2.1-35.191c-6.2-16.318-21.613-26.449-40.287-26.449a55.543,55.543,0,0,0-11.718,1.24c-1.029.224-2.059.459-3.063.72.174-11.16-.074-22.94-1.066-34.534-3.522-40.758-17.794-62.123-32.674-79.16A130.167,130.167,0,0,0,332.1,36.443C309.515,23.547,283.91,17,256,17S202.6,23.547,180,36.443a129.735,129.735,0,0,0-33.281,26.783c-14.88,17.038-29.152,38.44-32.673,79.161-.992,11.594-1.24,23.435-1.079,34.533-1-.26-2.021-.5-3.051-.719a55.461,55.461,0,0,0-11.717-1.24c-18.687,0-34.125,10.131-40.3,26.449a42.423,42.423,0,0,0,2.046,35.228c4.105,7.774,10.652,14.731,20.014,21.278,2.48,1.736,6.361,4.24,11.246,7.44,2.641,1.711,6.5,4.216,10.28,6.72a11.054,11.054,0,0,1,3.3,3.311c.794,1.624.818,3.373-.36,6.6a102.02,102.02,0,0,1-8.94,15.785c-12.077,17.669-29.363,32.648-51.434,44.639C32.355,348.608,20.2,352.75,15.069,366.7c-3.868,10.528-1.339,22.506,8.494,32.6a49.137,49.137,0,0,0,12.4,9.387,134.337,134.337,0,0,0,30.342,12.139,20.024,20.024,0,0,1,6.126,2.741c3.583,3.137,3.075,7.861,7.849,14.78a34.468,34.468,0,0,0,8.977,9.127c10.019,6.919,21.278,7.353,33.207,7.811,10.776.41,22.989.881,36.939,5.481,5.778,1.91,11.78,5.605,18.736,9.92C194.842,480.951,217.707,495,255.973,495s61.292-14.123,78.118-24.428c6.907-4.24,12.872-7.9,18.489-9.758,13.949-4.613,26.163-5.072,36.939-5.481,11.928-.459,23.187-.893,33.206-7.812a34.584,34.584,0,0,0,10.218-11.16c3.434-5.84,3.348-9.919,6.572-12.771a18.971,18.971,0,0,1,5.753-2.629A134.893,134.893,0,0,0,476.02,408.71a48.344,48.344,0,0,0,13.019-10.193l.124-.149C498.389,388.5,500.708,376.867,496.926,366.6Zm-34.013,18.277c-20.745,11.458-34.533,10.23-45.259,17.137-9.114,5.865-3.72,18.513-10.342,23.076-8.134,5.617-32.177-.4-63.239,9.858-25.618,8.469-41.961,32.822-88.038,32.822s-62.036-24.3-88.076-32.884c-31-10.255-55.092-4.241-63.239-9.858-6.609-4.563-1.24-17.211-10.341-23.076-10.739-6.907-24.527-5.679-45.26-17.075-13.206-7.291-5.716-11.8-1.314-13.937,75.143-36.381,87.133-92.552,87.666-96.719.645-5.046,1.364-9.014-4.191-14.148-5.369-4.96-29.189-19.7-35.8-24.316-10.937-7.638-15.748-15.264-12.2-24.638,2.48-6.485,8.531-8.928,14.879-8.928a27.643,27.643,0,0,1,5.965.67c12,2.6,23.659,8.617,30.392,10.242a10.749,10.749,0,0,0,2.48.335c3.6,0,4.86-1.811,4.612-5.927-.768-13.132-2.628-38.725-.558-62.644,2.84-32.909,13.442-49.215,26.04-63.636,6.051-6.932,34.484-36.976,88.857-36.976s82.88,29.92,88.931,36.827c12.611,14.421,23.225,30.727,26.04,63.636,2.071,23.919.285,49.525-.558,62.644-.285,4.327,1.017,5.927,4.613,5.927a10.648,10.648,0,0,0,2.48-.335c6.745-1.624,18.4-7.638,30.4-10.242a27.641,27.641,0,0,1,5.964-.67c6.386,0,12.4,2.48,14.88,8.928,3.546,9.374-1.24,17-12.189,24.639-6.609,4.612-30.429,19.343-35.8,24.315-5.568,5.134-4.836,9.1-4.191,14.149.533,4.228,12.511,60.4,87.666,96.718C468.629,373.011,476.119,377.524,462.913,384.877Z&quot;/&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 192 192&quot; id=&quot;threads&quot;&gt;
+                                &lt;path d=&quot;M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z&quot; /&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 618 478&quot; id=&quot;google&quot;&gt;
+                                &lt;path d=&quot;M617.84 456.59C617.82 467.86 608.68 477 597.41 477.02H20.43C9.16 477 0.02 467.86 0 456.59V20.43C0.02 9.16 9.16 0.02 20.43 0H597.41C608.68 0.02 617.82 9.16 617.84 20.43V456.59ZM516.79 342.6V302.74C516.79 301.26 515.59 300.06 514.11 300.06H335.02V345.46H514.11C515.61 345.44 516.82 344.2 516.79 342.7C516.79 342.67 516.79 342.64 516.79 342.6ZM544.02 256.35V216.31C544.04 214.83 542.86 213.61 541.38 213.59C541.37 213.59 541.35 213.59 541.34 213.59H335.02V258.99H541.34C542.79 259.02 543.99 257.86 544.02 256.41C544.02 256.36 544.02 256.32 544.02 256.27V256.36V256.35ZM516.79 170.1V129.88C516.79 128.4 515.59 127.2 514.11 127.2H335.02V172.6H514.11C515.56 172.58 516.74 171.42 516.79 169.97V170.11V170.1ZM180.59 218.08V258.93H239.6C234.74 283.9 212.77 302.01 180.59 302.01C144.24 300.72 115.81 270.2 117.11 233.84C118.34 199.3 146.05 171.59 180.59 170.36C196.12 170.1 211.13 175.97 222.35 186.7L253.49 155.6C233.78 137.06 207.65 126.88 180.59 127.18C120.42 127.18 71.64 175.96 71.64 236.13C71.64 296.3 120.42 345.08 180.59 345.08C240.76 345.08 285 300.82 285 238.49C284.96 231.59 284.39 224.69 283.27 217.88L180.59 218.06V218.08Z&quot;/&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 352 512&quot; id=&quot;podcast&quot;&gt;
+                                &lt;path d=&quot;M336 192h-16c-8.84 0-16 7.16-16 16v48c0 74.8-64.49 134.82-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208c0-8.84-7.16-16-16-16H16c-8.84 0-16 7.16-16 16v40.16c0 89.64 63.97 169.55 152 181.69V464H96c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48c0-8.84-7.16-16-16-16zM176 352c53.02 0 96-42.98 96-96h-85.33c-5.89 0-10.67-3.58-10.67-8v-16c0-4.42 4.78-8 10.67-8H272v-32h-85.33c-5.89 0-10.67-3.58-10.67-8v-16c0-4.42 4.78-8 10.67-8H272v-32h-85.33c-5.89 0-10.67-3.58-10.67-8v-16c0-4.42 4.78-8 10.67-8H272c0-53.02-42.98-96-96-96S80 42.98 80 96v160c0 53.02 42.98 96 96 96z&quot;/&gt;
+                            &lt;/symbol&gt;
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot; id=&quot;envelope&quot;&gt;
+                                &lt;path d=&quot;M29 4h-26c-1.65 0-3 1.35-3 3v20c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-20c0-1.65-1.35-3-3-3zM12.461 17.199l-8.461 6.59v-15.676l8.461 9.086zM5.512 8h20.976l-10.488 7.875-10.488-7.875zM12.79 17.553l3.21 3.447 3.21-3.447 6.58 8.447h-19.579l6.58-8.447zM19.539 17.199l8.461-9.086v15.676l-8.461-6.59z&quot;&gt;&lt;/path&gt;
+                            &lt;/symbol&gt;
+                                                                                    
+                            &lt;symbol xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 16 16&quot; id=&quot;advertise&quot;&gt;
+                                &lt;g clip-path=&quot;url(#clip0_1911_5435)&quot;&gt;
+                                &lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; d=&quot;M12 1.40497L2.26973 4.27073L0 2.34144V12.6558L2.26967 10.7271L3.84476 11.191V14.1933C3.84529 15.229 4.55813 16.067 5.43904 16.0676H9.23405C9.67247 16.0682 10.0745 15.8571 10.3609 15.5183C10.6488 15.1814 10.8284 14.709 10.8278 14.1932V13.2478L12 13.593V1.40497ZM5.09306 14.5997C5.00434 14.4935 4.95039 14.3537 4.94986 14.1932V11.5168L9.72281 12.9219V14.1932C9.72227 14.3537 9.66885 14.4935 9.5796 14.5997C9.48985 14.7047 9.37052 14.7676 9.23409 14.7676H5.4391C5.30214 14.7676 5.18281 14.7047 5.09306 14.5997Z&quot; /&gt;
+                                &lt;path d=&quot;M13 1.11045L17 -0.067627V15.0654L13 13.8875V1.11045Z&quot; /&gt;
+                                &lt;/g&gt;
+                                &lt;defs&gt;
+                                &lt;clipPath id=&quot;clip0_1911_5435&quot;&gt;
+                                &lt;rect width=&quot;16&quot; height=&quot;16&quot; fill=&quot;white&quot;/&gt;
+                                &lt;/clipPath&gt;
+                                &lt;/defs&gt;
+                            &lt;/symbol&gt;
+
+                        &lt;/svg&gt;
+                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.facebook.com%2fGrungeHQ&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot; aria-label=&quot;Facebook&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#facebook&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fc%2fGrungeHQ&quot; target=&quot;_blank&quot; title=&quot;YouTube&quot; aria-label=&quot;YouTube&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#youtube&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fflipboard.com%2f@Grunge&quot; target=&quot;_blank&quot; title=&quot;Flipboard&quot; aria-label=&quot;Flipboard&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#flipboard&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstory.snapchat.com%2fp%2fcfe0aaa2-9525-4d16-ad4c-200655b7b7fa&quot; target=&quot;_blank&quot; title=&quot;Snapchat&quot; aria-label=&quot;Snapchat&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#snapchat&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fnews.google.com%2fpublications%2fCAAqBwgKMKqIhQswlZmCAw&quot; target=&quot;_blank&quot; title=&quot;Google&quot; aria-label=&quot;Google&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#google&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2ffeed%2f&quot; target=&quot;_blank&quot; title=&quot;RSS&quot; aria-label=&quot;RSS&quot;&gt;&lt;svg class=&quot;icon&quot;&gt;&lt;use xlink:href=&quot;#rss&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;                    &lt;/nav&gt;
+
+                    
+                    &lt;div class=&quot;newsletter advertise&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstatic.com%2fadvertise&quot; target=&quot;_blank&quot; title=&quot;Advertise&quot; aria-label=&quot;Advertise&quot;&gt;&lt;svg&gt;&lt;use xlink:href=&quot;#advertise&quot;&gt;&lt;/use&gt;&lt;/svg&gt; Advertise&lt;/a&gt;&lt;/div&gt;
+                    
+                            
+                            &lt;div id=&quot;top-nav-share&quot; class=&quot;top-nav-scrolled&quot;&gt;&lt;/div&gt;
+            
+            &lt;/div&gt;
+            &lt;div id=&quot;is-tablet&quot;&gt;&lt;/div&gt;
+            &lt;div id=&quot;is-mobile&quot;&gt;&lt;/div&gt;
+        &lt;/header&gt;
+&lt;main id=&quot;main&quot; role=&quot;main&quot; class=&quot;infinite&quot; data-post-type=&quot;articles&quot;&gt;
+
+&lt;div class=&quot;holder&quot;&gt;
+
+&lt;div id=&quot;content&quot; class=&quot;article&quot;&gt;
+
+&lt;article class=&quot;news-post&quot;&gt;
+    &lt;div class=&quot;news-article   &quot;&gt;
+&lt;div id=&quot;adslot-q4top&quot; class=&quot;google-ad-placeholder between-p q4&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;q4-top&quot;&gt;&lt;/div&gt;
+
+&lt;div class='breadcrumbs'&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fentertainment%2f&quot;&gt;Entertainment&lt;/a&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fcategory%2fmusic%2f&quot;&gt;Music&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&quot;main-article&quot;&gt;
+                    &lt;h1 class=&quot;title-gallery&quot;
+id=&quot;title-gallery&quot;data-post-id=&quot;103660&quot;
+                                                data-author=&quot;Elisia Guerena&quot;
+                        data-category=&quot;music-entertainment&quot;
+                        data-content_type=&quot;Feature&quot;
+                        data-mod_date=&quot;2023-02-04&quot;
+                        data-layout=&quot;Infinite&quot;
+                        data-pub_date=&quot;2018-01-07&quot;
+                        data-day=&quot;Sunday&quot;
+                        data-dayhour=&quot;Sunday6PM&quot;
+                        data-hour=&quot;6PM&quot;
+                        data-num_slides=&quot;11&quot;
+                        data-num_words=&quot;1985&quot;
+                                            &gt;Eminem's Insane Real-Life Story&lt;/h1&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  lead-image-holder&quot;
+ data-post-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/&quot; data-post-title=&quot;Eminem's Insane Real-Life Story&quot;data-slide-num=&quot;0&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture &gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/intro-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/intro-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image &quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://www.grunge.com/img/gallery/eminems-insane-real-life-story/intro-1515368256.jpg&quot;
+ data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/&quot;
+ data-post-id=&quot;103660&quot;
+ data-slide-num=&quot;0&quot;
+ data-slide-title=&quot;Eminem's Insane Real-Life Story: &quot;
+ width=&quot;780&quot; height=&quot;438&quot;
+ alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;div class=&quot;byline-container&quot;&gt;&lt;span class=&quot;byline-by&quot;&gt;By&lt;/span&gt;&amp;nbsp;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fauthor%2felisiaguerena%2f&quot; class=&quot;byline-author&quot;&gt;Elisia Guerena&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;byline-timestamp&quot;&gt;&lt;span class=&quot;byline-slash&quot;&gt;/&lt;/span&gt;&lt;time datetime=&quot;2023-02-04T18:42:14-05:00&quot;&gt;Updated: Feb. 4, 2023  6:42 pm EST&lt;/time&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;columns-holder &quot;&gt;
+                                            &lt;p&gt;
+&lt;p&gt;Eminem: a melodious name that rolls off the tongue (and maybe melts on it, too!). A name associated with acts of depravity, highly offensive language, and enough gruesome descriptions of felony-worthy behavior to warrant a couple life sentences.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Eminem is the stage name of Marshall Mathers, also known as his constructed alter ego &quot;Slim Shady.&quot; He's one of the most famous and contentious rappers of a generation, consistently breaking boundaries with his volatile rhymes that often reflect his personal and professional life. Here's the insane real-life story of Marshall Mathers.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;He came from humble roots&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;1&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-came-from-humble-roots-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-came-from-humble-roots-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-came-from-humble-roots-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/he-came-from-humble-roots/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;1&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: He came from humble roots&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder  added-content&quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Eminem was born as Marshall Mathers, the blue-eyed child of Marshall Bruce Mathers Jr. and Debbie Nelson Mathers-Briggs. Marshall's father took off 18 months after his birth, leaving 15-year-old Debbie to care for Marshall and later his younger brother Nathan. Marshall's childhood involved moving between multiple public housing systems in Kansas City and Detroit. Frequently &quot;the new kid&quot; and often one of the only white ones, Marshall started inhabiting an outsider's stance at an early age, often resulting in his being bullied. Meanwhile, home proved just as rocky. His mother exhibited signs of mental illness, so the responsibility for caring for his younger brother fell on Marshall's shoulders.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Perhaps understandably, Marshall didn't like school; he flunked out of the ninth grade three times before calling it quits. But he always loved English — specifically words. &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fwatch%3fv%3d%5fkQBVneC30o&quot; target=&quot;_blank&quot;&gt;In an interview with &lt;em&gt;60 Minutes&lt;/em&gt;&lt;/a&gt;, he copped to enjoying reading the dictionary and demonstrated his mastery of the slant rhyme by freestyling words that rhyme with the &quot;orange.&quot; With this keen interest in the English language, he moved into writing lyrics for rap battles in the underground music scene.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;He was living in a trailer when he became a rap star&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;2&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-was-living-in-a-trailer-when-he-became-a-rap-star-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-was-living-in-a-trailer-when-he-became-a-rap-star-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-was-living-in-a-trailer-when-he-became-a-rap-star-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/he-was-living-in-a-trailer-when-he-became-a-rap-star/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;2&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: He was living in a trailer when he became a rap star&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder &quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;After dropping out of school, Marshall began to regularly alternate between working, writing, and performing. His white skin in a predominantly black arena caused people to initially reject him, only to be won over once he started rapping. Meanwhile, he had a baby with his high-school girlfriend, Kim. The new family inhabited crack-riddled neighborhoods: in a &lt;em&gt;Rolling Stone&lt;/em&gt; interview, Kim recounted going through four TVs and five VCRs in two years, and Eminem recalled a crackhead who broke into their house just to make a peanut butter and jelly sandwich.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Eminem's career grew, but it wasn't enough to pay the bills. He was living in a trailer when his EP &quot;Slim Shady&quot; landed in the lap of Dr. Dre and Jimmy Iovine (both pictured above) of Interscope Records, who immediately tracked Eminem down and helped catapult him to fame.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;div class=&quot;vidad-container&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;teads-container&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;The movie 8 Mile is semi-autobiographical and won an Oscar&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;3&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/the-movie-8-mile-is-semi-autobiographical-and-won-an-oscar-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/the-movie-8-mile-is-semi-autobiographical-and-won-an-oscar-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/the-movie-8-mile-is-semi-autobiographical-and-won-an-oscar-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/the-movie-8-mile-is-semi-autobiographical-and-won-an-oscar/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;3&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: The movie 8 Mile is semi-autobiographical and won an Oscar&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Shutterstock&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder  added-content&quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Anyone who saw &lt;em&gt;8 Mile&lt;/em&gt; may acknowledge that while Eminem isn't the greatest actor, he's still a great artist: his song &quot;Lose Yourself&quot; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.imdb.com%2ftitle%2ftt0298203%2fawards&quot; target=&quot;_blank&quot;&gt;won an Oscar for best original song&lt;/a&gt;, while acting as a vehicle for exploring the subject matter of &lt;em&gt;8 Mile&lt;/em&gt;. &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.rogerebert.com%2freviews%2f8-mile-2002&quot; target=&quot;_blank&quot;&gt;The film's plot&lt;/a&gt; pulled heavily from Eminem's own life: A young Detroit rapper attempts to battle his way into the music world while also combating his harsh neighborhood. &quot;Lose Yourself&quot; plays (non-diegetically) to portray Rabbit struggling to write lyrics worthy of a throwdown. With a tight rhythmic guitar beat guiding the vocals, the song centers on a narrator who is intensely focused on succeeding in the moment of performance, while lamenting the narrator's daily struggles. (&quot;Can't get by with my 9 to 5 / And I can't provide the right type of life for my family,&quot; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fwatch%3fv%3d%5fYhyp-%5fhX2s&quot; target=&quot;_blank&quot;&gt;raps a morose Eminem&lt;/a&gt;.)&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;The song is so good, that with any luck an alternate dimension contains a ledger that records every time somebody played &quot;Lose Yourself&quot; before a major life event: a sporting event, stepping on a plane, walking down the aisle, etc. (&quot;You only get one shot, do not miss your chance to blow&quot; before math tests, anyone?)&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;He's been investigated by the Secret Service&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;4&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-been-investigated-by-the-fbi-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-been-investigated-by-the-fbi-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-been-investigated-by-the-fbi-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/hes-been-investigated-by-the-secret-service/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;4&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: He's been investigated by the Secret Service&quot;
+width=&quot;780&quot; height=&quot;437&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder &quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Eminem's lyrics frequently push boundaries: This is the guy who raps about &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fgenius.com%2fEminem-my-fault-lyrics&quot; target=&quot;_blank&quot;&gt;suicidal mushroom trips&lt;/a&gt; and &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fgenius.com%2fEminem-kill-you-lyrics&quot; target=&quot;_blank&quot;&gt;forced relations with his mother&lt;/a&gt;, after all. But his most infamous example of crossing the line came in 2003, when a bootleg version of his song &quot;We As Americans&quot; surfaced with the following lyrics:&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&quot;F**k money / I don't rap for dead presidents / I'd rather see the president dead / It's never been said, but I set precedents.&quot;&lt;/p&gt;
+&lt;p&gt;Note that &quot;dead presidents&quot; is slang for dollar bills (Jefferson, Benjamin, Lincoln, etc.), so that line pans out. But (working theory), if you're Eminem and have one innocuous lyric, it's your artistic duty to follow up with something provocative, outrageous, or offensive. Saying that he'd &quot;rather see the president dead&quot; set off a whirlwind of gasps, chat-room rumors, and &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.cnn.com%2f2003%2fSHOWBIZ%2fMusic%2f12%2f05%2feminem.lyrics&quot; target=&quot;_blank&quot;&gt;reports the Secret Service was looking into the song&lt;/a&gt;, as a standard response to investigate any possible threats against the president.&lt;/p&gt;
+&lt;p&gt;Perhaps because the song didn't specify the president of the United States or mention Bush by name, the Secret Service never took any real action against Eminem. Subsequent releases of the song, however, did censor out the word &quot;dead.&quot; And Eminem went on &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fwww.cnn.com%2f2017%2f10%2f11%2fus%2feminem-political-trump-history%2findex.html&quot; target=&quot;_blank&quot;&gt;to speak out against Bush's actions in his song &quot;Mosh,&quot;&lt;/a&gt; albeit in more articulate — and less violent — language.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;Elton John is his BFF&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;5&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/elton-john-is-his-bff-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/elton-john-is-his-bff-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/elton-john-is-his-bff-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/elton-john-is-his-bff/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;5&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: Elton John is his BFF&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder  added-content&quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Homophobia and its constituents — derogatory slurs, names, and jokes — make their way into many of Eminem's songs. So it may surprise you to learn that &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.interviewmagazine.com%2fmusic%2feminem-elton-john-december-2017-interview&quot; target=&quot;_blank&quot;&gt;Elton John is a huge fan of Eminem's work&lt;/a&gt;, a lifelong friend, and a defendant when people accuse him of homophobia. During a discussion recorded in &lt;em&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.interviewmagazine.com%2fmusic%2feminem-elton-john-december-2017-interview&quot; target=&quot;_blank&quot;&gt;Interview Magazine&lt;/a&gt;&lt;/em&gt; in 2017, John told Eminem: &quot;When that s**t was thrown at you — about you being homophobic — I just thought, 'I'm not standing for this. It's nonsense.' I had to stand up and defend you. That Grammy performance was the start of a lovely friendship and I'm grateful for that.&quot;&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;The Grammy performance he's referencing is the duo's 2001 collaboration on &quot;Stan,&quot; a song that describes a crazed fan who eventually commits a double homicide after not hearing back from his musical idol. (While the performance received mixed reviews, the song has stood the test of time: In 2017, the Oxford English Dictionary &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2ftime.com%2f4801810%2feminem-stan-oxford-english-dictionary&quot; target=&quot;_blank&quot;&gt;included the word &quot;stan&quot;&lt;/a&gt; in its lexicon to denote &quot;an overzealous or obsessive fan of a particular celebrity.&quot;)&lt;/p&gt;
+&lt;p&gt;Elton John's and Eminem's friendship demonstrates the separation between Marshall Mathers and the personas he takes on in his songs. It's also worth noting that these songs don't take kindly to just about anyone: straight or gay, black or white; marginalized or not. In that regard, his lyrics are agnostic — there's no one or no subject that Eminem won't take on.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;He had a fat phase&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;6&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-had-a-fat-phase-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-had-a-fat-phase-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/he-had-a-fat-phase-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/he-had-a-fat-phase/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;6&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: He had a fat phase&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder &quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Pill-popping musicians and unnatural weight gain have a certain legacy in music. Elvis started the trend; at one point, John Lennon continued it. Eminem picked up the baton when his substance addictions included massive intakes of food and pills.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;At his worst, Eminem consumed 60 Valium and 30 Vicodin a day, plus multiple Ambien. Meanwhile, he ate regularly at fast food joints like Taco Bell and McDonald's, gaining 80 pounds and a relationship with the staff as a regular. One day at McDonald's, he overheard a conversation between two people debating whether or not it was actually him because of the extra weight. The fact that his own fans couldn't recognize him acted as wake-up call to Eminem, but it wasn't the one that would save his life.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;He's been sober nine years&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;7&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-been-sober-nine-years-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-been-sober-nine-years-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-been-sober-nine-years-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/hes-been-sober-nine-years/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;7&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: He's been sober nine years&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder  added-content&quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;At his worst, Eminem was staying in bed all day and popping pills just to function. Extensive drug use wiped out many of his memories, which he attributes to Ambien specifically. Whatever the case, he hit rock bottom when trying to get out of bed one day and falling to the ground unconscious. Later, doctors told him he'd consumed the equivalent of four bags of heroin (via &lt;em&gt;Rolling Stone&lt;/em&gt;).&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;It took that hospital trip, a relapse, and a stint in rehab to set him sober, with help from Elton John, who became his sponsor. Eminem told &lt;em&gt;Rolling Stone&lt;/em&gt; how John was able to walk him through sobriety by describing not just the various known stages, but smaller moments as well: how colors and sensations would intensify, how he would be able to notice small details without drugs.&lt;/p&gt;
+&lt;p&gt;Ever the artist, Eminem channeled his struggles into the album &quot;Recovery,&quot; which revolves around the theme of — you guessed it — getting clean.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;Despite being a famous kid of a rap star, Hailie is very normal&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;8&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/despite-being-a-famous-kid-of-a-rap-star-hailie-is-very-normal-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/despite-being-a-famous-kid-of-a-rap-star-hailie-is-very-normal-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/despite-being-a-famous-kid-of-a-rap-star-hailie-is-very-normal-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/despite-being-a-famous-kid-of-a-rap-star-hailie-is-very-normal/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;8&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: Despite being a famous kid of a rap star, Hailie is very normal&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Shutterstock&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder &quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Beyond all the obscenities and constructed stage identities, the one thread that runs authentic through all of Eminem's music is his love for his daughter Hailie.&lt;/p&gt;
+&lt;p&gt;She's been the subject of her father's songs from her youngest years. Frequently, she's &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fwatch%3fv%3dEO33DZpS82s&quot; target=&quot;_blank&quot;&gt;depicted as an anchor in the storm&lt;/a&gt;, the primary subject of her father's love that manages to keep him sane in an otherwise crazed world. Sometimes, he uses her to demonstrate a man torn and conflicted: either between being able provide for his family while pursuing his dreams, or loving his daughter while wanting to kill her mother. (You know, normal family stuff.) When Eminem collapsed from a drug overdose, he described the hardest part as missing out on Christmas with his kids.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;In that sense, Hailie's a very public persona who has never stepped squarely into the spotlight. But despite the fame, she grew up apparently normal. &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.instagram.com%2fhailiescott1&quot; target=&quot;_blank&quot;&gt;Check out her 20ish Instagram posts&lt;/a&gt;, and you'll see her hanging out with friends, showing off outfits, and looking like any normal, well-adjusted young 'un. Congrats!&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;He's had as many courtroom battles as rap ones&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;9&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-had-as-many-courtroom-battles-as-rap-ones-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-had-as-many-courtroom-battles-as-rap-ones-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/hes-had-as-many-courtroom-battles-as-rap-ones-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/hes-had-as-many-courtroom-battles-as-rap-ones/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;9&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: He's had as many courtroom battles as rap ones&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Shutterstock&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder  added-content&quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Eminem's no stranger to the courtroom. In the first 13 years of his fame, he &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fthesource.com%2f2012%2f02%2f07%2fanabridgedhistoryofpeoplesuingeminem&quot; target=&quot;_blank&quot;&gt;encountered at least one major lawsuit per year&lt;/a&gt;, possibly spending several million dollars in legal costs.&lt;/p&gt;
+&lt;p&gt;Several lawsuits came from immediate friends or family members. His mother sued him for $10 million for defamation of character based on his descriptions of her in interviews and his music. (She eventually won just $1,600 in damages.) His aunt and uncle also sued him after he bought them a house and wanted to keep it in his name. Kim also sued him for defamation, as did a bully from high school. None of these lawsuits panned out the way the prosecutors intended.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;Other issues included a concealed weapon charge and an assault charge. The first came when he pulled an unloaded gun on someone outside a car audio store in Michigan. Eminem was arrested then released, only to be swooped back up the next day when he saw his wife smooching a club bouncer and got violent. Eminem pleaded guilty to both charges and was given two years' probation.&lt;/p&gt;
+&lt;p&gt;Finally, Eminem took out the big guns when going against Apple twice, for different incidents; they reached quiet settlements out of court. He'll have material for years!&lt;/p&gt;
+&lt;p&gt;Besides the obvious financial burden, Eminem's enemies created considerable mental distress for the rap star: he started wearing a bulletproof vest just to frequent his recording studio.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+    &lt;div class=&quot;news-article   &quot;&gt;
+
+
+                    &lt;h2 class=&quot;&quot;&gt;His divisive music also brings people together&lt;/h2&gt;
+
+&lt;div class=&quot;slide-key image-holder gallery-image-holder credit-image-wrap  &quot;
+ data-slide-num=&quot;10&quot;
+data-post-id=&quot;103660&quot;
+
+&gt;
+
+&lt;picture&gt;
+&lt;source
+media=&quot;(min-width: 429px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/his-divisive-music-also-brings-people-together-1515368256.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;source
+media=&quot;(max-width: 428px)&quot;
+data-srcset=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/his-divisive-music-also-brings-people-together-1515368256.sm.webp&quot;
+type=&quot;image/webp&quot;&gt;
+&lt;img class=&quot;gallery-image lazyload &quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;
+data-lazy-src=&quot;https://www.grunge.com/img/gallery/eminems-insane-real-life-story/his-divisive-music-also-brings-people-together-1515368256.jpg&quot; data-slide-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/slide/his-divisive-music-also-brings-people-together/&quot;
+data-post-id=&quot;103660&quot;
+data-slide-num=&quot;10&quot;
+data-slide-title=&quot;Eminem's Insane Real-Life Story: His divisive music also brings people together&quot;
+width=&quot;780&quot; height=&quot;439&quot;
+alt=&quot;&quot;&gt;
+&lt;/picture&gt;
+&lt;span class=&quot;gallery-image-credit&quot;&gt;Getty Images&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;columns-holder &quot;&gt;
+                    &lt;p&gt;
+&lt;p&gt;Expressing anger at authority is Eminem's forte, so it was no surprise when he dropped &quot;Storm,&quot; a 4.5-minute bash on President Trump while &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fgenius.com%2fEminem-the-storm-2017-bet-hip-hop-awards-cypher-verse-lyrics&quot; target=&quot;_blank&quot;&gt;his buddies stand in the background&lt;/a&gt;. The video premiered at the BET Hip Hop awards and got a lot of support from other celebs, including &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fabcnews.go.com%2fEntertainment%2flebron-james-ellen-degeneres-respond-eminems-takedown-trump%2fstory%3fid%3d50415902&quot; target=&quot;_blank&quot;&gt;Ellen DeGeneres&lt;/a&gt; and Snoop Dogg.&lt;/p&gt;
+&lt;div class=&quot;google-ad-placeholder between-p&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;between-p&quot;&gt;&lt;/div&gt;
+&lt;p&gt;The aggressive quality of his music isolates many while resonating with others. He knows how to lay low and stay prolific at the same time. He might go years without releasing an album, but when he does release one, it rides a line between the topical and the personal.&lt;/p&gt;
+&lt;p&gt;Perhaps the outsider stance he picked up as a child allows him to maintain a completely unique voice in a field filled with cliches. Either way, Shady is back, and it looks like he's here to stay.&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/article&gt;
+
+
+
+
+&lt;div class=&quot;under-art&quot;
+
+ data-post-url=&quot;https://www.grunge.com/103660/eminems-insane-real-life-story/&quot;
+
+ data-post-title=&quot;Eminem's Insane Real-Life Story&quot;
+
+&gt;
+
+&lt;div class=&quot;divider-heading-container divider-heading recommended-heading&quot;&gt;
+
+&lt;span&gt;Recommended&lt;/span&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;input type=&quot;hidden&quot; class=&quot;next-article-url&quot; value=&quot;https://www.grunge.com/436971/the-richest-rappers-in-the-world/&quot;/&gt;
+
+&lt;div class=&quot;zergnet-widget&quot; id=&quot;zergnet-widget-35321&quot; data-lazyload=&quot;2000&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+
+setTimeout(function() {
+
+var n = document.getElementById(&quot;#zergnet-widget-35321&quot;);
+
+var h = false;
+
+if ( n ) {
+
+h = n.innerHTML;
+
+}
+
+if ( h ) {
+
+return false;
+
+}
+
+var zergnet = document.createElement('script');
+
+zergnet.type = 'text/javascript'; zergnet.async = true;
+
+zergnet.src = '//www.zergnet.com/zerg.js?v=1&amp;id=35321';
+
+var znscr = document.getElementsByTagName('script')[0];
+
+znscr.parentNode.insertBefore(zergnet, znscr);
+
+}, 3500);
+
+&lt;/script&gt;
+
+&lt;div id=&quot;div-ad-1x1a&quot; class=&quot;google-ad-placeholder clear placeholder placeholder-1-1&quot; data-ad-height=&quot;any&quot; data-ad-width=&quot;any&quot; data-ad-pos=&quot;1x1&quot;&gt;&lt;/div&gt;
+
+
+
+&lt;div class=&quot;tripelift-container&quot;&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div id=&quot;floatingAd&quot;&gt;
+
+                    &lt;div id=&quot;div-ad-floating&quot; class=&quot;google-ad-placeholder clear placeholder placeholder-300-250&quot; data-ad-height=&quot;250&quot; data-ad-width=&quot;300&quot; data-ad-pos=&quot;floating&quot;&gt;&lt;/div&gt;
+
+        &lt;/div&gt;
+
+                        &lt;/main&gt;
+
+
+
+
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+    &lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fwp-content%2fthemes%2funified%2fjs%2floopgal.min.js%3fv%3d1718211135&quot;&gt;&lt;/script&gt;
+
+        &lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fwp-content%2fthemes%2funified%2fjs%2fzb.grunge.min.js%3fv%3d1718113953&quot;&gt;&lt;/script&gt;
+
+    &lt;script type=&quot;text/javascript&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fwp-content%2fthemes%2funified%2fjs%2fprebid.js%3fv%3d1718113953&quot;&gt;&lt;/script&gt;
+
+        &lt;script async src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.googletagmanager.com%2fgtag%2fjs%3fid%3dG-PDC605XWVT&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+
+    window.LooperConfig = window.LooperConfig || {};
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag(){dataLayer.push(arguments);}
+
+    gtag('js', new Date());
+
+    window.LooperConfig.ga4tag = &quot;G-PDC605XWVT&quot;;
+
+    window.LooperConfig.ga4data = {&quot;author&quot;:&quot;Elisia Guerena&quot;,&quot;category&quot;:&quot;music-entertainment&quot;,&quot;content_type&quot;:&quot;Feature&quot;,&quot;mod_date&quot;:&quot;2023-02-04&quot;,&quot;layout&quot;:&quot;Infinite&quot;,&quot;post_id&quot;:103660,&quot;pub_date&quot;:&quot;2018-01-07&quot;,&quot;day&quot;:&quot;Sunday&quot;,&quot;dayhour&quot;:&quot;Sunday-6PM&quot;,&quot;pubhour&quot;:&quot;6PM&quot;,&quot;num_slides&quot;:11,&quot;num_words&quot;:2000};
+
+&lt;/script&gt;
+
+&lt;script&gt;
+
+    window.LooperConfig = window.LooperConfig || {};
+
+
+
+    (function(){
+
+                    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q(&quot;i&quot;,arguments)},fetchBids:function()
+    {q(&quot;f&quot;,arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}(&quot;apstag&quot;,window,document,&quot;script&quot;,&quot;//c.amazon-adsystem.com/aax2/apstag.js&quot;);
+    apstag.init({ pubID: '3263', bidTimeout: 2e3 });        var gads = document.createElement('script');
+
+        gads.async = true;
+
+        gads.type = 'text/javascript';
+
+        var useSSL = 'https:' == document.location.protocol;
+
+        gads.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js';
+
+        var node = document.getElementsByTagName('script')[0];
+
+        node.parentNode.insertBefore(gads, node);
+
+        googletag.cmd.push(function() {
+
+            googletag.definedSlots = {};
+
+        } );
+
+        
+
+        var LooperReady = function(){
+
+            LooperConfig.params = false;
+
+            try {
+
+                LooperConfig.params = (new URL(document.location)).searchParams;
+
+            } catch( e ) {
+
+                //do nothing
+
+            }
+
+            LooperConfig['gaData'] = {&quot;contentGroup1&quot;:&quot;Infinite\\/Feature&quot;,&quot;dimension1&quot;:&quot;Infinite&quot;,&quot;dimension2&quot;:&quot;Feature&quot;,&quot;dimension3&quot;:&quot;music-entertainment&quot;,&quot;dimension4&quot;:&quot;Elisia Guerena&quot;,&quot;dimension5&quot;:&quot;2018-01-07&quot;,&quot;dimension6&quot;:103660,&quot;dimension8&quot;:0,&quot;dimension11&quot;:&quot;Sunday&quot;,&quot;dimension12&quot;:&quot;6PM&quot;,&quot;dimension13&quot;:&quot;Sunday-6PM&quot;,&quot;dimension14&quot;:2000,&quot;dimension15&quot;:11,&quot;dimension16&quot;:&quot;2023-02-04&quot;};
+
+                        LooperConfig['categories'] = [&quot;17769&quot;];
+
+                        if ( LooperConfig.params &amp; &amp; LooperConfig.params.get(&quot;utm_source&quot;) &amp; &amp; LooperConfig.params.get(&quot;utm_source&quot;).indexOf(&quot;zergnet&quot;) !== -1 ) {
+
+                LooperConfig['gaData']['dimension1'] = &quot;Zerg-Infinite&quot;;
+
+            }
+
+            var widgets = document.querySelectorAll(&quot;.zergnet-widget&quot;);
+
+            var hasWidget = false;
+
+            for ( i = 0; i &lt; widgets.length; i++ ) {
+
+                if ( !hasWidget &amp; &amp; LoopGalObj.isVisible(widgets[i]) ) {
+
+                    hasWidget = true;
+
+                }
+
+            }
+
+            if (!hasWidget) {
+
+                LooperConfig['gaData'][&quot;dimension7&quot;] = true;
+
+                                LooperConfig['ga4data'][&quot;ad_block&quot;] = true;
+
+                            } else {
+
+                LooperConfig['gaData'][&quot;dimension7&quot;] = false;
+
+                                LooperConfig['ga4data'][&quot;ad_block&quot;] = false;
+
+                            }
+
+
+
+            var validZSource = {&quot;newsletter&quot;:&quot;newsletter&quot;,&quot;flipboard&quot;:&quot;flipboard&quot;,&quot;smartnews&quot;:&quot;smartnews&quot;,&quot;smartnews_sponsored&quot;:&quot;smartnews_sponsored&quot;,&quot;msnsyndicated&quot;:&quot;msnsyndicated&quot;,&quot;newsbreakapp&quot;:&quot;newsbreakapp&quot;,&quot;topbuzz&quot;:&quot;topbuzz&quot;,&quot;zinf_abtest&quot;:&quot;zinf_abtest&quot;,&quot;nexthighlights&quot;:&quot;nexthighlights&quot;,&quot;fb&quot;:&quot;fb&quot;,&quot;fb_ios&quot;:&quot;fb_ios&quot;,&quot;fb_android&quot;:&quot;fb_android&quot;,&quot;gemini&quot;:&quot;gemini&quot;,&quot;facebook_organic&quot;:&quot;facebook_organic&quot;,&quot;gdiscover_sponsored&quot;:&quot;gdiscover_sponsored&quot;,&quot;googlenewsapp&quot;:&quot;googlenewsapp&quot;,&quot;snapchat&quot;:&quot;snapchat&quot;,&quot;dt_app&quot;:&quot;dt_app&quot;,&quot;youtube&quot;:&quot;youtube&quot;};
+
+
+
+            if (window.location.href.indexOf(&quot;zsource&quot;) !== -1) {
+
+                var vars = {};
+
+                var parts = window.location.href.replace(/[?&amp;]+([^=&amp;]+)=([^&amp;]*)/gi, function (m, key, value) {
+
+                    vars[key] = value.toLowerCase();
+
+                });
+
+                if (typeof( vars['zsource'] !== &quot;undefined&quot;) &amp; &amp; typeof( validZSource[vars['zsource']] ) !== &quot;undefined&quot;) {
+
+                    LooperConfig['zsource'] = validZSource[vars['zsource']];
+
+                    document.cookie = &quot;zsource=&quot; + LooperConfig['zsource'] + &quot;; path=/; max-age=600&quot;;
+
+                }
+
+            } else if (document.cookie.indexOf(&quot;zsource&quot;) !== -1) {
+
+                var cookieval = document.cookie;
+
+                var zsource = &quot;&quot;;
+
+                if (cookieval) {
+
+                    var arr = cookieval.split(&quot;;&quot;);
+
+                    if (arr.length) {
+
+                        for (var i = 0; i &lt; arr.length; i++) {
+
+                            var keyval = arr[i].split(&quot;=&quot;);
+
+                            if (keyval.length &amp; &amp; keyval[0].indexOf(&quot;zsource&quot;) !== -1) {
+
+                                zsource = keyval[1].trim();
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+                if (typeof( validZSource[zsource] !== &quot;undefined&quot; )) {
+
+                    LooperConfig['zsource'] = validZSource[zsource];
+
+                }
+
+            }
+
+
+
+            if (typeof( LooperConfig['zsource'] ) !== &quot;undefined&quot;) {
+
+                LooperConfig['gaData'][&quot;dimension10&quot;] = LooperConfig['zsource'];
+
+                                LooperConfig['ga4data'][&quot;zsource&quot;] = LooperConfig['zsource'];
+
+                            }
+
+
+
+            // ga4 first view setup
+
+                        LooperConfig['ga4data'][&quot;first_view&quot;] = false;
+
+            var ga4CookieName = '_ga_PDC605XWVT' ;
+
+
+
+            let decodedCookie = decodeURIComponent(document.cookie);
+
+            let decodedCookieArray = decodedCookie.split(';').map((d) =&gt; d.trim()).filter((d) =&gt; d.substring(0, ga4CookieName.length) === ga4CookieName);
+
+            var isGa4CookiePresent =  decodedCookieArray.length &gt; 0;
+
+            if(!isGa4CookiePresent) {
+
+                LooperConfig['ga4data'][&quot;first_view&quot;] = true;
+
+            }
+
+            
+
+                            googletag.cmd.push(function() {
+        var device = LoopGalObj.device;
+        var sessionDepth = false;
+
+        var bidpos = &quot;&quot;;
+        var bidposprefix = &quot;&quot;;
+                bidposprefix = &quot;inf-&quot;;
+                bidpos += device + &quot;-&quot;;
+        if (device == &quot;tablet&quot;) {
+            bidpos += &quot;landscape-&quot;
+        }
+        bidpos += &quot;sidebar-docked&quot;;
+
+        googletag.pubads().setTargeting('postID', [&quot;103660&quot;]);
+                googletag.pubads().setTargeting('category', [&quot;music-entertainment&quot;]);
+                googletag.pubads().setTargeting('pageType', [&quot;&quot;]);
+        googletag.pubads().setTargeting(&quot;device&quot;, [device]);
+        googletag.pubads().setTargeting( &quot;pageLayout&quot;, LooperConfig.gaData['dimension1'] );
+        googletag.pubads().setTargeting( &quot;contentType&quot;, LooperConfig.gaData['dimension2'] );
+        var sizes = [];
+
+        if ( typeof( LooperConfig['zsource'] ) !== &quot;undefined&quot; ) {
+
+    googletag.pubads().setTargeting(&quot;zsource&quot;, LooperConfig['zsource']);
+
+}
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+
+    LooperConfig.clip = {&quot;readmore&quot;:{&quot;text&quot;:&quot;Read More: &quot;},&quot;followus&quot;:{&quot;text&quot;:&quot;Follow Us: &quot;,&quot;enabled&quot;:0},&quot;visitus&quot;:{&quot;text&quot;:&quot;Visit Us At: &quot;,&quot;enabled&quot;:0}};
+
+            
+
+            (function (i, s, o, g, r, a, m) {
+
+                i['GoogleAnalyticsObject'] = r;
+
+                i[r] = i[r] || function () {
+
+                        (i[r].q = i[r].q || []).push(arguments)
+
+                    }, i[r].l = 1 * new Date();
+
+                a = s.createElement(o),
+
+                    m = s.getElementsByTagName(o)[0];
+
+                a.async = 1;
+
+                a.src = g;
+
+                m.parentNode.insertBefore(a, m)
+
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+
+
+            
+
+                                ga('create', 'UA-46354000-2', 'auto');
+
+                
+
+                ga('send', 'pageview', LooperConfig['gaData']);
+
+                if ( LooperConfig['gaData'][&quot;dimension7&quot;] ) {
+
+                    ga('send', 'event', 'AdBlock');
+
+                }
+
+
+
+                LooperConfig['ga4data']['send_page_view'] = false;
+
+                                    gtag(&quot;config&quot;, LooperConfig.ga4tag, LooperConfig.ga4data);
+
+                    gtag(&quot;event&quot;, &quot;page_view&quot;);
+
+
+
+                            
+
+
+
+                        !(function(o,_name){function n(){(n.q=n.q||[]).push(arguments)}n.v=1,o[_name]=o[_name]||n;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem(&quot;v4ac1eiZr0&quot;)||&quot;&quot;).split(&quot;,&quot;)[4]&gt;0}catch(o){}return!1})()&amp; &amp;(n=o[t].pubads())&amp; &amp;n.setTargeting(&quot;admiral-engaged&quot;,&quot;true&quot;)}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,&quot;googletag&quot;,&quot;function&quot;);})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src=&quot;https://meltmilk.com/v2pyntPDkq3LzwloDXHhdW8KGCUS-1HxCc7jn9Aun78NCOBu2zryl_kc&quot;,t.parentNode.insertBefore(i,t)})(document,&quot;script&quot;);
+
+            (function(){
+
+                if ( typeof( window.admiral ) !== &quot;undefined&quot; ) {
+
+                    window.admiral(&quot;after&quot;, &quot;measure.detected&quot;, function(user) {
+
+                        let eventLabel;
+
+                        if (user.adblocking) {
+
+                            eventLabel = &quot;blocked&quot;;
+
+                        }
+
+                        if (user.whitelisted) {
+
+                            eventLabel = &quot;whitelisted&quot;;
+
+                        }
+
+                        if (user.subscribed) {
+
+                            eventLabel = &quot;subscribed&quot;;
+
+                        }
+
+                        // Only fire GA event if eventLabel is defined so we're not firing events for regular users.
+
+                        if (eventLabel) {
+
+                            ga(&quot;send&quot;, &quot;event&quot;, &quot;Admiral&quot;, &quot;pageview&quot;, eventLabel, {
+
+                                nonInteraction: true
+
+                            });
+
+                        }
+
+                    });
+
+                }
+
+            })();
+
+                    };
+
+                var config = {};
+
+                                LoopGalObj = new LoopGal( config );
+
+
+
+        var loopAdsConfig = {
+
+            ready: LooperReady
+
+        };
+
+                if ( typeof( pbjs ) !== &quot;undefined&quot; &amp; &amp; typeof( pbjs.que ) !== &quot;undefined&quot; ) {
+
+            pbjs.que.push(function() {
+
+                pbjs.bidderSettings = {
+
+                    criteo: {
+
+                        storageAllowed: true
+
+                    },
+
+                    grid: {
+
+                        storageAllowed: true
+
+                    },
+
+                };
+
+                pbjs.setConfig({
+
+                                                            userSync: {
+
+                        filterSettings: {
+
+                            iframe: {
+
+                                bidders: '*',
+
+                                filter: 'include'
+
+                            }
+
+                        },
+
+                            iframeEnabled: true
+
+                    },
+
+                    priceGranularity: {
+
+                        &quot;buckets&quot;: [
+
+                            {
+
+                                &quot;precision&quot;: 2,
+
+                                &quot;min&quot;: 0,
+
+                                &quot;max&quot;: 10,
+
+                                &quot;increment&quot;: 0.01
+
+                            },
+
+                            {
+
+                                &quot;precision&quot;: 2,
+
+                                &quot;min&quot;: 10,
+
+                                &quot;max&quot;: 20,
+
+                                &quot;increment&quot;: 0.05
+
+                            },
+
+                            {
+
+                                &quot;precision&quot;: 2,
+
+                                &quot;min&quot;: 20,
+
+                                &quot;max&quot;: 50,
+
+                                &quot;increment&quot;: 0.5
+
+                            }
+
+                        ]
+
+                    }
+
+                });
+
+            });
+
+        }
+
+
+
+                        loopAdsConfig.adUnitAppend = &quot;music-entertainment&quot;;
+
+                                                    Looper = new LoopAds( loopAdsConfig );
+
+                        })();
+
+
+
+        (function(){
+
+        !function(){&quot;use strict&quot;;function e(e){var t=!(arguments.length&gt;1&amp; &amp;void 0!==arguments[1])||arguments[1],c=document.createElement(&quot;script&quot;);c.src=e,t?c.type=&quot;module&quot;:(c.async=!0,c.type=&quot;text/javascript&quot;,c.setAttribute(&quot;nomodule&quot;,&quot;&quot;));var n=document.getElementsByTagName(&quot;script&quot;)[0];n.parentNode.insertBefore(c,n)}!function(t,c){!function(t,c,n){var a,o,r;n.accountId=c,null!==(a=t.marfeel)&amp; &amp;void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&amp; &amp;void 0!==o||(r.cmd=[]),t.marfeel.config=n;var i=&quot;https://sdk.mrf.io/statics&quot;;e(&quot;&quot;.concat(i,&quot;/marfeel-sdk.js?id=&quot;).concat(c),!0),e(&quot;&quot;.concat(i,&quot;/marfeel-sdk.es5.js?id=&quot;).concat(c),!1)}(t,c,arguments.length&gt;2&amp; &amp;void 0!==arguments[2]?arguments[2]:{})}(window,3544,{} /*config*/)}();
+
+    })();
+
+    
+
+&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+&lt;script defer src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fstatic.vidazoo.com%2fbasev%2fvwpt.js&quot; data-widget-id=&quot;64df28c89ed86f93880ee898&quot; data-on-widget-ad-impression=&quot;onVidazooWidgetAdImpressionCallback&quot;&gt;&lt;/script&gt;
+
+
+
+    &lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fcdn.cookielaw.org%2fscripttemplates%2fotSDKStub.js&quot;  type=&quot;text/javascript&quot; charset=&quot;UTF-8&quot; data-domain-script=&quot;43b82766-7bf4-41f4-8363-15a0f5956938&quot; &gt;&lt;/script&gt;
+
+    &lt;script type=&quot;text/javascript&quot;&gt;
+
+        function OptanonWrapper() { }
+
+    &lt;/script&gt;
+
+
+
+
+
+
+
+ 
+</Sec>
+
+
+</Doc>

@@ -1,0 +1,348 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH16c2.dir\doc.xml"  gs2:docOID="HASH16c2b0a7e791aebc828f17" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH16c2b0a7e791aebc828f17" gs2:mode="add">
+
+
+
+
+
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH16c2b0a7e791aebc828f17.1" gs2:mode="add">
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:monospace; font-weight:bold; font-style:normal; }
+
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:monospace; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:72px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Leonardo Di Caprio – History&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:98px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Леонардо Вилхелм Ди Каприо е роден на 11 ноември 1974 година во Лос Анџелес,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:114px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Калифорнија. Единственото дете на Ирмелин, правен секретар и Џорџ ди Каприо,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:130px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;стрип уметник, тој беше изложен на уметноста уште од рана возраст. Неговите&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:145px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;родители, кои се развеле кога тој бил малечок, останале пријателски настроени, а&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:161px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Ди Каприо го поминал своето детство движејќи се меѓу нивните домови.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:201px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Интересот за глума кај Ди Каприо се појавил на млада возраст. По малите улоги во&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:217px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;телевизиски реклами и едукативни програми, тој го имаше своето телевизиско&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:232px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;деби во раните 1990-ти со емисии како „Родителство“ и „Растечки болки“.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:248px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Неговата главна филмска улога дојде во „Животот на ова момче“ од 1993 година,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:264px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;каде глумеше заедно со Роберт Де Ниро. Истата година, тој доби признание од&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:280px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;критиката за неговата улога во „What's Eating Gilbert Grape“, заработувајќи ја&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:296px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;својата прва номинација за Оскар за најдобра споредна машка улога.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:335px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во текот на 1990-тите, Ди Каприо ја градеше својата репутација со различни улоги&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:351px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;во филмови како што се „Кошаркарските дневници“ (1995) и „Ромео + Јулија“&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:367px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;(1996). Сепак, епот на Џејмс Камерон „Титаник“ (1997) го катапултираше до светска&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:383px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;ѕвезда. Неговиот портрет на Џек Досон наспроти Кејт Винслет го направи познато&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:399px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;име и го зацврсти неговиот статус на водечки човек.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:438px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;По „Титаник“, Ди Каприо презеде различни предизвикувачки улоги, често&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:454px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;соработувајќи со познати режисери. Тој глумеше во „Бандите на Њујорк“ на&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:470px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Мартин Скорсезе (2002), означувајќи го почетокот на плодното партнерство кое ќе&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:486px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;вклучи филмови како „Авијатичарот“ (2004), за кој заработи Златен глобус,&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:501px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;„Заминатите“ (2006) , „Shutter Island“ (2010) и „The Wolf of Wall Street“ (2013), кои му&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:517px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;донесоа уште една номинација за Оскар.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:557px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2016 година, Ди Каприо конечно го освои својот прв Оскар за најдобар актер за&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:573px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;неговата изведба во „The Revenant“ (2015), исцрпувачка улога која ја покажа&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:588px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;неговата посветеност на занаетот. Неговата работа се протега надвор од&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:604px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;актерството, бидејќи тој исто така се етаблира како продуцент преку неговата&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:620px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;компанија Appian Way Productions, која ги поддржа филмовите како „The Revenant“&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:636px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;и „The Wolf of Wall Street“.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:676px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Ди Каприо е познат и по својот еколошки активизам. Во 1998 година, тој ја основа&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:691px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Фондацијата Леонардо ди Каприо, посветена на еколошката свест и напорите за&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:707px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;зачувување. Продуцираше документарни филмови како „Пред поплавата“ (2016) и&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:723px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;„Мраз на оган“ (2019), фокусирајќи се на климатските промени. Во 2014 година, тој&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:739px;&quot;&gt;&lt;span class=&quot;p1f8&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;беше назначен за гласник на мирот на Обединетите нации за неговите напори.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH16c2b0a7e791aebc828f17.2" gs2:mode="add">
+
+
+&lt;div id=&quot;page2&quot;&gt;
+
+&lt;div style=&quot;position: relative; height: 841px; width: 595px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f1 { font-family:monospace; font-weight:normal; font-style:normal; }
+
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;841&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;595&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:91px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во текот на неговата кариера, Ди Каприо беше признат со бројни награди и&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:107px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;номинации, вклучувајќи повеќе Златни глобуси, награди на здружението на&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:123px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;актерите на екранот и номинации за БАФТА. Покрај неговиот професионален&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:139px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;успех, му се восхитуваат неговите филантропски напори, особено во зачувување&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:155px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;на животната средина и хуманитарни цели.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:193px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Животот и кариерата на Леонардо ди Каприо ја одразуваат посветеноста и на&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:209px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;неговата уметност и на планетата, што го прави не само еден од најпочитуваните&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:225px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;актери во Холивуд, туку и посветен застапник за животната средина. Додека тој&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:240px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;продолжува да презема различни улоги и да се вклучи во активизам, неговото&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:72px; top:256px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;влијание врз филмската индустрија и светот останува значајно.&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>

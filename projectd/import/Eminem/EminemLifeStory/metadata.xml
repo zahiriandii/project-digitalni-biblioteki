@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>.*</FileName>
+		<Description>
+			<Metadata mode="override" name="gs.filenameEncoding">UTF-8</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Eminem Life Style</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Venhar Ademi</Metadata>
+			<Metadata mode="accumulate" name="dc.Contributor">Andi Zahiri</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2024-06-20</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Text, Pictures, Text Document</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">PDF, JEPG, HTML</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English, Macedonian</Metadata>
+			<Metadata mode="accumulate" name="dc.Coverage">Global, USA</Metadata>
+			<Metadata mode="accumulate" name="dc.Rights">All Rights Reserved</Metadata>
+			<Metadata mode="accumulate" name="gs.allowPrinting">Yes</Metadata>
+			<Metadata mode="accumulate" name="gs.OAIResourceURL">https://detroithistorical.org/learn/encyclopedia-of-detroit/mathers-marshall-eminem</Metadata>
+			<Metadata mode="accumulate" name="gs.DocumentHeader">The Life Story of Eminem: From Humble Beginnings to Rap Legend</Metadata>
+			<Metadata mode="accumulate" name="dc.Relation">Eminem Biography, Eminem Discography, Eminem Facts</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">Eminem Official Website, Music Biography Archives</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Music Biography Publications</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">A detailed account of Eminem's life story, including his early life, rise to fame, and personal struggles.</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">Eminem, Life Story, Biography, Music, Rap</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

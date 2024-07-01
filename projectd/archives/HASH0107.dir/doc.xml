@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "https://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Eminem\EminemFacts\Eminem Facts Web1.html</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">HTMLPlugin</Metadata>
+    <Metadata name="FileSize">222823</Metadata>
+    <Metadata name="Source">Eminem Facts Web1.html</Metadata>
+    <Metadata name="SourceFile">Eminem Facts Web1.html</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="Title">15 Facts About Eminem - Facts.net</Metadata>
+    <Metadata name="FileFormat">HTML</Metadata>
+    <Metadata name="URL">http://Eminem/EminemFacts/Eminem Facts Web1.html</Metadata>
+    <Metadata name="UTF8URL">http://Eminem/EminemFacts/Eminem Facts Web1.html</Metadata>
+    <Metadata name="dc.Coverage">Global</Metadata>
+    <Metadata name="dc.Creator">Venhar Ademi</Metadata>
+    <Metadata name="dc.Date">2024-06-20</Metadata>
+    <Metadata name="dc.Description">Interesting and lesser-known facts about Eminem, covering his life, career, and achievements.</Metadata>
+    <Metadata name="dc.Format">PDF, JEPG, HTML</Metadata>
+    <Metadata name="dc.Language">English, Macedonian</Metadata>
+    <Metadata name="dc.Publisher">Music Trivia Publications</Metadata>
+    <Metadata name="dc.Relation">Eminem Biography, Eminem Discography</Metadata>
+    <Metadata name="dc.Rights">Public Domain</Metadata>
+    <Metadata name="dc.Source">Eminem Official Website, Music Trivia Archives</Metadata>
+    <Metadata name="dc.Subject">Eminem, Facts, Trivia, Music, Rap</Metadata>
+    <Metadata name="dc.Title">Eminem Facts</Metadata>
+    <Metadata name="dc.Type">Text, Pictures, Text Document</Metadata>
+    <Metadata name="gs.DocumentHeader">&quot;Interesting Facts about Eminem: From His Early Life to Global Fame</Metadata>
+    <Metadata name="gs.OAIResourceURL">https://facts.net/history/people/15-facts-about-eminem/</Metadata>
+    <Metadata name="gs.allowPrinting">Yes</Metadata>
+    <Metadata name="gs.filenameEncoding">UTF-8</Metadata>
+    <Metadata name="Identifier">HASH01072384664c75b745b98358</Metadata>
+    <Metadata name="lastmodified">1719848820</Metadata>
+    <Metadata name="lastmodifieddate">20240701</Metadata>
+    <Metadata name="oailastmodified">1719849032</Metadata>
+    <Metadata name="oailastmodifieddate">20240701</Metadata>
+    <Metadata name="assocfilepath">HASH0107.dir</Metadata>
+  </Description>
+  <Content>
+&lt;!-- Google Tag Manager (noscript) --&gt;
+&lt;noscript&gt;&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-NTM5WCWR&quot;
+height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;&lt;/iframe&gt;&lt;/noscript&gt;
+&lt;!-- End Google Tag Manager (noscript) --&gt;
+    &lt;script&gt;
+    function feature(e, featureClassName) {
+        var element = document.getElementsByClassName('tab-item');
+        for (var i = 0; i &lt; element.length; i++) {
+            var shouldBeActive = element[i].classList.contains(featureClassName);
+            element[i].classList.toggle('active', shouldBeActive);
+        }
+    }
+    &lt;/script&gt;
+
+
+    &lt;header&gt;
+        &lt;div class=&quot;container header-wrapper&quot;&gt;
+          &lt;div class=&quot;main-header-full-width&quot;&gt;
+            &lt;div id=&quot;main-header&quot;&gt;
+                &lt;div class=&quot;brand_logo&quot;&gt;
+                    &lt;div id=&quot;logo&quot; class=&quot;logo&quot;&gt;
+                                                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net&quot; title=&quot;Facts.net&quot; data-wpel-link=&quot;internal&quot;&gt;
+                                &lt;img   alt=&quot;Facts.net&quot; data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2019/09/Facts.net_.png&quot; class=&quot;site-logo lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 1 1%22 /%3E&quot; /&gt;
+                            &lt;/a&gt;
+
+                                                                        &lt;/div&gt;
+&lt;div class=&quot;tagline&quot;&gt;Turn Your Curiosity Into Discovery&lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;div class=&quot;desktop-header&quot;&gt;
+                    
+
+                    &lt;div class=&quot;social-media&quot;&gt;
+                        &lt;div class=&quot;media_icon&quot;&gt;
+                            &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fchannel%2fUCkEWgtngMrn9AcsRTmDgPIQ&quot; class=&quot;youtube&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;
+                                &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;
+                            &lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class=&quot;search-block&quot;&gt;
+                        &lt;form id=&quot;searchform&quot; method=&quot;get&quot; action=&quot;/search/&quot;&gt;
+                            &lt;div class=&quot;input-wrapper&quot;&gt;
+                                &lt;label class=&quot;screen-reader-text&quot; for=&quot;s&quot;&gt;&lt;/label&gt;
+                                &lt;input type=&quot;text&quot; class=&quot;search-field&quot; name=&quot;s&quot; placeholder=&quot;Search&quot;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;search-btn&quot;&gt;
+                                &lt;img width=&quot;25&quot; height=&quot;25&quot; alt=&quot;search&quot;
+                                    src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/themes/newsanchor/images/svg/search.svg&quot;&gt;
+                                &lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;
+                            &lt;/div&gt;
+                        &lt;/form&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;div id=&quot;nav-toggle&quot; class=&quot;nav-toggle&quot;&gt;
+                    &lt;div id=&quot;navbar-toggle-icon&quot; class=&quot;navbar-toggle-icon&quot;&gt;
+                        &lt;span&gt;&lt;/span&gt;
+                        &lt;span&gt;&lt;/span&gt;
+                        &lt;span&gt;&lt;/span&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+            &lt;/div&gt;
+&lt;nav role=&quot;navigation&quot; id=&quot;mainnav&quot; class=&quot;mainnav nav-inline&quot; aria-labelledby=&quot;Primary&quot;&gt;
+    &lt;ul class=&quot;primary-menu&quot; id=&quot;desktop-nav&quot;&gt;&lt;li id=&quot;parent-323117&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fairlines&quot; data-wpel-link=&quot;internal&quot;&gt;Airlines&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-323120&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity&quot; data-wpel-link=&quot;internal&quot;&gt;Celebrity&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-323121&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcharacters&quot; data-child=&quot;323121&quot; data-wpel-link=&quot;internal&quot;&gt;Characters&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323121&quot;&gt;&lt;li id=&quot;cate-611&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323121&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcharacters%2fpokemon&quot; data-wpel-link=&quot;internal&quot;&gt;Pokemon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323122&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts&quot; data-child=&quot;323122&quot; data-wpel-link=&quot;internal&quot;&gt;Culture &amp;amp; The Arts&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323122&quot;&gt;&lt;li id=&quot;cate-4260&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323122&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fgames-and-toys&quot; data-wpel-link=&quot;internal&quot;&gt;Games and Toys&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4261&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323122&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fmass-media&quot; data-wpel-link=&quot;internal&quot;&gt;Mass Media&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4262&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323122&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fperforming-arts&quot; data-wpel-link=&quot;internal&quot;&gt;Performing Arts&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4263&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323122&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fvisual-arts&quot; data-wpel-link=&quot;internal&quot;&gt;Visual Arts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323126&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science&quot; data-child=&quot;323126&quot; data-wpel-link=&quot;internal&quot;&gt;Earth &amp;amp; Life Science&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323126&quot;&gt;&lt;li id=&quot;cate-4264&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323126&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fbiology-earth-and-life-science&quot; data-wpel-link=&quot;internal&quot;&gt;Biology&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4265&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323126&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fearth-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Earth Sciences&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4266&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323126&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fnature-earth-and-life-science&quot; data-wpel-link=&quot;internal&quot;&gt;Nature&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4267&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323126&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fphysical-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Physical Sciences&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323129&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fevents&quot; data-wpel-link=&quot;internal&quot;&gt;Events&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-323130&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing&quot; data-child=&quot;323130&quot; data-wpel-link=&quot;internal&quot;&gt;Fitness &amp;amp; Wellbeing&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323130&quot;&gt;&lt;li id=&quot;cate-4268&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fdentistry&quot; data-wpel-link=&quot;internal&quot;&gt;Dentistry&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4269&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fexercise&quot; data-wpel-link=&quot;internal&quot;&gt;Exercise&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4270&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fhealth-science&quot; data-wpel-link=&quot;internal&quot;&gt;Health Science&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4271&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fhygiene&quot; data-wpel-link=&quot;internal&quot;&gt;Hygiene&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4272&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fmedicine&quot; data-wpel-link=&quot;internal&quot;&gt;Medicine&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4273&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fnutrition&quot; data-wpel-link=&quot;internal&quot;&gt;Nutrition&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4274&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fpsychology&quot; data-wpel-link=&quot;internal&quot;&gt;Psychology&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4275&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323130&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fpublic-health&quot; data-wpel-link=&quot;internal&quot;&gt;Public Health&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-47860&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fgeneral&quot; data-wpel-link=&quot;internal&quot;&gt;General&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-47337&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory&quot; data-child=&quot;47337&quot; data-wpel-link=&quot;internal&quot;&gt;History&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;47337&quot;&gt;&lt;li id=&quot;cate-7&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47337&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fculture&quot; data-wpel-link=&quot;internal&quot;&gt;Culture&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-148&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47337&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fhistorical-events&quot; data-wpel-link=&quot;internal&quot;&gt;Historical Events&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-6&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47337&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople&quot; data-wpel-link=&quot;internal&quot;&gt;People&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-39&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47337&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2freligion&quot; data-wpel-link=&quot;internal&quot;&gt;Religion&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323132&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhuman-activities&quot; data-child=&quot;323132&quot; data-wpel-link=&quot;internal&quot;&gt;Human Activities&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323132&quot;&gt;&lt;li id=&quot;cate-4276&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323132&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhuman-activities%2fhuman-activities-human-activities&quot; data-wpel-link=&quot;internal&quot;&gt;Human Activities&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4277&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323132&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhuman-activities%2fimpact-of-human-activity&quot; data-wpel-link=&quot;internal&quot;&gt;Impact of Human Activity&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-47342&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle&quot; data-child=&quot;47342&quot; data-wpel-link=&quot;internal&quot;&gt;Lifestyle&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;47342&quot;&gt;&lt;li id=&quot;cate-57&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47342&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment&quot; data-wpel-link=&quot;internal&quot;&gt;Entertainment&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-36&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47342&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2ffood&quot; data-wpel-link=&quot;internal&quot;&gt;Food&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-24&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47342&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fhealth&quot; data-wpel-link=&quot;internal&quot;&gt;Health&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-47&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47342&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fsports&quot; data-wpel-link=&quot;internal&quot;&gt;Sports&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323134&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic&quot; data-child=&quot;323134&quot; data-wpel-link=&quot;internal&quot;&gt;Mathematics &amp;amp; Logic&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323134&quot;&gt;&lt;li id=&quot;cate-4278&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323134&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic%2ffields-of-mathematics&quot; data-wpel-link=&quot;internal&quot;&gt;Fields of Mathematics&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4279&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323134&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic%2fmathematical-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Mathematical Sciences&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4280&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323134&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic%2fmathematics&quot; data-wpel-link=&quot;internal&quot;&gt;Mathematics&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-82282&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie&quot; data-wpel-link=&quot;internal&quot;&gt;Movie&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-47347&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature&quot; data-child=&quot;47347&quot; data-wpel-link=&quot;internal&quot;&gt;Nature&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;47347&quot;&gt;&lt;li id=&quot;cate-8&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47347&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2fanimals&quot; data-wpel-link=&quot;internal&quot;&gt;Animals&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-125&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47347&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2fhuman-body&quot; data-wpel-link=&quot;internal&quot;&gt;Human Body&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-10&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47347&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2fplants&quot; data-wpel-link=&quot;internal&quot;&gt;Plants&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-27&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47347&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2funiverse&quot; data-wpel-link=&quot;internal&quot;&gt;Universe&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323138&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fphilosophy-and-thinking&quot; data-child=&quot;323138&quot; data-wpel-link=&quot;internal&quot;&gt;Philosophy &amp;amp; Thinking&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323138&quot;&gt;&lt;li id=&quot;cate-4281&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323138&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fphilosophy-and-thinking%2fphilosophy&quot; data-wpel-link=&quot;internal&quot;&gt;Philosophy&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4282&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323138&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fphilosophy-and-thinking%2fthinking-skills&quot; data-wpel-link=&quot;internal&quot;&gt;Thinking Skills&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-349541&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2freviews&quot; data-wpel-link=&quot;internal&quot;&gt;Reviews&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-47352&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience&quot; data-child=&quot;47352&quot; data-wpel-link=&quot;internal&quot;&gt;Science&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;47352&quot;&gt;&lt;li id=&quot;cate-22&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47352&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fbiology&quot; data-wpel-link=&quot;internal&quot;&gt;Biology&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-23&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47352&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fchemistry&quot; data-wpel-link=&quot;internal&quot;&gt;Chemistry&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-14&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47352&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fgeography&quot; data-wpel-link=&quot;internal&quot;&gt;Geography&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-25&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47352&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fphysics&quot; data-wpel-link=&quot;internal&quot;&gt;Physics&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-26&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47352&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2ftechnology&quot; data-wpel-link=&quot;internal&quot;&gt;Technology&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323139&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fsociety-and-social-sciences&quot; data-child=&quot;323139&quot; data-wpel-link=&quot;internal&quot;&gt;Society &amp;amp; Social Sciences&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323139&quot;&gt;&lt;li id=&quot;cate-4283&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323139&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fsociety-and-social-sciences%2fsocial-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Social Sciences&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4284&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323139&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fsociety-and-social-sciences%2fsociety&quot; data-wpel-link=&quot;internal&quot;&gt;Society&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-323141&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences&quot; data-child=&quot;323141&quot; data-wpel-link=&quot;internal&quot;&gt;Tech &amp;amp; Sciences&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;323141&quot;&gt;&lt;li id=&quot;cate-4285&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323141&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2fagriculture&quot; data-wpel-link=&quot;internal&quot;&gt;Agriculture&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4286&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323141&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2fcomputing&quot; data-wpel-link=&quot;internal&quot;&gt;Computing&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4287&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323141&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2felectronics&quot; data-wpel-link=&quot;internal&quot;&gt;Electronics&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4288&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323141&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2fengineering&quot; data-wpel-link=&quot;internal&quot;&gt;Engineering&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-4289&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;323141&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2ftransport&quot; data-wpel-link=&quot;internal&quot;&gt;Transport&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-47358&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld&quot; data-child=&quot;47358&quot; data-wpel-link=&quot;internal&quot;&gt;World&lt;/a&gt;&lt;ul class=&quot;secondary-menu hidden-imp&quot; id=&quot;47358&quot;&gt;&lt;li id=&quot;cate-11&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47358&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2fcities&quot; data-wpel-link=&quot;internal&quot;&gt;Cities&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-13&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47358&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2fcountries&quot; data-wpel-link=&quot;internal&quot;&gt;Countries&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-16&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47358&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2flandmarks&quot; data-wpel-link=&quot;internal&quot;&gt;Landmarks&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;cate-17&quot; class=&quot;desktop-navSubItem&quot; data-parent=&quot;47358&quot; data-relatedcate=&quot;&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2fus-states&quot; data-wpel-link=&quot;internal&quot;&gt;US States&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li id=&quot;parent-151706&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftag&quot; data-wpel-link=&quot;internal&quot;&gt;All Categories&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-490523&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2funcategorized&quot; data-wpel-link=&quot;internal&quot;&gt;Everything Else&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-467386&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fdiscuss.facts.net&quot; data-wpel-link=&quot;internal&quot;&gt;Forum&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;parent-489369&quot; class=&quot;desktop-navItem&quot; data-relatedcate=&quot;0&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fgallery&quot; data-wpel-link=&quot;internal&quot;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/nav&gt;
+
+
+&lt;/div&gt;
+
+            &lt;div id=&quot;mobile-menu&quot;&gt;
+                &lt;div class=&quot;search-block&quot;&gt;
+                    &lt;form id=&quot;searchform&quot; method=&quot;get&quot; action=&quot;/search/&quot;&gt;
+                        &lt;div class=&quot;input-wrapper&quot;&gt;
+                            &lt;label class=&quot;screen-reader-text&quot; for=&quot;s&quot;&gt;&lt;/label&gt;
+                            &lt;input type=&quot;text&quot; class=&quot;search-field&quot; name=&quot;s&quot; placeholder=&quot;Search&quot;&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;search-btn&quot;&gt;
+                            &lt;img width=&quot;25&quot; height=&quot;25&quot; alt=&quot;search&quot;
+                                src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/themes/newsanchor/images/svg/search.svg&quot;&gt;
+                            &lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/form&gt;
+                &lt;/div&gt;
+               &lt;!--&lt;div class=&quot;special-facts&quot;&gt;
+                    &lt;div class=&quot;facts-icon&quot;&gt;
+                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffun-facts&quot; rel=&quot;Fun facts&quot; data-wpel-link=&quot;internal&quot;&gt;
+                            &lt;img width=&quot;38&quot; alt=&quot;Follow our facebook&quot;
+                                src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/themes/newsanchor/images/svg/fun.svg&quot;&gt;
+                            &lt;span&gt;Fun Facts&lt;/span&gt;
+                        &lt;/a&gt;
+                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwtf-facts&quot; rel=&quot;WTF facts&quot; data-wpel-link=&quot;internal&quot;&gt;
+                            &lt;img width=&quot;38&quot; alt=&quot;Follow our facebook&quot;
+                                src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/themes/newsanchor/images/svg/wtf.svg&quot;&gt;
+                            &lt;span&gt;Wtf facts&lt;/span&gt;
+                        &lt;/a&gt;
+                        &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2frandom-facts&quot; rel=&quot;random facts&quot; data-wpel-link=&quot;internal&quot;&gt;
+                            &lt;img width=&quot;38&quot; alt=&quot;Follow our facebook&quot;
+                                src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/themes/newsanchor/images/svg/random.svg&quot;&gt;
+                            &lt;span&gt;Random facts&lt;/span&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;--&gt;
+                &lt;nav id=&quot;mobile-category&quot;&gt;
+                    &lt;ul class=&quot;primary-menu&quot;&gt;
+                        &lt;li id=&quot;mobile-parent-323117&quot; data-relatedcate=&quot;932&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fairlines&quot; data-wpel-link=&quot;internal&quot;&gt;Airlines&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-323120&quot; data-relatedcate=&quot;607&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity&quot; data-wpel-link=&quot;internal&quot;&gt;Celebrity&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-323121&quot; class=&quot;&quot; data-relatedcate=&quot;610&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcharacters&quot; data-wpel-link=&quot;internal&quot;&gt;Characters&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323121&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323121&quot;&gt;&lt;li data-relatedcate=&quot;611&quot; data-parentnav=&quot;323121&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcharacters%2fpokemon&quot; data-wpel-link=&quot;internal&quot;&gt;Pokemon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323122&quot; class=&quot;&quot; data-relatedcate=&quot;4252&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts&quot; data-wpel-link=&quot;internal&quot;&gt;Culture &amp;amp; The Arts&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323122&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323122&quot;&gt;&lt;li data-relatedcate=&quot;4260&quot; data-parentnav=&quot;323122&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fgames-and-toys&quot; data-wpel-link=&quot;internal&quot;&gt;Games and Toys&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4261&quot; data-parentnav=&quot;323122&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fmass-media&quot; data-wpel-link=&quot;internal&quot;&gt;Mass Media&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4262&quot; data-parentnav=&quot;323122&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fperforming-arts&quot; data-wpel-link=&quot;internal&quot;&gt;Performing Arts&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4263&quot; data-parentnav=&quot;323122&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fculture-and-the-arts%2fvisual-arts&quot; data-wpel-link=&quot;internal&quot;&gt;Visual Arts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323126&quot; class=&quot;&quot; data-relatedcate=&quot;4253&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science&quot; data-wpel-link=&quot;internal&quot;&gt;Earth &amp;amp; Life Science&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323126&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323126&quot;&gt;&lt;li data-relatedcate=&quot;4264&quot; data-parentnav=&quot;323126&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fbiology-earth-and-life-science&quot; data-wpel-link=&quot;internal&quot;&gt;Biology&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4265&quot; data-parentnav=&quot;323126&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fearth-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Earth Sciences&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4266&quot; data-parentnav=&quot;323126&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fnature-earth-and-life-science&quot; data-wpel-link=&quot;internal&quot;&gt;Nature&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4267&quot; data-parentnav=&quot;323126&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fearth-and-life-science%2fphysical-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Physical Sciences&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323129&quot; data-relatedcate=&quot;931&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fevents&quot; data-wpel-link=&quot;internal&quot;&gt;Events&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-323130&quot; class=&quot;&quot; data-relatedcate=&quot;4254&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing&quot; data-wpel-link=&quot;internal&quot;&gt;Fitness &amp;amp; Wellbeing&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323130&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323130&quot;&gt;&lt;li data-relatedcate=&quot;4268&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fdentistry&quot; data-wpel-link=&quot;internal&quot;&gt;Dentistry&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4269&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fexercise&quot; data-wpel-link=&quot;internal&quot;&gt;Exercise&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4270&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fhealth-science&quot; data-wpel-link=&quot;internal&quot;&gt;Health Science&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4271&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fhygiene&quot; data-wpel-link=&quot;internal&quot;&gt;Hygiene&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4272&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fmedicine&quot; data-wpel-link=&quot;internal&quot;&gt;Medicine&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4273&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fnutrition&quot; data-wpel-link=&quot;internal&quot;&gt;Nutrition&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4274&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fpsychology&quot; data-wpel-link=&quot;internal&quot;&gt;Psychology&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4275&quot; data-parentnav=&quot;323130&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffitness-and-wellbeing%2fpublic-health&quot; data-wpel-link=&quot;internal&quot;&gt;Public Health&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-47860&quot; data-relatedcate=&quot;47860&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fgeneral&quot; data-wpel-link=&quot;internal&quot;&gt;General&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-47337&quot; class=&quot;current-parent&quot; data-relatedcate=&quot;4&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory&quot; data-wpel-link=&quot;internal&quot;&gt;History&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;47337&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu current-parent&quot; id=&quot;mobile-sub-47337&quot;&gt;&lt;li data-relatedcate=&quot;7&quot; data-parentnav=&quot;47337&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fculture&quot; data-wpel-link=&quot;internal&quot;&gt;Culture&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;148&quot; data-parentnav=&quot;47337&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fhistorical-events&quot; data-wpel-link=&quot;internal&quot;&gt;Historical Events&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;6&quot; class=&quot;current-category&quot; data-parentnav=&quot;47337&quot;&gt;&lt;p&gt;People&lt;/p&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;39&quot; data-parentnav=&quot;47337&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2freligion&quot; data-wpel-link=&quot;internal&quot;&gt;Religion&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323132&quot; class=&quot;&quot; data-relatedcate=&quot;4255&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhuman-activities&quot; data-wpel-link=&quot;internal&quot;&gt;Human Activities&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323132&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323132&quot;&gt;&lt;li data-relatedcate=&quot;4276&quot; data-parentnav=&quot;323132&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhuman-activities%2fhuman-activities-human-activities&quot; data-wpel-link=&quot;internal&quot;&gt;Human Activities&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4277&quot; data-parentnav=&quot;323132&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhuman-activities%2fimpact-of-human-activity&quot; data-wpel-link=&quot;internal&quot;&gt;Impact of Human Activity&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-47342&quot; class=&quot;&quot; data-relatedcate=&quot;53&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle&quot; data-wpel-link=&quot;internal&quot;&gt;Lifestyle&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;47342&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-47342&quot;&gt;&lt;li data-relatedcate=&quot;57&quot; data-parentnav=&quot;47342&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment&quot; data-wpel-link=&quot;internal&quot;&gt;Entertainment&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;36&quot; data-parentnav=&quot;47342&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2ffood&quot; data-wpel-link=&quot;internal&quot;&gt;Food&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;24&quot; data-parentnav=&quot;47342&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fhealth&quot; data-wpel-link=&quot;internal&quot;&gt;Health&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;47&quot; data-parentnav=&quot;47342&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fsports&quot; data-wpel-link=&quot;internal&quot;&gt;Sports&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323134&quot; class=&quot;&quot; data-relatedcate=&quot;4256&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic&quot; data-wpel-link=&quot;internal&quot;&gt;Mathematics &amp;amp; Logic&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323134&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323134&quot;&gt;&lt;li data-relatedcate=&quot;4278&quot; data-parentnav=&quot;323134&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic%2ffields-of-mathematics&quot; data-wpel-link=&quot;internal&quot;&gt;Fields of Mathematics&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4279&quot; data-parentnav=&quot;323134&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic%2fmathematical-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Mathematical Sciences&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4280&quot; data-parentnav=&quot;323134&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmathematics-and-logic%2fmathematics&quot; data-wpel-link=&quot;internal&quot;&gt;Mathematics&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-82282&quot; data-relatedcate=&quot;530&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie&quot; data-wpel-link=&quot;internal&quot;&gt;Movie&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-47347&quot; class=&quot;&quot; data-relatedcate=&quot;2&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature&quot; data-wpel-link=&quot;internal&quot;&gt;Nature&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;47347&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-47347&quot;&gt;&lt;li data-relatedcate=&quot;8&quot; data-parentnav=&quot;47347&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2fanimals&quot; data-wpel-link=&quot;internal&quot;&gt;Animals&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;125&quot; data-parentnav=&quot;47347&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2fhuman-body&quot; data-wpel-link=&quot;internal&quot;&gt;Human Body&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;10&quot; data-parentnav=&quot;47347&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2fplants&quot; data-wpel-link=&quot;internal&quot;&gt;Plants&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;27&quot; data-parentnav=&quot;47347&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fnature%2funiverse&quot; data-wpel-link=&quot;internal&quot;&gt;Universe&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323138&quot; class=&quot;&quot; data-relatedcate=&quot;4257&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fphilosophy-and-thinking&quot; data-wpel-link=&quot;internal&quot;&gt;Philosophy &amp;amp; Thinking&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323138&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323138&quot;&gt;&lt;li data-relatedcate=&quot;4281&quot; data-parentnav=&quot;323138&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fphilosophy-and-thinking%2fphilosophy&quot; data-wpel-link=&quot;internal&quot;&gt;Philosophy&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4282&quot; data-parentnav=&quot;323138&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fphilosophy-and-thinking%2fthinking-skills&quot; data-wpel-link=&quot;internal&quot;&gt;Thinking Skills&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-349541&quot; data-relatedcate=&quot;4291&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2freviews&quot; data-wpel-link=&quot;internal&quot;&gt;Reviews&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-47352&quot; class=&quot;&quot; data-relatedcate=&quot;5&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience&quot; data-wpel-link=&quot;internal&quot;&gt;Science&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;47352&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-47352&quot;&gt;&lt;li data-relatedcate=&quot;22&quot; data-parentnav=&quot;47352&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fbiology&quot; data-wpel-link=&quot;internal&quot;&gt;Biology&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;23&quot; data-parentnav=&quot;47352&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fchemistry&quot; data-wpel-link=&quot;internal&quot;&gt;Chemistry&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;14&quot; data-parentnav=&quot;47352&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fgeography&quot; data-wpel-link=&quot;internal&quot;&gt;Geography&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;25&quot; data-parentnav=&quot;47352&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2fphysics&quot; data-wpel-link=&quot;internal&quot;&gt;Physics&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;26&quot; data-parentnav=&quot;47352&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fscience%2ftechnology&quot; data-wpel-link=&quot;internal&quot;&gt;Technology&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323139&quot; class=&quot;&quot; data-relatedcate=&quot;4258&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fsociety-and-social-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Society &amp;amp; Social Sciences&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323139&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323139&quot;&gt;&lt;li data-relatedcate=&quot;4283&quot; data-parentnav=&quot;323139&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fsociety-and-social-sciences%2fsocial-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Social Sciences&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4284&quot; data-parentnav=&quot;323139&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fsociety-and-social-sciences%2fsociety&quot; data-wpel-link=&quot;internal&quot;&gt;Society&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-323141&quot; class=&quot;&quot; data-relatedcate=&quot;4259&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences&quot; data-wpel-link=&quot;internal&quot;&gt;Tech &amp;amp; Sciences&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;323141&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-323141&quot;&gt;&lt;li data-relatedcate=&quot;4285&quot; data-parentnav=&quot;323141&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2fagriculture&quot; data-wpel-link=&quot;internal&quot;&gt;Agriculture&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4286&quot; data-parentnav=&quot;323141&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2fcomputing&quot; data-wpel-link=&quot;internal&quot;&gt;Computing&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4287&quot; data-parentnav=&quot;323141&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2felectronics&quot; data-wpel-link=&quot;internal&quot;&gt;Electronics&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4288&quot; data-parentnav=&quot;323141&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2fengineering&quot; data-wpel-link=&quot;internal&quot;&gt;Engineering&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;4289&quot; data-parentnav=&quot;323141&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftech-and-sciences%2ftransport&quot; data-wpel-link=&quot;internal&quot;&gt;Transport&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-47358&quot; class=&quot;&quot; data-relatedcate=&quot;3&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld&quot; data-wpel-link=&quot;internal&quot;&gt;World&lt;/a&gt;&lt;div class=&quot;sub-toggle&quot; data-target=&quot;47358&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;ul class=&quot;secondary-menu&quot; id=&quot;mobile-sub-47358&quot;&gt;&lt;li data-relatedcate=&quot;11&quot; data-parentnav=&quot;47358&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2fcities&quot; data-wpel-link=&quot;internal&quot;&gt;Cities&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;13&quot; data-parentnav=&quot;47358&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2fcountries&quot; data-wpel-link=&quot;internal&quot;&gt;Countries&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;16&quot; data-parentnav=&quot;47358&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2flandmarks&quot; data-wpel-link=&quot;internal&quot;&gt;Landmarks&lt;/a&gt;&lt;/li&gt;&lt;li data-relatedcate=&quot;17&quot; data-parentnav=&quot;47358&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fworld%2fus-states&quot; data-wpel-link=&quot;internal&quot;&gt;US States&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li id=&quot;mobile-parent-151706&quot; data-relatedcate=&quot;151698&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ftag&quot; data-wpel-link=&quot;internal&quot;&gt;All Categories&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-490523&quot; data-relatedcate=&quot;1&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2funcategorized&quot; data-wpel-link=&quot;internal&quot;&gt;Everything Else&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-467386&quot; data-relatedcate=&quot;467386&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fdiscuss.facts.net&quot; data-wpel-link=&quot;internal&quot;&gt;Forum&lt;/a&gt;&lt;/li&gt;&lt;li id=&quot;mobile-parent-489369&quot; data-relatedcate=&quot;489369&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fgallery&quot; data-wpel-link=&quot;internal&quot;&gt;Gallery&lt;/a&gt;&lt;/li&gt;                    &lt;/ul&gt;
+                &lt;/nav&gt;&lt;!-- /nav --&gt;
+
+                &lt;div class=&quot;section latest-section mobile-section&quot;&gt;
+                    &lt;div class=&quot;section-title&quot;&gt;&lt;div&gt;Latest Facts&lt;/div&gt;&lt;/div&gt;
+                    &lt;div class=&quot;facts-wrapper&quot;&gt;
+                        &lt;div class=&quot;article horizontal-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f15-facts-about-caroline-dawson&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;96&quot;   alt=&quot;15 Facts About Caroline Dawson &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/15-facts-about-caroline-dawson/&quot; data-jpibfi-post-title=&quot;15 Facts About Caroline Dawson&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/05/15-facts-about-caroline-dawson-1716644799.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2296%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    29 Jun 2024                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f15-facts-about-caroline-dawson&quot; data-wpel-link=&quot;internal&quot;&gt;15 Facts About Caroline Dawson &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article horizontal-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f30-facts-about-killing-me-softly-with-his-song&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;84&quot;   alt=&quot;30 Facts About Killing Me Softly With His Song &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/lifestyle/entertainment/30-facts-about-killing-me-softly-with-his-song/&quot; data-jpibfi-post-title=&quot;30 Facts About Killing Me Softly With His Song&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/06/30-facts-about-killing-me-softly-with-his-song-1719394814.jpg&quot; class=&quot;attachment-thumbnail size-thumbnail wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Entertainment&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    29 Jun 2024                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f30-facts-about-killing-me-softly-with-his-song&quot; data-wpel-link=&quot;internal&quot;&gt;30 Facts About Killing Me Softly With His Song &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+                    &lt;/div&gt;
+    &lt;/header&gt;
+
+    &lt;main class=&quot;page-content&quot;&gt;
+        &lt;div class=&quot;container content-wrapper&quot;&gt;
+
+&lt;article id=&quot;post-91243&quot; class=&quot;post-91243 post type-post status-publish format-standard has-post-thumbnail hentry category-people clearfix&quot;&gt;
+
+    &lt;div class=&quot;entry-header&quot;&gt;
+
+        &lt;div class=&quot;breadcrumb-title-bg-a&quot;&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;{&quot;@context&quot;:&quot;http:\\/\\/schema.org&quot;,&quot;@type&quot;:&quot;BreadcrumbList&quot;,&quot;itemListElement&quot;:[{&quot;@type&quot;:&quot;ListItem&quot;,&quot;position&quot;:1,&quot;name&quot;:&quot;Home&quot;,&quot;item&quot;:{&quot;@id&quot;:&quot;https:\\/\\/facts.net\\/&quot;,&quot;name&quot;:&quot;Home&quot;}},{&quot;@type&quot;:&quot;ListItem&quot;,&quot;position&quot;:2,&quot;name&quot;:&quot;History&quot;,&quot;item&quot;:{&quot;@id&quot;:&quot;https:\\/\\/facts.net\\/history\\/&quot;,&quot;name&quot;:&quot;History&quot;}},{&quot;@type&quot;:&quot;ListItem&quot;,&quot;position&quot;:3,&quot;name&quot;:&quot;People&quot;,&quot;item&quot;:{&quot;@id&quot;:&quot;https:\\/\\/facts.net\\/history\\/people\\/&quot;,&quot;name&quot;:&quot;People&quot;}},{&quot;@type&quot;:&quot;ListItem&quot;,&quot;position&quot;:4,&quot;name&quot;:&quot;15 Facts About Eminem&quot;,&quot;item&quot;:{&quot;@id&quot;:&quot;https:\\/\\/facts.net\\/history\\/people\\/15-facts-about-eminem\\/&quot;,&quot;name&quot;:&quot;15 Facts About Eminem&quot;}}]}&lt;/script&gt; &lt;div class=&quot;breadcrumb&quot; id=&quot;breadcrumbs&quot;&gt;&lt;span&gt;&lt;span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net&quot; data-wpel-link=&quot;internal&quot;&gt;Home&lt;/a&gt; &lt;span class=&quot;breadcrumb-span&quot;&gt;&lt;/span&gt; &lt;span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory&quot; data-wpel-link=&quot;internal&quot;&gt;History&lt;/a&gt; &lt;span class=&quot;breadcrumb-span&quot;&gt;&lt;/span&gt; &lt;span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople&quot; data-wpel-link=&quot;internal&quot;&gt;People&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;        &lt;!--&lt;div class=&quot;breadcrumb&quot;&gt;
+            &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f&quot; data-wpel-link=&quot;internal&quot;&gt;Home&lt;/a&gt;
+            &lt;span class=&quot;breadcrumb-span&quot;&gt;&lt;/span&gt;
+                            &lt;a class=&quot;parent-cat&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory&quot; data-wpel-link=&quot;internal&quot;&gt;History&lt;/a&gt;
+                &lt;span class=&quot;breadcrumb-span&quot;&gt;&lt;/span&gt;
+                &lt;a class=&quot;primary-cat&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople&quot; data-wpel-link=&quot;internal&quot;&gt;People&lt;/a&gt;
+                    &lt;/div&gt;--&gt;
+
+        &lt;h1 class=&quot;single-title&quot;&gt;15 Facts About Eminem&lt;/h1&gt;&lt;/div&gt;
+        
+        &lt;div class=&quot;author-section-post&quot;&gt;
+
+            &lt;div class=&quot;author-name-date&quot;&gt;
+&lt;div class=&quot;author-name&quot;&gt;
+&lt;div class=&quot;author-icon&quot;&gt;
+&lt;img src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://secure.gravatar.com/avatar/?s=30&amp;d=mm&amp;r=g &quot; width=&quot;30&quot; height=&quot;30&quot; class=&quot;avatar&quot; alt=&quot;Kittie Nesmith&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;writtenby&quot;&gt;
+&lt;p&gt;Written by &lt;span&gt;Kittie Nesmith&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;date&quot;&gt;
+&lt;p&gt;Modified &amp; Updated: &lt;span &gt;01 Jun 2024&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;                
+ 
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;reviewed-by&quot;&gt;
+&lt;div class=&quot;reviewedby-icon&quot;&gt;&lt;img  width=&quot;30&quot; height=&quot;30&quot;  alt=&quot;Sherman Smith&quot; data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/02/sherman_smith_facts_chief_editor-30x30.jpg&quot; class=&quot;avatar lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2230%22 height=%2230%22 viewBox=%220 0 1 1%22 /%3E&quot; /&gt;&lt;p&gt;Reviewed by &lt;span&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fmeet-the-team%2f&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;Sherman Smith&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;expert-editorial&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fmeet-the-team%2f&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;Expert Verified&lt;/a&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2feditorial-policy%2f&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;Editorial Guidelines&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post-tag&quot; &gt;
+   &lt;ul class=&quot;related-tag&quot;&gt;
+                        &lt;li class=&quot;tag cat&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople&quot; rel=&quot;tag&quot; data-wpel-link=&quot;internal&quot;&gt;People&lt;/a&gt;&lt;/li&gt;                    &lt;/ul&gt;
+      &lt;/div&gt;
+        
+            &lt;/div&gt;&lt;!-- .entry-header --&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;entry-content col-md-9&quot; id=&quot;contents&quot;&gt;
+
+                            &lt;div class=&quot;share-floating&quot;&gt;
+                    &lt;div class=&quot;media_icon&quot;&gt;
+                        &lt;a class=&quot;facebook&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fsharer%3fu%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;twitter&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftwitter.com%2fshare%3furl%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;pinterest&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fpinterest.com%2fpin%2fcreate%2fbutton%2f%3furl%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-pin-do=&quot;none&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;whatsapp&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fapi.whatsapp.com%2fsend%3ftext%3d15%2bFacts%2bAbout%2bEminem%250A%250Ahttps%253A%252F%252Ffacts.net%252Fhistory%252Fpeople%252F15-facts-about-eminem%252F&quot; data-action=&quot;share/whatsapp/share&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; fill=&quot;#FFF&quot; d=&quot;M16.21 4.41C9.973 4.41 4.917 9.465 4.917 15.7c0 2.134.592 4.13 1.62 5.832L4.5 27.59l6.25-2.002a11.241 11.241 0 0 0 5.46 1.404c6.234 0 11.29-5.055 11.29-11.29 0-6.237-5.056-11.292-11.29-11.292zm0 20.69c-1.91 0-3.69-.57-5.173-1.553l-3.61 1.156 1.173-3.49a9.345 9.345 0 0 1-1.79-5.512c0-5.18 4.217-9.4 9.4-9.4 5.183 0 9.397 4.22 9.397 9.4 0 5.188-4.214 9.4-9.398 9.4zm5.293-6.832c-.284-.155-1.673-.906-1.934-1.012-.265-.106-.455-.16-.658.12s-.78.91-.954 1.096c-.176.186-.345.203-.628.048-.282-.154-1.2-.494-2.264-1.517-.83-.795-1.373-1.76-1.53-2.055-.158-.295 0-.445.15-.584.134-.124.3-.326.45-.488.15-.163.203-.28.306-.47.104-.19.06-.36-.005-.506-.066-.147-.59-1.587-.81-2.173-.218-.586-.46-.498-.63-.505-.168-.007-.358-.038-.55-.045-.19-.007-.51.054-.78.332-.277.274-1.05.943-1.1 2.362-.055 1.418.926 2.826 1.064 3.023.137.2 1.874 3.272 4.76 4.537 2.888 1.264 2.9.878 3.43.85.53-.027 1.734-.633 2-1.297.266-.664.287-1.24.22-1.363-.07-.123-.26-.203-.54-.357z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;mail&quot; rel=&quot;nofollow&quot;  href=&quot;mailto:?subject=15 Facts About Eminem&amp;amp;body=https://facts.net/history/people/15-facts-about-eminem/&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M26 21.25v-9s-9.1 6.35-9.984 6.68C15.144 18.616 6 12.25 6 12.25v9c0 1.25.266 1.5 1.5 1.5h17c1.266 0 1.5-.22 1.5-1.5zm-.015-10.765c0-.91-.265-1.235-1.485-1.235h-17c-1.255 0-1.5.39-1.5 1.3l.015.14s9.035 6.22 10 6.56c1.02-.395 9.985-6.7 9.985-6.7l-.015-.065z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            
+            &lt;div class=&quot;feature-img&quot;&gt;
+                
+                &lt;picture&gt;&lt;source media=&quot;(max-width:600px)&quot; srcset=&quot;https://facts.net/wp-content/uploads/2023/07/15-facts-about-eminem-1689291134.jpg&quot;&gt;&lt;source media=&quot;(min-width:601px)&quot; srcset=&quot;https://facts.net/wp-content/uploads/2023/07/15-facts-about-eminem-1689291134.jpg&quot;&gt;&lt;img fetchpriority=&quot;high&quot; width=&quot;2048&quot; height=&quot;1229&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/07/15-facts-about-eminem-1689291134.jpg&quot; srcset=&quot;&quot; sizes=&quot;(max-width: 730px) 100vw, 730px&quot; alt=&quot;15-facts-about-eminem&quot; class=&quot;attachment-newsanchor-large-thumb size-newsanchor-large-thumb wp-post-image priority&quot; /&gt;&lt;/picture&gt;
+            &lt;/div&gt;
+&lt;div class=&quot;source-img&quot;&gt;Source: Chipublib.org&lt;/div&gt;            &lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;p&gt;Eminem, also known as Marshall Mathers, is one of the most influential and successful rap artists of all time. With his unique blend of raw lyrics, rapid-fire delivery, and undeniable talent, Eminem has captivated audiences around the world for over two decades. In this article, we will delve into 15 fascinating facts about this iconic musician, shedding light on both his personal life and professional achievements. From his turbulent upbringing to his rise to stardom, Eminem’s story is one of resilience, controversy, and immense talent. So, let’s dive into the world of Eminem and discover some lesser-known details about this enigmatic artist.&lt;/p&gt;
+            
+            &lt;div class=&quot;content-wrap-flex&quot;&gt;
+
+                                         &lt;div class=&quot;key-takeaway&quot;&gt;
+&lt;h2&gt;Key Takeaways:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Eminem’s early start in rap and his journey to stardom showcase his passion and resilience, inspiring others to pursue their dreams despite challenges.&lt;/li&gt;
+&lt;li&gt;Eminem’s impact on the music industry, his personal struggles, and his close relationship with his daughter highlight the complexity and humanity of this iconic rapper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+                        &lt;div class=&quot;toc-wrapper&quot;&gt;
+                            &lt;div id=&quot;toc&quot;&gt;
+                                &lt;div class=&quot;toc-nav&quot;&gt;
+                                    &lt;div class=&quot;toc-title&quot;&gt;Table of Contents&lt;/div&gt;
+                                    &lt;div class=&quot;toc-toggle&quot;&gt;&lt;/div&gt;
+                                &lt;/div&gt;
+                                &lt;div class=&quot;contents-menu&quot; id=&quot;toc_item&quot;&gt;
+                                    &lt;div class='item'&gt;&lt;div class='title-link' data-title='1'&gt;&lt;span&gt;01&lt;/span&gt;Eminem started rapping at a young age.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='2'&gt;&lt;span&gt;02&lt;/span&gt;Eminem’s debut album was a huge success.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='3'&gt;&lt;span&gt;03&lt;/span&gt;The Slim Shady LP propelled Eminem to stardom.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='4'&gt;&lt;span&gt;04&lt;/span&gt;Eminem won an Academy Award for Best Original Song.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='5'&gt;&lt;span&gt;05&lt;/span&gt;He created his own record label.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='6'&gt;&lt;span&gt;06&lt;/span&gt;Eminem has sold over 220 million records worldwide.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='7'&gt;&lt;span&gt;07&lt;/span&gt;He is the first rapper to have two Diamond-certified albums.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='8'&gt;&lt;span&gt;08&lt;/span&gt;Eminem holds several Guinness World Records.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='9'&gt;&lt;span&gt;09&lt;/span&gt;He has collaborated with numerous artists.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='10'&gt;&lt;span&gt;10&lt;/span&gt;Eminem has battled drug addiction.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='11'&gt;&lt;span&gt;11&lt;/span&gt;He created a fictional character named Slim Shady.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='12'&gt;&lt;span&gt;12&lt;/span&gt;Eminem is known for his rapid-fire delivery.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='13'&gt;&lt;span&gt;13&lt;/span&gt;He has won 15 Grammy Awards.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='14'&gt;&lt;span&gt;14&lt;/span&gt;Eminem starred in the movie “8 Mile.”&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='15'&gt;&lt;span&gt;15&lt;/span&gt;He has a close relationship with his daughter, Hailie Jade Scott.&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='16'&gt;&lt;span&gt;16&lt;/span&gt;Conclusion&lt;/div&gt;&lt;/div&gt;&lt;div class='item'&gt;&lt;div class='title-link' data-title='17'&gt;&lt;span&gt;17&lt;/span&gt;FAQs&lt;/div&gt;&lt;/div&gt;                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                                                                                 &lt;div class=&quot;single-title-desc-wrap&quot; layout=&quot;condensed title_&amp;_description&quot;&gt;
+
+                                    
+                                    &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD HTML 4.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/REC-html40/loose.dtd&quot;&gt;
+&lt;html&gt;&lt;body&gt;&lt;div&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-1&quot;&gt;Eminem started rapping at a young age.&lt;/h2&gt;
+&lt;p&gt;Marshall Bruce Mathers III, known as Eminem, discovered his passion for rap music at the &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f45-facts-about-elizabeth-smart&quot; title=&quot;age of 14&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;age of 14&lt;/a&gt; when he began performing in local Detroit clubs.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-2&quot;&gt;Eminem&amp;rsquo;s debut album was a huge success.&lt;/h2&gt;
+&lt;p&gt;Released in 1996, &amp;ldquo;Infinite&amp;rdquo; marked the beginning of Eminem&amp;rsquo;s career. Although it received mixed reviews, it laid the foundation for his future success.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-3&quot;&gt;The Slim Shady LP propelled Eminem to stardom.&lt;/h2&gt;
+&lt;p&gt;With hits like &amp;ldquo;&lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie%2f37-facts-about-the-movie-my-name-is-nobody&quot; title=&quot;My Name Is&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;My Name Is&lt;/a&gt;&amp;rdquo; and &amp;ldquo;Guilty Conscience,&amp;rdquo; Eminem gained widespread recognition and critical acclaim with his second studio album.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;aside class=&quot;recommend-article&quot;&gt;&lt;p&gt;Read also: &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f14-amazing-hattie-mcdaniel-facts&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;span&gt;14 Amazing Hattie Mcdaniel Facts &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/aside&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-4&quot;&gt;Eminem won an Academy Award for Best Original Song.&lt;/h2&gt;
+&lt;p&gt;The song &amp;ldquo;Lose Yourself,&amp;rdquo; from the soundtrack of the movie &amp;ldquo;8 Mile,&amp;rdquo; earned Eminem an Academy Award for Best Original Song in 2003.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-5&quot;&gt;He created his own record label.&lt;/h2&gt;
+&lt;p&gt;Eminem founded Shady Records in 1999, which became the home for artists like 50 Cent, D12, and &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-captivating-facts-about-obie-trice&quot; title=&quot;Obie Trice&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;Obie Trice&lt;/a&gt;.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;div class=&quot;responsive-thin-ad-wrapper medrec-responsive&quot;&gt;&lt;div id=&quot;skm-ad-medrec-3&quot; class=&quot;lazyshemedia&quot; data-size=&quot;medrec&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;responsive-thin-ad-wrapper banner-responsive&quot;&gt;&lt;div id=&quot;skm-ad-banner-3&quot; class=&quot;lazyshemedia&quot; data-size=&quot;banner&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-6&quot;&gt;Eminem has sold over 220 million records worldwide.&lt;/h2&gt;
+&lt;p&gt;His immense success has made him one of the best-selling music artists of all time.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;div class=&quot;responsive-thin-ad-wrapper medrec-responsive&quot;&gt;&lt;div id=&quot;skm-ad-medrec-4&quot; class=&quot;lazyshemedia&quot; data-size=&quot;medrec&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;responsive-thin-ad-wrapper banner-responsive&quot;&gt;&lt;div id=&quot;skm-ad-banner-4&quot; class=&quot;lazyshemedia&quot; data-size=&quot;banner&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-7&quot;&gt;He is the first rapper to have two Diamond-certified albums.&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Marshall Mathers LP&amp;rdquo; and &amp;ldquo;The Eminem Show&amp;rdquo; both achieved Diamond status, each selling over 10 million copies in the United States.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-8&quot;&gt;Eminem holds several Guinness World Records.&lt;/h2&gt;
+&lt;p&gt;These include &amp;ldquo;Fastest Selling Hip-Hop Album&amp;rdquo; and &amp;ldquo;Most Words in a Hit Single.&amp;rdquo;&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-9&quot;&gt;He has collaborated with numerous artists.&lt;/h2&gt;
+&lt;p&gt;Eminem has worked with artists such as Rihanna, &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f40-facts-about-dr-dre&quot; title=&quot;Dr. Dre&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;Dr. Dre&lt;/a&gt;, Beyoncé, and Ed Sheeran, showcasing his versatility and ability to cross genres.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;aside class=&quot;recommend-article&quot;&gt;&lt;p&gt;Read also: &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f8-astounding-facts-about-bryce-james&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;span&gt;8 Astounding Facts About Bryce James &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/aside&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-10&quot;&gt;Eminem has battled drug addiction.&lt;/h2&gt;
+&lt;p&gt;Throughout his career, Eminem has been open about his struggles with substance abuse, inspiring many with his &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie%2f38-facts-about-the-movie-clean-and-sober&quot; title=&quot;journey to recovery&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;journey to recovery&lt;/a&gt;.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;div class=&quot;responsive-thin-ad-wrapper medrec-responsive&quot;&gt;&lt;div id=&quot;skm-ad-medrec-5&quot; class=&quot;lazyshemedia&quot; data-size=&quot;medrec&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;responsive-thin-ad-wrapper banner-responsive&quot;&gt;&lt;div id=&quot;skm-ad-banner-5&quot; class=&quot;lazyshemedia&quot; data-size=&quot;banner&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-11&quot;&gt;He created a fictional character named Slim Shady.&lt;/h2&gt;
+&lt;p&gt;Slim Shady is a alter ego of Eminem who is known for his provocative and controversial lyrics.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-12&quot;&gt;Eminem is known for his rapid-fire delivery.&lt;/h2&gt;
+&lt;p&gt;His unique style of rapping showcases his incredible lyrical skills, with his ability to deliver &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2f12-astonishing-facts-about-the-satanic-verses-salman-rushdie&quot; title=&quot;verses&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;verses&lt;/a&gt; at breakneck speeds.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;div class=&quot;responsive-thin-ad-wrapper medrec-responsive&quot;&gt;&lt;div id=&quot;skm-ad-medrec-6&quot; class=&quot;lazyshemedia&quot; data-size=&quot;medrec&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;responsive-thin-ad-wrapper banner-responsive&quot;&gt;&lt;div id=&quot;skm-ad-banner-6&quot; class=&quot;lazyshemedia&quot; data-size=&quot;banner&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-13&quot;&gt;He has won 15 Grammy Awards.&lt;/h2&gt;
+&lt;p&gt;Eminem has been recognized by the music industry with numerous Grammy Awards, solidifying his status as one of the greatest rappers of all time.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-14&quot;&gt;Eminem starred in the movie &amp;ldquo;8 Mile.&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Inspired by his own life, Eminem portrayed the character Jimmy Smith Jr., a young rapper struggling to make it in the music industry.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-15&quot;&gt;He has a close relationship with his daughter, Hailie Jade Scott.&lt;/h2&gt;
+&lt;p&gt;Eminem often references his daughter in his songs, showing his love and dedication to her.&lt;/p&gt;
+&lt;html&gt;&lt;body&gt;&lt;div class=&quot;responsive-thin-ad-wrapper medrec-responsive&quot;&gt;&lt;div id=&quot;skm-ad-medrec-7&quot; class=&quot;lazyshemedia&quot; data-size=&quot;medrec&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;responsive-thin-ad-wrapper banner-responsive&quot;&gt;&lt;div id=&quot;skm-ad-banner-7&quot; class=&quot;lazyshemedia&quot; data-size=&quot;banner&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;h2 class=&quot;content-title&quot; id=&quot;title-16&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;These 15 facts about Eminem provide a fascinating glimpse into the life of one of the most iconic and influential musicians of our time. From his humble beginnings in Detroit to his rise to fame as a global superstar, Eminem&amp;rsquo;s journey is filled with highs, lows, and remarkable achievements.&lt;/p&gt;
+&lt;p&gt;Through his raw and honest lyrics, Eminem has touched the lives of millions of fans around the world. His ability to convey deep emotions and personal struggles through his music has made him an inspiration to many.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;ve been a fan since the early days or are just discovering Eminem&amp;rsquo;s discography, these facts offer a deeper understanding of the man behind the music. From his battle with addiction to his enduring impact on the &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f37-facts-about-da-brat&quot; title=&quot;rap industry&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;rap industry&lt;/a&gt;, Eminem&amp;rsquo;s influence continues to transcend generations.&lt;/p&gt;
+&lt;p&gt;As we look to the future, it&amp;rsquo;s clear that Eminem&amp;rsquo;s legacy will live on, and his artistry will continue to shape the landscape of music for years to come.&lt;/p&gt;
+&lt;h2 class=&quot;content-title&quot; id=&quot;title-17&quot;&gt;FAQs&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;1. When did Eminem start his music career?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Eminem began his music career in the late 1990s, gaining recognition through his debut album &amp;ldquo;The Slim Shady LP,&amp;rdquo; which was released in 1999.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. How many albums has Eminem released?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Eminem has released a total of 11 studio albums, including popular ones like &amp;ldquo;The Marshall Mathers LP,&amp;rdquo; &amp;ldquo;The Eminem Show,&amp;rdquo; and &amp;ldquo;Recovery.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Has Eminem won any awards?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes, Eminem has won numerous awards throughout his career, including 15 Grammy Awards, an Academy Award, and several MTV Video Music Awards.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. What is Eminem&amp;rsquo;s real name?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Eminem&amp;rsquo;s real name is Marshall Bruce Mathers III.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Has Eminem acted in any movies?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes, Eminem has acted in movies, most notably in the &lt;a class=&quot;wpil_keyword_link&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie%2f37-facts-about-the-movie-postcards-from-the-edge&quot; title=&quot;semi-autobiographical&quot; data-wpil-keyword-link=&quot;linked&quot; data-wpel-link=&quot;internal&quot;&gt;semi-autobiographical&lt;/a&gt; film &amp;ldquo;8 Mile,&amp;rdquo; which earned him critical acclaim for his portrayal of a struggling rapper.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;6. Did Eminem have any major controversies in his career?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes, Eminem has been involved in several controversies throughout his career, often due to the explicit content of his music and his candid lyrics addressing sensitive topics.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;7. Is Eminem still active in the music industry?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes, Eminem is still active in the music industry and continues to release new music. His latest album, &amp;ldquo;Music to be Murdered By,&amp;rdquo; was released in 2020.&lt;/p&gt;
+&lt;/div&gt;
+                                &lt;/div&gt;
+                                        &lt;/div&gt;
+
+            &lt;aside class=&quot;Review section&quot;&gt;&lt;/aside&gt;     &lt;script&gt;
+document.addEventListener('DOMContentLoaded', function () {
+document.querySelectorAll(&quot;.single #feedback-form span.feedback-flag&quot;).forEach(function (flagIcon) {
+flagIcon.addEventListener('click', function () {
+// Get the current post URL
+var currentURL = window.location.href;
+console.log(currentURL);
+
+// Encode the URL once
+var encodedURL = encodeURIComponent(currentURL);
+
+// Set a cookie with the post URL
+document.cookie = &quot;post_url=&quot; + encodedURL + &quot;; path=/&quot;;
+
+// Construct the feedback page URL
+var feedbackPageURL = &quot;facts.net/feedback/&quot;;
+
+// Redirect to the feedback page
+window.location.href = feedbackPageURL;
+});
+});
+document.querySelectorAll(&quot;.single #feedback-form .right i.fas.fa-times&quot;).forEach(function (flagIcon) {
+flagIcon.addEventListener('click', function () {
+// Show the elements when the flag icon is clicked
+document.querySelector(&quot;.single #feedback-form h3&quot;).style.display = &quot;inline-block&quot;;
+document.querySelector(&quot;.single #feedback-form .left .icon-container&quot;).style.display = &quot;inline-block&quot;;
+document.querySelector(&quot;.single #feedback-form span.feedback-flag&quot;).style.display = &quot;block&quot;;
+document.querySelector(&quot;.single #feedback-form .feedback-container&quot;).style.display = &quot;none&quot;;
+document.querySelector(&quot;.single #feedback-form .right i.fas.fa-times&quot;).style.display = &quot;none&quot;;
+document.querySelector(&quot;.feedback-message&quot;).textContent = &quot;&quot;; // Clear the feedback message
+});
+});
+document.querySelectorAll(&quot;.feedback-icon&quot;).forEach(function(icon) {
+icon.addEventListener('click', function() {
+var feedbackType = this.classList.contains(&quot;positive&quot;) ? &quot;positive&quot; : &quot;negative&quot;;
+var postId = 91243; // Get the current post ID dynamically
+// console.log('Feedback Type:', feedbackType);
+// console.log('Post ID:', postId);
+// console.log('AJAX URL:', &quot;https://facts.net/wp-admin/admin-ajax.php&quot;);
+
+// Perform the AJAX request
+fetch(&quot;https://facts.net/wp-admin/admin-ajax.php&quot;, {
+method: &quot;POST&quot;,
+headers: {
+'Content-Type': 'application/x-www-form-urlencoded',
+},
+body: new URLSearchParams({
+action: &quot;handle_feedback&quot;, // The WordPress AJAX action
+feedback: feedbackType,
+post_id: postId
+})
+})
+.then(response =&gt; response.json())
+.then(data =&gt; {
+console.log('Response received:', data);
+console.log('Message in response:', data.message);
+//document.querySelector(&quot;.feedback-message&quot;).textContent = data.message;
+// Hide elements after the AJAX request is successful
+document.querySelector(&quot;.single #feedback-form h3&quot;).style.display = &quot;none&quot;;
+    document.querySelector(&quot;.single #feedback-form .left .icon-container&quot;).style.display = &quot;none&quot;;
+    document.querySelector(&quot;.single #feedback-form span.feedback-flag&quot;).style.display = &quot;none&quot;;
+document.querySelector(&quot;.single #feedback-form .feedback-container&quot;).style.display = &quot;block&quot;;
+document.querySelector(&quot;.single #feedback-form .right i.fas.fa-times&quot;).style.display = &quot;block&quot;;
+document.querySelector(&quot;.feedback-message&quot;).textContent = data.data.message;
+})
+
+.catch(error =&gt; {
+console.error(&quot;Error submitting feedback&quot;, error);
+document.querySelector(&quot;.feedback-message&quot;).textContent = &quot;Oops! An error occurred while submitting your feedback.&quot;;
+});
+});
+});
+});
+&lt;/script&gt;
+&lt;div id=&quot;feedback-form&quot;&gt;
+&lt;div class=&quot;left&quot;&gt;
+&lt;h3&gt;Was this page helpful?&lt;/h3&gt;
+&lt;div class=&quot;icon-container&quot;&gt;
+&lt;span class=&quot;feedback-icon positive&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;feedback-icon negative&quot;&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;feedback-container&quot;&gt;
+&lt;span class=&quot;feedback-icon message&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;feedback-message&quot;&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;right&quot;&gt;&lt;span class=&quot;feedback-flag&quot;&gt;&lt;/span&gt;&lt;i class=&quot;fas fa-times&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;why-trust&quot;&gt;&lt;span&gt;Our commitment to delivering trustworthy and engaging content is at the heart of what we do. Each fact on our site is contributed by real users like you, bringing a wealth of diverse insights and information. To ensure the highest &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2feditorial-policy%2f&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;standards&lt;/a&gt; of accuracy and reliability, our dedicated &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2fmeet-the-team%2f&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;editors&lt;/a&gt; meticulously review each submission. This process guarantees that the facts we share are not only fascinating but also credible. Trust in our commitment to quality and authenticity as you explore and learn with us.&lt;/span&gt; &lt;/p&gt;
+            &lt;div class=&quot;share-action&quot;&gt;
+                &lt;p&gt;Share this Fact: &lt;/p&gt;
+                &lt;div class=&quot;media_icon&quot;&gt;
+                    &lt;a class=&quot;facebook&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fsharer%3fu%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;twitter&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftwitter.com%2fshare%3furl%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;pinterest&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fpinterest.com%2fpin%2fcreate%2fbutton%2f%3furl%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-pin-do=&quot;none&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;whatsapp&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fapi.whatsapp.com%2fsend%3ftext%3d15%2bFacts%2bAbout%2bEminem%250A%250Ahttps%253A%252F%252Ffacts.net%252Fhistory%252Fpeople%252F15-facts-about-eminem%252F&quot; data-action=&quot;share/whatsapp/share&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; fill=&quot;#FFF&quot; d=&quot;M16.21 4.41C9.973 4.41 4.917 9.465 4.917 15.7c0 2.134.592 4.13 1.62 5.832L4.5 27.59l6.25-2.002a11.241 11.241 0 0 0 5.46 1.404c6.234 0 11.29-5.055 11.29-11.29 0-6.237-5.056-11.292-11.29-11.292zm0 20.69c-1.91 0-3.69-.57-5.173-1.553l-3.61 1.156 1.173-3.49a9.345 9.345 0 0 1-1.79-5.512c0-5.18 4.217-9.4 9.4-9.4 5.183 0 9.397 4.22 9.397 9.4 0 5.188-4.214 9.4-9.398 9.4zm5.293-6.832c-.284-.155-1.673-.906-1.934-1.012-.265-.106-.455-.16-.658.12s-.78.91-.954 1.096c-.176.186-.345.203-.628.048-.282-.154-1.2-.494-2.264-1.517-.83-.795-1.373-1.76-1.53-2.055-.158-.295 0-.445.15-.584.134-.124.3-.326.45-.488.15-.163.203-.28.306-.47.104-.19.06-.36-.005-.506-.066-.147-.59-1.587-.81-2.173-.218-.586-.46-.498-.63-.505-.168-.007-.358-.038-.55-.045-.19-.007-.51.054-.78.332-.277.274-1.05.943-1.1 2.362-.055 1.418.926 2.826 1.064 3.023.137.2 1.874 3.272 4.76 4.537 2.888 1.264 2.9.878 3.43.85.53-.027 1.734-.633 2-1.297.266-.664.287-1.24.22-1.363-.07-.123-.26-.203-.54-.357z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;a class=&quot;mail&quot; rel=&quot;nofollow&quot;  href=&quot;mailto:?subject=15 Facts About Eminem&amp;amp;body=https://facts.net/history/people/15-facts-about-eminem/&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M26 21.25v-9s-9.1 6.35-9.984 6.68C15.144 18.616 6 12.25 6 12.25v9c0 1.25.266 1.5 1.5 1.5h17c1.266 0 1.5-.22 1.5-1.5zm-.015-10.765c0-.91-.265-1.235-1.485-1.235h-17c-1.255 0-1.5.39-1.5 1.3l.015.14s9.035 6.22 10 6.56c1.02-.395 9.985-6.7 9.985-6.7l-.015-.065z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+            
+            &lt;!-- &lt;div class=&quot;view-comment&quot; id=&quot;view_comment&quot;&gt;View Comment&lt;/div&gt; --&gt;
+
+            
+                        &lt;!-- &lt;div class=&quot;next-prev&quot;&gt;
+                &lt;span class=&quot;prev&quot;&gt;
+                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=1&amp;amp;href=http://Eminem/EminemFacts/&amp;lt;?php/ echo $previous_post_url; ?&quot; data-wpel-link=&quot;internal&quot;&gt;&quot;&gt;Previous&lt;/a&gt;
+                &lt;/span&gt;
+                &lt;span class=&quot;line&quot;&gt;&lt;/span&gt;
+                &lt;span class=&quot;next&quot;&gt;
+                    &lt;a href=&quot;_httpextlink_&amp;amp;rl=1&amp;amp;href=http://Eminem/EminemFacts/&amp;lt;?php/ echo $next_post_url; ?&quot; data-wpel-link=&quot;internal&quot;&gt;&quot;&gt;Next&lt;/a&gt;
+                &lt;/span&gt;
+            &lt;/div&gt; --&gt;
+        &lt;/div&gt;&lt;!-- .entry-content --&gt;
+        &lt;aside class=&quot;content-sidebar col-md-3&quot;&gt;
+            &lt;div class=&quot;sidebar-block trending&quot;&gt;
+                    &lt;!--&lt;script async src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fpagead2.googlesyndication.com%2fpagead%2fjs%2fadsbygoogle.js%3fclient%3dca-pub-5734292711266667&quot;
+            crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+            &lt;!-- Facts Display Ads 1
+            &lt;ins class=&quot;adsbygoogle&quot;
+            style=&quot;display:block&quot;
+            data-ad-client=&quot;ca-pub-5734292711266667&quot;
+            data-ad-slot=&quot;9594747432&quot;
+            data-ad-format=&quot;auto&quot;
+            data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;
+            &lt;script&gt;
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            &lt;/script&gt;--&gt;
+    &lt;?//php endif; ?&gt;
+        &lt;div class=&quot;sidebar-title trending&quot;&gt;&lt;span class=&quot;left-line&quot;&gt;&lt;/span&gt;
+            &lt;div&gt;Featured Facts&lt;/div&gt;&lt;span class=&quot;right-line&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;most-commented trending&quot;&gt;
+
+            
+                    &lt;div class=&quot;trending-facts-container&quot;&gt;
+                        &lt;div class=&quot;featured-image lozad&quot; data-background-image=&quot;https://facts.net/wp-content/uploads/2023/09/15-mind-blowing-facts-about-dr-carl-june-1696004758.jpg&quot; &gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f15-mind-blowing-facts-about-dr-carl-june&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+                        &lt;div class=&quot;title-cat&quot;&gt;
+                            &lt;!-- &lt;div class=&quot;cat-date&quot;&gt; --&gt;
+                                &lt;div class=&quot;category-name&quot;&gt;People&lt;/div&gt;                                 &lt;!--&lt;p class=&quot;date&quot;&gt;30 Sep 2023&lt;/p&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                            &lt;!-- &lt;div class=&quot;post-title&quot;&gt; --&gt;
+                                &lt;div&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f15-mind-blowing-facts-about-dr-carl-june&quot; title=&quot;15 Mindblowing Facts About Dr Carl June &quot; data-wpel-link=&quot;internal&quot;&gt;15 Mindblowing Facts About Dr Carl June &lt;/a&gt; &lt;/div&gt;
+                                &lt;!-- &lt;span class=&quot;wpb-comment-count&quot;&gt;&lt;/span&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+            
+                    &lt;div class=&quot;trending-facts-container&quot;&gt;
+                        &lt;div class=&quot;featured-image lozad&quot; data-background-image=&quot;https://facts.net/wp-content/uploads/2023/07/15-facts-about-bob-cummings-1688959811.jpg&quot; &gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-bob-cummings&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+                        &lt;div class=&quot;title-cat&quot;&gt;
+                            &lt;!-- &lt;div class=&quot;cat-date&quot;&gt; --&gt;
+                                &lt;div class=&quot;category-name&quot;&gt;People&lt;/div&gt;                                 &lt;!--&lt;p class=&quot;date&quot;&gt;13 Jul 2023&lt;/p&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                            &lt;!-- &lt;div class=&quot;post-title&quot;&gt; --&gt;
+                                &lt;div&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-bob-cummings&quot; title=&quot;15 Facts About Bob Cummings &quot; data-wpel-link=&quot;internal&quot;&gt;15 Facts About Bob Cummings &lt;/a&gt; &lt;/div&gt;
+                                &lt;!-- &lt;span class=&quot;wpb-comment-count&quot;&gt;&lt;/span&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+            
+                    &lt;div class=&quot;trending-facts-container&quot;&gt;
+                        &lt;div class=&quot;featured-image lozad&quot; data-background-image=&quot;https://facts.net/wp-content/uploads/2023/09/8-astounding-facts-about-moulay-ismail-1694331709.jpg&quot; &gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f8-astounding-facts-about-moulay-ismail&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+                        &lt;div class=&quot;title-cat&quot;&gt;
+                            &lt;!-- &lt;div class=&quot;cat-date&quot;&gt; --&gt;
+                                &lt;div class=&quot;category-name&quot;&gt;People&lt;/div&gt;                                 &lt;!--&lt;p class=&quot;date&quot;&gt;11 Sep 2023&lt;/p&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                            &lt;!-- &lt;div class=&quot;post-title&quot;&gt; --&gt;
+                                &lt;div&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f8-astounding-facts-about-moulay-ismail&quot; title=&quot;8 Astounding Facts About Moulay Ismail &quot; data-wpel-link=&quot;internal&quot;&gt;8 Astounding Facts About Moulay Ismail &lt;/a&gt; &lt;/div&gt;
+                                &lt;!-- &lt;span class=&quot;wpb-comment-count&quot;&gt;&lt;/span&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+            
+                    &lt;div class=&quot;trending-facts-container&quot;&gt;
+                        &lt;div class=&quot;featured-image lozad&quot; data-background-image=&quot;https://facts.net/wp-content/uploads/2024/05/16-great-johnny-appleseed-facts-1715228815.jpg&quot; &gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f16-great-johnny-appleseed-facts&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+                        &lt;div class=&quot;title-cat&quot;&gt;
+                            &lt;!-- &lt;div class=&quot;cat-date&quot;&gt; --&gt;
+                                &lt;div class=&quot;category-name&quot;&gt;People&lt;/div&gt;                                 &lt;!--&lt;p class=&quot;date&quot;&gt;11 May 2024&lt;/p&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                            &lt;!-- &lt;div class=&quot;post-title&quot;&gt; --&gt;
+                                &lt;div&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f16-great-johnny-appleseed-facts&quot; title=&quot;16 Great Johnny Appleseed Facts &quot; data-wpel-link=&quot;internal&quot;&gt;16 Great Johnny Appleseed Facts &lt;/a&gt; &lt;/div&gt;
+                                &lt;!-- &lt;span class=&quot;wpb-comment-count&quot;&gt;&lt;/span&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+            
+                    &lt;div class=&quot;trending-facts-container&quot;&gt;
+                        &lt;div class=&quot;featured-image lozad&quot; data-background-image=&quot;https://facts.net/wp-content/uploads/2023/06/Joey-Votto-baseball-player-300x193.jpeg&quot; &gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fjoey-votto-facts&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+                        &lt;div class=&quot;title-cat&quot;&gt;
+                            &lt;!-- &lt;div class=&quot;cat-date&quot;&gt; --&gt;
+                                &lt;div class=&quot;category-name&quot;&gt;People&lt;/div&gt;                                 &lt;!--&lt;p class=&quot;date&quot;&gt;27 Jun 2023&lt;/p&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                            &lt;!-- &lt;div class=&quot;post-title&quot;&gt; --&gt;
+                                &lt;div&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fjoey-votto-facts&quot; title=&quot;Joey Votto Facts 15 Intriguing Insights into the Accomplished Baseball Player &quot; data-wpel-link=&quot;internal&quot;&gt;Joey Votto Facts 15 Intriguing Insights into the Accomplished Baseball Player &lt;/a&gt; &lt;/div&gt;
+                                &lt;!-- &lt;span class=&quot;wpb-comment-count&quot;&gt;&lt;/span&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+            
+                    &lt;div class=&quot;trending-facts-container&quot;&gt;
+                        &lt;div class=&quot;featured-image lozad&quot; data-background-image=&quot;https://facts.net/wp-content/uploads/2023/07/13-facts-about-andrade-el-idolo-1689414535.jpg&quot; &gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f13-facts-about-andrade-el-idolo&quot; data-wpel-link=&quot;internal&quot;&gt;&lt;/a&gt;&lt;/div&gt;
+
+                        &lt;div class=&quot;title-cat&quot;&gt;
+                            &lt;!-- &lt;div class=&quot;cat-date&quot;&gt; --&gt;
+                                &lt;div class=&quot;category-name&quot;&gt;People&lt;/div&gt;                                 &lt;!--&lt;p class=&quot;date&quot;&gt;26 Jul 2023&lt;/p&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                            &lt;!-- &lt;div class=&quot;post-title&quot;&gt; --&gt;
+                                &lt;div&gt; &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f13-facts-about-andrade-el-idolo&quot; title=&quot;13 Facts About Andrade El Idolo &quot; data-wpel-link=&quot;internal&quot;&gt;13 Facts About Andrade El Idolo &lt;/a&gt; &lt;/div&gt;
+                                &lt;!-- &lt;span class=&quot;wpb-comment-count&quot;&gt;&lt;/span&gt; --&gt;
+                            &lt;!-- &lt;/div&gt; --&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                                &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fnews.google.com%2fpublications%2fCAAqBwgKMMjIlwsw6vGuAw&quot; data-wpel-link=&quot;external&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;&lt;img width=&quot;250&quot; height=&quot;111&quot;  style=&quot;margin-bottom: 20px;width:100%;height:auto;&quot; data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2022/05/Google-News-Button-01.png&quot; class=&quot;lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22250%22 height=%22111%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+    
+    &lt;!--sticky sidebar ads--&gt;
+&lt;script&gt;
+            if (screen &amp; &amp; screen.width &gt; 1200) {
+            document.write('&lt;script defer  src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fthemes%2fnewsanchor%2fjs%2fstickySidebar.js&quot;&gt;&lt;\\/script&gt;');
+            }
+        &lt;/script&gt;
+        &lt;script&gt;
+                if (window.matchMedia(&quot;(min-width: 1200px)&quot;).matches)
+                {
+                    document.addEventListener('DOMContentLoaded', function () {
+                    $('#sidebar-ads').stickySidebar({
+                            sidebarTopMargin: 110,
+                            footerThreshold: 100
+                        });
+
+                }, false);
+                }
+        &lt;/script&gt;
+        &lt;style&gt;
+            #sidebar-ads{width:300px;}
+            #sidebar-ads.sticky {
+            float: none;
+            position: fixed;
+            top: 20px;
+            z-index: 6;
+            left: auto;
+            max-width:300px;
+            }
+            #sidebar-ads .responsive-ad-wrapper{
+            width:100%;
+            }
+        &lt;/style&gt;
+&lt;!-- &lt;div id=&quot;sidebar-ads&quot;&gt; --&gt;
+&lt;!-- &lt;/div&gt; --&gt;
+        &lt;/aside&gt;
+    &lt;/div&gt;
+&lt;/article&gt;&lt;!-- #post-## --&gt;
+&lt;aside class=&quot;below-content&quot;&gt;
+&lt;style&gt;
+    .below-content {
+        max-width: calc(100% - 200px);
+        margin: 0 auto;
+        float: none;
+        padding-top: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+@media screen and (max-width: 740px){
+        .below-content {
+            max-width: 100%;
+        }
+    }
+    .below-content .post-title a {
+        font-size: 1.6rem;
+        font-family: Heebo, sans-serif;
+        line-height: 2rem;
+        line-height: 1.3;
+        font-weight: 600;
+        color: #1b1b1b;
+    }
+&lt;/style&gt;
+
+&lt;div class=&quot;section popular-facts-secction&quot;&gt;
+    &lt;div class=&quot;section-title&quot;&gt;
+        &lt;div&gt;Related Facts&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;facts-wrapper&quot;&gt;
+        &lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f20-facts-about-the-marshall-mathers-lp&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;410&quot; height=&quot;231&quot;   alt=&quot;20 Facts About The Marshall Mathers LP &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/lifestyle/entertainment/20-facts-about-the-marshall-mathers-lp/&quot; data-jpibfi-post-title=&quot;20 Facts About The Marshall Mathers LP&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/06/20-facts-about-the-marshall-mathers-lp-1718796880.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22410%22 height=%22231%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Entertainment&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    20 Jun 2024                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f20-facts-about-the-marshall-mathers-lp&quot; data-wpel-link=&quot;internal&quot;&gt;20 Facts About The Marshall Mathers LP &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f20-facts-about-eminem-show&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;410&quot; height=&quot;231&quot;   alt=&quot;20 Facts About Eminem Show &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/lifestyle/entertainment/20-facts-about-eminem-show/&quot; data-jpibfi-post-title=&quot;20 Facts About Eminem Show&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/06/20-facts-about-eminem-show-1718805374.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22410%22 height=%22231%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Entertainment&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    20 Jun 2024                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f20-facts-about-eminem-show&quot; data-wpel-link=&quot;internal&quot;&gt;20 Facts About Eminem Show &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f9-extraordinary-facts-about-kim-mathers&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;390&quot; height=&quot;260&quot;   alt=&quot;9 Extraordinary Facts About Kim Mathers &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/9-extraordinary-facts-about-kim-mathers/&quot; data-jpibfi-post-title=&quot;9 Extraordinary Facts About Kim Mathers&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/10/9-extraordinary-facts-about-kim-mathers-1696480596.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22390%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    07 Oct 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f9-extraordinary-facts-about-kim-mathers&quot; data-wpel-link=&quot;internal&quot;&gt;9 Extraordinary Facts About Kim Mathers &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-astonishing-facts-about-paul-rosenberg&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;391&quot; height=&quot;260&quot;   alt=&quot;18 Astonishing Facts About Paul Rosenberg &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/18-astonishing-facts-about-paul-rosenberg/&quot; data-jpibfi-post-title=&quot;18 Astonishing Facts About Paul Rosenberg&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/10/18-astonishing-facts-about-paul-rosenberg-1697431708.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22391%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    16 Oct 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-astonishing-facts-about-paul-rosenberg&quot; data-wpel-link=&quot;internal&quot;&gt;18 Astonishing Facts About Paul Rosenberg &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f20-facts-about-the-slim-shady-lp&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;410&quot; height=&quot;231&quot;   alt=&quot;20 Facts About The Slim Shady LP &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/lifestyle/entertainment/20-facts-about-the-slim-shady-lp/&quot; data-jpibfi-post-title=&quot;20 Facts About The Slim Shady LP&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/06/20-facts-about-the-slim-shady-lp-1718801757.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22410%22 height=%22231%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Entertainment&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    20 Jun 2024                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f20-facts-about-the-slim-shady-lp&quot; data-wpel-link=&quot;internal&quot;&gt;20 Facts About The Slim Shady LP &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie%2f36-facts-about-the-movie-8-mile&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;410&quot; height=&quot;252&quot;   alt=&quot;36 Facts about the movie 8 Mile &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/movie/36-facts-about-the-movie-8-mile/&quot; data-jpibfi-post-title=&quot;36 Facts About The Movie 8 Mile&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/11/36-facts-about-the-movie-8-mile-1698825184.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22410%22 height=%22252%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Movie&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    21 Dec 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmovie%2f36-facts-about-the-movie-8-mile&quot; data-wpel-link=&quot;internal&quot;&gt;36 Facts about the movie 8 Mile &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f19-captivating-facts-about-hailie-mathers&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;348&quot; height=&quot;260&quot;   alt=&quot;19 Captivating Facts About Hailie Mathers &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/19-captivating-facts-about-hailie-mathers/&quot; data-jpibfi-post-title=&quot;19 Captivating Facts About Hailie Mathers&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/10/19-captivating-facts-about-hailie-mathers-1696538382.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22348%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    07 Oct 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f19-captivating-facts-about-hailie-mathers&quot; data-wpel-link=&quot;internal&quot;&gt;19 Captivating Facts About Hailie Mathers &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-captivating-facts-about-obie-trice&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;390&quot; height=&quot;260&quot;   alt=&quot;18 Captivating Facts About Obie Trice &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/18-captivating-facts-about-obie-trice/&quot; data-jpibfi-post-title=&quot;18 Captivating Facts About Obie Trice&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/10/18-captivating-facts-about-obie-trice-1697191049.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22390%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    13 Oct 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-captivating-facts-about-obie-trice&quot; data-wpel-link=&quot;internal&quot;&gt;18 Captivating Facts About Obie Trice &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f43-facts-about-hailie-jade&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;390&quot; height=&quot;260&quot;   alt=&quot;43 Facts about Hailie Jade &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/43-facts-about-hailie-jade/&quot; data-jpibfi-post-title=&quot;43 Facts About Hailie Jade&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/07/43-facts-about-hailie-jade-1688352268.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22390%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    03 Jul 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f43-facts-about-hailie-jade&quot; data-wpel-link=&quot;internal&quot;&gt;43 Facts about Hailie Jade &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f19-astonishing-facts-about-just-blaze&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;390&quot; height=&quot;260&quot;   alt=&quot;19 Astonishing Facts About Just Blaze &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/19-astonishing-facts-about-just-blaze/&quot; data-jpibfi-post-title=&quot;19 Astonishing Facts About Just Blaze&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/10/19-astonishing-facts-about-just-blaze-1697121559.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22390%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    12 Oct 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f19-astonishing-facts-about-just-blaze&quot; data-wpel-link=&quot;internal&quot;&gt;19 Astonishing Facts About Just Blaze &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-unbelievable-facts-about-dido&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;387&quot; height=&quot;260&quot;   alt=&quot;18 Unbelievable Facts About Dido &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/celebrity/18-unbelievable-facts-about-dido/&quot; data-jpibfi-post-title=&quot;18 Unbelievable Facts About Dido&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2023/10/18-unbelievable-facts-about-dido-1697155155.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22387%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Celebrity&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    13 Oct 2023                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcelebrity%2f18-unbelievable-facts-about-dido&quot; data-wpel-link=&quot;internal&quot;&gt;18 Unbelievable Facts About Dido &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;article vertical-style&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;thumbnail&quot;&gt;
+&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f18-facts-about-2000s-music&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;input class=&quot;jpibfi&quot; type=&quot;hidden&quot;&gt;&lt;img width=&quot;347&quot; height=&quot;260&quot;   alt=&quot;18 Facts About 2000s Music &quot; loading=&quot;lazy&quot; data-jpibfi-post-excerpt=&quot;&quot; data-jpibfi-post-url=&quot;https://facts.net/lifestyle/entertainment/18-facts-about-2000s-music/&quot; data-jpibfi-post-title=&quot;18 Facts About 2000s Music&quot; data-jpibfi- data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=https://facts.net/wp-content/uploads/2024/05/18-facts-about-2000s-music-1715694652.jpg&quot; class=&quot;attachment-newsanchor-carousel-thumb size-newsanchor-carousel-thumb wp-post-image lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22347%22 height=%22260%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;data&quot;&gt;
+&lt;div class=&quot;article-meta&quot;&gt;
+&lt;div class=&quot;category-name&quot;&gt;Entertainment&lt;/div&gt;&lt;div class=&quot;published&quot;&gt;
+                    22 May 2024                    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- &lt;div class=&quot;article-title&quot;&gt; --&gt;
+&lt;div&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2flifestyle%2fentertainment%2f18-facts-about-2000s-music&quot; data-wpel-link=&quot;internal&quot;&gt;18 Facts About 2000s Music &lt;/a&gt;
+&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/aside&gt;
+&lt;script&gt;
+window.addEventListener('load', function() {
+          console.log(&quot;READY ON LOAD&quot;);
+        jQuery('#expendable-more').bind('click', function (event) {
+            console.log('EXPANDABLE - EX');
+            jQuery(this).addClass('hide');
+            jQuery('#expendable-less').removeClass('hide');
+            jQuery('.related-tag li.tag.show-less').removeClass('hide');
+        });
+        jQuery('#expendable-less').bind('click', function (event) {
+            console.log('EXPANDABLE - CL');
+            jQuery(this).addClass('hide');
+            jQuery('#expendable-more').removeClass('hide');
+            jQuery('.related-tag li.tag.show-less').addClass('hide');
+        });
+        } );
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;/main&gt;&lt;!-- .page-content --&gt;
+
+&lt;footer id=&quot;colophon&quot; class=&quot;site-info&quot; role=&quot;contentinfo&quot;&gt;
+    &lt;div class=&quot;go-top&quot;&gt;&lt;/div&gt;
+
+    &lt;div class=&quot;logo-menu-container container&quot;&gt;
+        &lt;div class=&quot;logo-menu&quot;&gt;
+            &lt;div class=&quot;footer-container&quot;&gt;
+                &lt;div class=&quot;company-info&quot;&gt;&lt;span&gt;© 2023&lt;/span&gt;&lt;img   alt=&quot;facts.net&quot;  width=&quot;140&quot; height=&quot;20&quot; data-src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;el=direct&amp;amp;href=http://facts.net/wp-content/uploads/2019/09/Facts.net_.png&quot; class=&quot;site-logo lozad&quot; src=&quot;data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22140%22 height=%2220%22 viewBox=%220 0 1 1%22 /%3E&quot;&gt;&lt;/div&gt;
+                
+            &lt;/div&gt;&lt;!-- /.container --&gt;
+
+            
+        &lt;/div&gt;
+&lt;div class=&quot;bottomMenu&quot;&gt;
+                &lt;div class=&quot;menu-footer-container&quot;&gt;&lt;ul id=&quot;menu-footer&quot; class=&quot;menu&quot;&gt;&lt;li id=&quot;menu-item-4554&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-4554&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fabout-us&quot; data-wpel-link=&quot;internal&quot;&gt;About Us&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-361125&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-361125&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2feditorial-policy&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;Editorial Policy&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-361124&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-361124&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmeet-the-team&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;Meet the Team&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-361123&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-361123&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fproduct-review&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;Product Review&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-4489&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-4489&quot;&gt;&lt;a rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fcontact-us&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-57999&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-57999&quot;&gt;&lt;a rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwrite-for-us&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;Write For Us&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-15573&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-15573&quot;&gt;&lt;a rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2faffiliate-disclosure&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;Affiliate Disclosure&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-50366&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-50366&quot;&gt;&lt;a rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fdmca&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;DMCA&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-4487&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-4487&quot;&gt;&lt;a rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fterms&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;Terms&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-4490&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-4490&quot;&gt;&lt;a rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fprivacy-policy&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-490525&quot; class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-490525&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2ffact-submission-page&quot; data-wpel-link=&quot;internal&quot;&gt;Submit Facts&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;menu-item-47861&quot; class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-47861&quot;&gt;&lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fmore-category&quot; data-wpel-link=&quot;internal&quot;&gt;More Facts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;            &lt;/div&gt;
+        &lt;div class=&quot;social-media&quot;&gt;
+            &lt;div class=&quot;media_icon&quot;&gt;
+                &lt;span&gt;Follow us&lt;/span&gt;
+                &lt;!-- &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=&quot; class=&quot;facebook&quot; data-wpel-link=&quot;internal&quot;&gt;
+                    &lt;i class=&quot;fab fa-facebook-f&quot;&gt;&lt;/i&gt;
+                &lt;/a&gt;
+                &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=&quot; class=&quot;twitter&quot; data-wpel-link=&quot;internal&quot;&gt;
+                    &lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;
+                &lt;/a&gt; --&gt;
+                &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.youtube.com%2fchannel%2fUCkEWgtngMrn9AcsRTmDgPIQ&quot; class=&quot;youtube&quot; target=&quot;_blank&quot; width=&quot;32&quot; height=&quot;32&quot; data-wpel-link=&quot;external&quot; rel=&quot;nofollow external noopener noreferrer&quot;&gt;
+                    &lt;i class=&quot;fab fa-youtube&quot;&gt;&lt;/i&gt;
+                    &lt;span class=&quot;youtube-span&quot;&gt;Subscribe to our channel&lt;/span&gt;
+                &lt;/a&gt;
+                &lt;!-- &lt;a href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=&quot; class=&quot;instagram&quot; data-wpel-link=&quot;internal&quot;&gt;
+                    &lt;i class=&quot;fab fa-instagram&quot;&gt;&lt;/i&gt;
+                &lt;/a&gt; --&gt;
+                &lt;!-- &lt;div class=&quot;ads-footer&quot;&gt;&lt;/div&gt; --&gt;
+
+                                    &lt;ul class=&quot;media_icon_mobile&quot;&gt;
+                        &lt;li&gt;
+&lt;a class=&quot;facebook&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fwww.facebook.com%2fsharer%3fu%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;twitter&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ftwitter.com%2fshare%3furl%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;pinterest&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=http:%2f%2fpinterest.com%2fpin%2fcreate%2fbutton%2f%3furl%3dhttps:%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; target=&quot;_blank&quot; data-pin-do=&quot;none&quot; data-wpel-link=&quot;external&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M16.539 4.5c-6.277 0-9.442 4.5-9.442 8.253 0 2.272.86 4.293 2.705 5.046.303.125.574.005.662-.33.061-.231.205-.816.27-1.06.088-.331.053-.447-.191-.736-.532-.627-.873-1.439-.873-2.591 0-3.338 2.498-6.327 6.505-6.327 3.548 0 5.497 2.168 5.497 5.062 0 3.81-1.686 7.025-4.188 7.025-1.382 0-2.416-1.142-2.085-2.545.397-1.674 1.166-3.48 1.166-4.689 0-1.081-.581-1.983-1.782-1.983-1.413 0-2.548 1.462-2.548 3.419 0 1.247.421 2.091.421 2.091l-1.699 7.199c-.505 2.137-.076 4.755-.039 5.019.021.158.223.196.314.077.13-.17 1.813-2.247 2.384-4.324.162-.587.929-3.631.929-3.631.46.876 1.801 1.646 3.227 1.646 4.247 0 7.128-3.871 7.128-9.053.003-3.918-3.317-7.568-8.361-7.568z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;whatsapp&quot; rel=&quot;nofollow external noopener noreferrer&quot; href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2fapi.whatsapp.com%2fsend%3ftext%3d15%2bFacts%2bAbout%2bEminem%250A%250Ahttps%253A%252F%252Ffacts.net%252Fhistory%252Fpeople%252F15-facts-about-eminem%252F&quot; data-action=&quot;share/whatsapp/share&quot; data-wpel-link=&quot;external&quot; target=&quot;_blank&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill-rule=&quot;evenodd&quot; clip-rule=&quot;evenodd&quot; fill=&quot;#FFF&quot; d=&quot;M16.21 4.41C9.973 4.41 4.917 9.465 4.917 15.7c0 2.134.592 4.13 1.62 5.832L4.5 27.59l6.25-2.002a11.241 11.241 0 0 0 5.46 1.404c6.234 0 11.29-5.055 11.29-11.29 0-6.237-5.056-11.292-11.29-11.292zm0 20.69c-1.91 0-3.69-.57-5.173-1.553l-3.61 1.156 1.173-3.49a9.345 9.345 0 0 1-1.79-5.512c0-5.18 4.217-9.4 9.4-9.4 5.183 0 9.397 4.22 9.397 9.4 0 5.188-4.214 9.4-9.398 9.4zm5.293-6.832c-.284-.155-1.673-.906-1.934-1.012-.265-.106-.455-.16-.658.12s-.78.91-.954 1.096c-.176.186-.345.203-.628.048-.282-.154-1.2-.494-2.264-1.517-.83-.795-1.373-1.76-1.53-2.055-.158-.295 0-.445.15-.584.134-.124.3-.326.45-.488.15-.163.203-.28.306-.47.104-.19.06-.36-.005-.506-.066-.147-.59-1.587-.81-2.173-.218-.586-.46-.498-.63-.505-.168-.007-.358-.038-.55-.045-.19-.007-.51.054-.78.332-.277.274-1.05.943-1.1 2.362-.055 1.418.926 2.826 1.064 3.023.137.2 1.874 3.272 4.76 4.537 2.888 1.264 2.9.878 3.43.85.53-.027 1.734-.633 2-1.297.266-.664.287-1.24.22-1.363-.07-.123-.26-.203-.54-.357z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;copy-url&quot; rel=&quot;nofollow&quot; data-href=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fhistory%2fpeople%2f15-facts-about-eminem&quot; data-wpel-link=&quot;internal&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 16 28&quot;&gt;
+&lt;path d=&quot;M4.85 11.15l6.3-6.3&quot; overflow=&quot;visible&quot; fill=&quot;none&quot; stroke=&quot;#FFF&quot; stroke-width=&quot;1.463&quot; /&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M12.152 0a1.984 1.984 0 0 0-.33.04c-.867.173-1.42.78-1.898 1.26L8.487 2.738c-.48.48-1.087 1.03-1.26 1.898-.075.37-.044.76.096 1.167l1.77-1.77c.102-.113.215-.23.337-.352l1.437-1.435c.48-.48.886-.83 1.217-.896a.877.877 0 0 1 .277-.01c.313.034.738.245 1.398.905.88.88.96 1.342.895 1.673-.066.33-.417.736-.896 1.216L12.32 6.57c-.124.123-.242.237-.356.34l-1.767 1.77c.407.14.797.17 1.168.096.867-.173 1.42-.78 1.898-1.26l1.437-1.44c.48-.48 1.087-1.03 1.26-1.898.174-.867-.223-1.84-1.26-2.878C13.923.522 13.18.105 12.492.017a2.125 2.125 0 0 0-.34-.016zM4.965 7.19a1.984 1.984 0 0 0-.33.038c-.867.174-1.42.782-1.898 1.26L1.3 9.925c-.48.48-1.087 1.03-1.26 1.898-.174.868.223 1.842 1.26 2.88 1.037 1.035 2.01 1.432 2.878 1.26.867-.175 1.42-.783 1.898-1.262l1.437-1.436c.48-.48 1.087-1.03 1.26-1.898.075-.37.044-.76-.096-1.168l-1.765 1.765c-.104.114-.218.233-.342.357l-1.437 1.437c-.48.48-.886.83-1.217.895-.33.066-.793-.016-1.673-.895-.88-.88-.96-1.343-.895-1.673.066-.33.417-.737.896-1.216L3.68 9.43c.124-.122.24-.236.355-.34l1.767-1.767a2.498 2.498 0 0 0-.497-.12 2.125 2.125 0 0 0-.34-.015z&quot; /&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;mail&quot; rel=&quot;nofollow&quot; href=&quot;mailto:?subject=15 Facts About Eminem&amp;amp;body=https://facts.net/history/people/15-facts-about-eminem/&quot;&gt;
+&lt;svg focusable=&quot;false&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 32 32&quot;&gt;
+&lt;path fill=&quot;#FFF&quot; d=&quot;M26 21.25v-9s-9.1 6.35-9.984 6.68C15.144 18.616 6 12.25 6 12.25v9c0 1.25.266 1.5 1.5 1.5h17c1.266 0 1.5-.22 1.5-1.5zm-.015-10.765c0-.91-.265-1.235-1.485-1.235h-17c-1.255 0-1.5.39-1.5 1.3l.015.14s9.035 6.22 10 6.56c1.02-.395 9.985-6.7 9.985-6.7l-.015-.065z&quot;&gt;
+&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+                    &lt;/ul&gt;
+                            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/footer&gt;
+&lt;script async data-id=&quot;101450722&quot; src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=%2f%2fstatic.getclicky.com%2fjs&quot;&gt;&lt;/script&gt;
+
+&lt;!-- #colophon --&gt;
+&lt;script&gt;
+for (var links = document.links, i = 0, a; a = links[i]; i++) {
+        if (a.host !== location.host) {
+                a.target = '_blank';
+        }
+}
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+document.querySelector(&quot;a.copy-url&quot;).addEventListener(&quot;click&quot;, function(event){
+  event.preventDefault();
+  var href=document.querySelector(&quot;a.copy-url&quot;).dataset.href;
+ navigator.clipboard.writeText(href);
+});
+&lt;/script&gt;
+            
+                
+&lt;style&gt;
+    #sticky-footer-ads, #sticky-footer-ads-front {
+    position: fixed;
+    z-index: 5999998;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    color: #000;
+    display: none;
+    width: 100%;
+    left: 0;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    top: auto;
+    transition: bottom 0.5s linear;
+    border-bottom: 0;
+    padding: 10px 0;
+    height: 110px;
+    background-color: rgba(255, 255, 255)!important;
+    min-width: 728px;
+    text-align: center;
+}
+#sticky-footer-ads, #sticky-footer-ads-front {
+    min-width: 728px;
+    text-align: center;
+}
+@media screen and (min-width: 1025px){
+#sticky-footer-ads  .sticky-footer-ads-container, #sticky-footer-ads-front  .sticky-footer-ads-container {
+    width: 728px;
+}
+}
+@media screen and (max-width: 768px){
+    #sticky-ad-frame{
+width: 95%;
+    margin: 0 auto;
+    height: auto;
+    min-width: auto!important;
+
+}
+#sticky-footer-ads #sticky-footer-ads-close{
+    top: -15px!important;
+    background-color: #ffffff;
+}
+#sticky-footer-ads, #sticky-footer-ads-front{
+    min-width: auto;
+}
+}
+#sticky-footer-ads #sticky-footer-ads-close {
+    font-size: 16px;
+    font-family: arial,helvetica;
+    font-weight: normal;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    color: #747474;
+    display: block;
+    border: 3px solid #e5e5e5;
+    margin: 0;
+    padding: 2px;
+    text-align: center;
+    height: 32px;
+    width: 32px;
+    border-radius: 16px;
+    cursor: pointer;
+    line-height: 24px;
+    box-sizing: border-box;
+    text-decoration: none !important;
+    z-index: 5999999;
+}
+#hide{
+    font-size: 16px;
+    font-family: arial,helvetica;
+    font-weight: normal;
+    position: fixed;
+    bottom: 73px;
+    right: 8px;
+    color: #747474;
+    display: block;
+    border: 3px solid #e5e5e5;
+    margin: 0;
+    padding: 2px;
+    text-align: center;
+    height: 32px;
+    width: 32px;
+    border-radius: 16px;
+    cursor: pointer;
+    line-height: 24px;
+    box-sizing: border-box;
+    text-decoration: none !important;
+    z-index: 5999999;
+    background-color: transparent;
+}
+&lt;/style&gt;
+
+&lt;script&gt;
+    function navMenu() {
+    $('#desktop-nav &gt; li:last-child').mouseover(function () {
+        $(this).addClass('active');
+    });
+
+//     $('#desktop-nav &gt; li:last-child ul li').mouseover(function () {
+//         $(this).closest('#desktop-nav &gt; li:last-child').addClass('active');
+// $(this).closest('.desktop-navItem').find('&gt; .secondary-menu').removeClass('hidden-imp');
+//     });
+
+    $('.main-header-full-width #mainnav .desktop-navItem').mouseover(function () {
+        var target = '#' + $(this).children('a').data('child');
+
+        $(this).find('&gt; .secondary-menu').removeClass('hidden-imp');
+
+        // Check if the submenu (target) exists
+        if ($(target).length &gt; 0) {
+            var isSubMenuHidden = $(target).hasClass('hidden-imp');
+
+            if (!isSubMenuHidden) {
+                $(this).addClass('active');
+            } else {
+                $(this).removeClass('active');
+            }
+
+            $('.desktop-navItem &gt; i.fab').removeClass('active');
+            $('.main-header-full-width #mainnav .secondary-menu').addClass('hidden-imp');
+            $(target).removeClass('hidden-imp');
+        }
+    });
+
+    $('.main-header-full-width #mainnav .desktop-navItem, .main-header-full-width #mainnav .secondary-menu').mouseleave(function () {
+        var target = '#' + $(this).closest('.desktop-navItem').children('a').attr('data-child');
+
+        $('.desktop-navItem &gt; i.fab').removeClass('active');
+        $('.main-header-full-width #mainnav .secondary-menu').addClass('hidden-imp');
+        $(this).closest('.desktop-navItem').removeClass('active');
+        $(target).addClass('hidden-imp');
+    });
+}
+
+&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fplugins%2fcn%5flozad%2fassets%2fjs%2flozad.min.js%3fver%3d5.8.1&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fplugins%2fcn%5flozad%2fassets%2fjs%2flozad-custom.js%3fver%3d5.8.1&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type='text/javascript' id='jpibfi-script-js-extra'&gt;
+/* &lt;![CDATA[ */
+var jpibfi_options = {&quot;hover&quot;:{&quot;siteTitle&quot;:&quot;Facts.net&quot;,&quot;image_selector&quot;:&quot;.jpibfi_container img&quot;,&quot;disabled_classes&quot;:&quot;wp-smiley;nopin&quot;,&quot;enabled_classes&quot;:&quot;&quot;,&quot;min_image_height&quot;:0,&quot;min_image_height_small&quot;:0,&quot;min_image_width&quot;:0,&quot;min_image_width_small&quot;:0,&quot;show_on&quot;:&quot;[front],[home],[single],[page],[archive],[search],[category]&quot;,&quot;disable_on&quot;:&quot;,36903,20797,36907,36908,36909,36910,36911,36912,36916,36925,36931,36932,36933,36934,36936,36937,36939,36983,36984,36986,36987,36988,36989,36990,36991,36992,36993,36994,36995,36996,36997,36998,36999,37000,37001,37004,37005,37007,37008,37009,37011,37013,37014,37015,37016,37017,37018,37021,37022,37023,37024,37025,37026,37027,37028,37029,37032,37033,37034,37035,37036,37037,37039,37040,37041,37042,37044,37053,37054,37055,37056,37057,37058,37059,37060,37061,37062,37063,37064,37065,37066,37067,37068,37069,37070,37071,37072,37073,37074,37075,37076,37077,37078,37079,37080,37081,37083,37084,37086,37087,37088,37089,37090,37091,37092,37093,37095,37096,37097,37098,37099,37123,37125,37126,37134,37137,37223,37224,37225,37226,37230,37302,37303,37304,37305,37306,37307,37309,37310,37311,37313,37314,37315,37316,37317,37318,37319,37320,37321,37322,37324,37325,37327,37328,37329,37330,37331,37332,37333,37335,37339,37347,37348,37355,37358,37359,37361,37367,37368,37369,37371,37373,37374,37375,37376,37377,37378,37380,37422,37423,37424,37425,37426,37427,37428,37429,37430,37431,37432,37435,37438,37439,37440,37441,37452,37453,37454,37456,37457,37461,37465,37466,37491,37492,37493,37494,37495,37496,37497,37498,37502,37503,37504,37505,37506,37507,37508,37509,37510,37511,37512,37513,37515,37517,37518,37527,37528,37529,37530,37531,37532,37533,37534,37535,37537,37538,37539,37542,37551,37552,37553,37554,37555,37556,37557,37558,37560,37563,37565,37566,37572,37583,37585,37586,37588,37589,37590,37591,37593,37596,37597,37598,37600,37604,37641,37642,37643,37644,37645,37646,37652,37653,37654,37656,37657,37659,37660,37669,37679,37680,37681,37721,37723,37724,37725,37726,37728,37729,37730,37732,37735,37740,37742,37799,37800,37802,37803,37804,37807,37825,37826,37828,37837,37863,37864,37865,37866,37867,37868,37869,37870,37871,37872,37873,37874,37875,37876,37877,37895,37905,37912,37916,37931,37933,37934,37935,37936,37937,37953,37982,37983,37984,37985,37986,37987,37988,37989,37990,37991,37992,37998,37999,38000,38001,38002,38006,38007,38009,38010,38012,38022,38023,38025,38037,38041,38043,38047,38048,38050,38052,38053,38056,38060,38094,38095,38096,38097,38098,38099,38101,38102,38103,38104,38105,38106,38107,38108,38110,38111,38112,38113,38116,38117,38120,38121,38122,38125,38126,38127,38128,38129,38130,38134,38135,38136,38141,38167,38175,38176,38194,38202,38203,38204,38205,38206,38207,38209,38210,38211,38212,38213,38214,38216,38217,38218,38219,38220,38221,38226,38228,38229,38242,38243,38244,38245,38264,38345,38346,38348,38349,38350,38351,38352,38353,38354,38355,38356,38357,38363,38372,38373,38383,38406,38425,38461,38462,38463,38464,38465,38466,38467,38468,38469,38470,38471,38472,38473,38474,38475,38476,38477,38478,38479,38480,38481,38482,38483,38484,38485,38486,38487,38488,38489,38490,38492,38500,38586,38587,38588,38589,38590,38594,38596,38599,38601,38603,38604,38605,38606,38607,38608,38612,38614,38615,38621,38623,38631,38633,38636,38637,38639,38641,38642,38644,38645,38646,38648,38649,38653,38655,38657,38663,38668,38671,38672,38691,38692,38693,38696,38697,38698,38699,38700,38701,38707,38708,38709,38710,38711,38712,38713,38714,38715,38720,38721,38723,38724,38725,38730,38739,38742,38743,38756,38758,38761,38764,38769,38781,38785,38799,38800,38801,38802,38803,38804,38805,38806,38807,38808,38809,38810,38811,38812,38813,38814,38817,38824,38825,38828,38831,38833,38834,38835,38838,38839,38840,38841,38847,38851,38855,38876,38891,38892,38904,38905,38906,38907,38908,38909,38910,38911,38912,38914,38915,38918,38919,38920,38921,38922,38923,38926,38928,38930,38931,38934,38935,38936,38937,38947,38970,38981,38982,38986,38987,38991,39033,39034,39035,39036,39037,39038,39039,39040,39041,39042,39043,39044,39045,39046,39047,39048,39049,39050,39057,39058,39059,39060,39062,39066,39067,39068,39069,39070,39071,39073,39075,39080,39081,39082,39087,39117,39118,39119,39120,39121,39122,39123,39124,39125,39126,39127,39128,39129,39130,39133,39134,39136,39137,39138,39139,39141,39145,39146,39147,39151,39152,39154,39155,39158,39159,39165,39168,39171,39172,39207,39208,39209,39210,39211,39212,39215,39216,39217,39218,39220,39221,39222,39223,39224,39225,39226,39227,39228,39229,39230,39231,39232,39238,39240,39241,39244,39248,39249,39250,39254,39255,39299,39300,39301,39304,39305,39306,39307,39308,39309,39312,39313,39314,39315,39318,39319,39362,39363,39364,39365,39369,39370,39371,39376,39382,39384,39387,39396,39397,39398,39399,39401,39404,39407,39410,39411,39412,39415,39435,39464,39465,39466,39467,39470,39474,39478,39480,39484,39485,39486,39488,39490,39491,39492,39493,39494,39496,39500,39502,39504,39506,39510,39536,39537,39538,39540,39544,39545,39546,39547,39548,39549,39550,39551,39554,39561,39597,39599,39600,39601,39602,39604,39605,39610,39614,39615,39617,39618,39620,39624,39625,39626,39627,39628,39629,39630,39631,39632,39633,39634,39635,39642,39668,39669,39670,39671,39672,39675,39683,39685,39688,39697,39700,39708,39712,39748,39749,39750,39751,39752,39753,39754,39755,39756,39757,39758,39759,39760,39761,39762,39763,39764,39765,39766,39767,39768,39770,39775,39776,39777,39778,39779,39780,39781,39782,39783,39784,39785,39786,39787,39790,39791,39793,39794,39795,39796,39797,39798,39799,39808,39809,39810,39811,39812,39814,39815,39816,39818,39821,39879,39882,39883,39884,39885,39886,39887,39888,39889,39890,39891,39892,39893,39894,39898,39906,39907,39911,39920,39921,39922,39923,39925,39926,39927,39928,39929,39930,39931,39932,39933,39938,39942,39945,39947,39948,39954,39964,39965,39966,39967,39968,39969,39970,39971,39972,39973,39974,39975,39976,39977,39980,39981,39982,39983,39984,39985,39986,39992,39993,39994,39995,39996,39999,40004,40007,40013,40014,40018,40029,40031,40051,40052,40060,40061,40062,40063,40064,40065,40066,40075,40139,40140,40141,40142,40143,40144,40145,40146,40147,40148,40149,40150,40151,40152,40153,40154,40155,40156,40157,40158,40159,40160,40162,40163,40164,40165,40166,40168,40169,40171,40172,40173,40174,40175,40176,40178,40179,40180,40181,40192,40233,40234,40235,40236,40237,40238,40239,40243,40244,40247,40248,40252,40253,40256,40258,40259,40260,40261,40262,40263,40269,40276,40291,40344,40345,40347,40348,40349,40350,40351,40355,40356,40357,40358,40359,40360,40362,40363,40364,40369,40370,40371,40372,40374,40375,40378,40380,40383,40449,40450,40451,40452,40453,40454,40455,40456,40457,40458,40459,40460,40461,40462,40463,40464,40465,40466,40468,40481,40482,40484,40487,40550,40551,40552,40553,40554,40555,40556,40557,40558,40559,40560,40561,40562,40564,40568,40569,40571,40574,40577,40578,40579,40580,40581,40582,40583,40587,40588,40593,40616,40617,40618,40619,40620,40621,40622,40623,40624,40625,40634,40635,40637,40638,40639,40641,40642,40647,40648,40649,40653,40658,40660,40662,40667,40669,40674,40675,40677,40750,40751,40753,40754,40755,40756,40757,40758,40759,40760,40761,40762,40763,40764,40765,40766,40767,40769,40771,40777,40781,40785,40786,40787,40789,40791,40798,40800,40802,40809,40812,40816,40820,40835,40836,40837,40838,40839,40840,40841,40842,40843,40844,40845,40846,40847,40849,40852,40853,40854,40855,40856,40858,40859,40860,40861,40864,40877,40904,40905,40906,40907,40908,40909,40910,40911,40912,40913,40915,40916,40917,40918,40919,40920,40922,40923,40924,40925,40938,40941,40945,40946,40948,40949,40950,40952,40954,40956,40958,40965,40968,40969,40981,41053,41054,41056,41057,41058,41059,41060,41061,41062,41063,41064,41065,41067,41070,41072,41074,41076,41077,41079,41082,41083,41084,41085,41086,41087,41088,41091,41157,41159,41161,41162,41163,41164,41165,41166,41167,41168,41171,41173,41174,41175,41176,41177,41178,41179,41180,41181,41182,41183,41189,41192,41194,41195,41196,41221,41222,41224,41225,41226,41227,41228,41230,41231,41232,41233,41234,41236,41240,41241,41244,41246,41247,41248,41251,41253,41255,41263,41286,41287,41290,41291,41292,41293,41294,41295,41296,41297,41298,41299,41300,41301,41302,41303,41304,41305,41306,41307,41308,41309,41310,41311,41312,41313,41315,41319,41320,41375,41376,41410,41411,41412,41413,41414,41415,41416,41417,41418,41419,41420,41421,41422,41423,41424,41425,41426,41427,41428,41474,41475,41476,41477,41478,41479,41480,41484,41490,41491,41492,41493,41494,41495,41497,41593,41594,41595,41596,41597,41598,41599,41600,41601,41602,41603,41604,41605,41606,41607,41608,41609,41612,41616,41617,41618,41619,41620,41621,41622,41623,41630,41687,41688,41689,41690,41691,41692,41693,41694,41695,41696,41697,41698,41699,41700,41701,41702,41703,41704,41705,41706,41707,41708,41709,41710,41711,41712,41713,41714,41715,41716,41717,41718,41719,41720,41724,41816,41817,41818,41819,41820,41821,41832,41833,41834,41835,41836,41837,41838,41839,41840,41841,41842,41843,41844,41845,41846,41847,41848,41849,41850,41853,41854,41855,41860,41861,41863,41865,41866,41867,41869,41933,41934,41935,41936,41937,41942,41943,41944,41945,41949,41950,41951,41952,41953,41954,41955,41956,41957,41958,41959,41991,41992,41993,41994,41995,41996,41997,41998,41999,42001,42002,42003,42005,42006,42007,42009,42012,42013,42017,42026,42028,42029,42030,42031,42033,42034,42035,42037,42038,42039,42041,42043,42044,42100,42101,42102,42103,42104,42105,42106,42107,42108,42109,42110,42111,42112,42113,42114,42115,42116,42117,42118,42119,42120,42121,42122,42124,42126,42127,42131,42134,42303,42319,42395,42582,42650,42651,42652,42653,42654,42655,42656,42660,42661,42662,42665,42666,42667,42668,42678,42679,42680,42683,42685,42686,42687,42688,42689,42690,42691,42692,42693,42694,42695,42696,42697,42698,42699,42701,42702,42703,42704,42709,42746,42747,42748,42749,42750,42751,42752,42753,42754,42755,42756,42757,42758,42759,42760,42761,42762,42763,42764,42765,42767,42772,42773,42774,42775,42798,42799,42800,42801,42802,42803,42804,42805,42806,42807,42808,42809,42810,42811,42812,42813,42814,42815,42816,42818,42836,42839,42842,42843,42845,42846,42847,42848,42874,42875,42876,42877,42878,42879,42880,42881,42882,42883,42884,42885,42886,42887,42888,42894,42895,42896,42897,42898,42899,42900,42901,42902,42903,42970,42971,42972,42973,42974,42975,42976,42977,42978,42979,43259,43263,43265,43266,43268,43269,43288,43292,43295,43325,43365,43367,43368,43369,43397,43401,43402,43403,43404,43409,43410,43411,43412,43413,43414,43415,43416,43417,43418,43419,43420,43421,43422,43429,43430,43431,43435,43436,43437,43440,43441,43442,43444,43445,43499,43500,43501,43502,43503,43511,43514,43515,43516,43517,43524,43669,43671,43672,43677,43678,43681,43682,43683,43684,43685,43686,43687,43688,43696,43697,43698,43743,43744,44620,44632,44633,47153,47634,47642,48348,52012&quot;,&quot;show_button&quot;:&quot;hover&quot;,&quot;button_margin_bottom&quot;:20,&quot;button_margin_top&quot;:5,&quot;button_margin_left&quot;:5,&quot;button_margin_right&quot;:20,&quot;button_position&quot;:&quot;top-left&quot;,&quot;description_option&quot;:[&quot;img_title&quot;,&quot;img_alt&quot;,&quot;post_title&quot;],&quot;transparency_value&quot;:0.2,&quot;pin_image&quot;:&quot;default&quot;,&quot;pin_image_button&quot;:&quot;rounded-square&quot;,&quot;pin_image_icon&quot;:&quot;circle&quot;,&quot;pin_image_size&quot;:&quot;small&quot;,&quot;custom_image_url&quot;:&quot;&quot;,&quot;scale_pin_image&quot;:false,&quot;pin_linked_url&quot;:true,&quot;pinImageHeight&quot;:43.2,&quot;pinImageWidth&quot;:43.2,&quot;scroll_selector&quot;:&quot;&quot;,&quot;support_srcset&quot;:false}};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fplugins%2fjquery-pin-it-button-for-images%2fjs%2fjpibfi.client.js%3fver%3d3.0.7%3fver%3d3.0.7&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-includes%2fjs%2fimagesloaded.min.js%3fver%3d4.1.4%3fver%3d4.1.4&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fthemes%2fnewsanchor%2fjs%2fmain.js%3fver%3d1708703769%3fver%3d1708703769&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fthemes%2fnewsanchor%2fjs%2farticle.js%3fver%3d1712933458%3fver%3d1712933458&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type='text/javascript' id='elasticpress-autosuggest-js-extra'&gt;
+/* &lt;![CDATA[ */
+var epas = {&quot;query&quot;:&quot;{\\&quot;from\\&quot;:0,\\&quot;size\\&quot;:16,\\&quot;sort\\&quot;:[{\\&quot;_score\\&quot;:{\\&quot;order\\&quot;:\\&quot;desc\\&quot;}}],\\&quot;query\\&quot;:{\\&quot;function_score\\&quot;:{\\&quot;query\\&quot;:{\\&quot;bool\\&quot;:{\\&quot;should\\&quot;:[{\\&quot;bool\\&quot;:{\\&quot;must\\&quot;:[{\\&quot;bool\\&quot;:{\\&quot;should\\&quot;:[{\\&quot;multi_match\\&quot;:{\\&quot;query\\&quot;:\\&quot;ep_autosuggest_placeholder\\&quot;,\\&quot;type\\&quot;:\\&quot;phrase\\&quot;,\\&quot;fields\\&quot;:[\\&quot;post_title^1\\&quot;,\\&quot;post_excerpt^1\\&quot;,\\&quot;post_content^1\\&quot;,\\&quot;post_author.display_name^1\\&quot;,\\&quot;terms.post_tag.name^1\\&quot;,\\&quot;terms.category.name^1\\&quot;,\\&quot;terms.ep_custom_result.name^9999\\&quot;],\\&quot;boost\\&quot;:3}},{\\&quot;multi_match\\&quot;:{\\&quot;query\\&quot;:\\&quot;ep_autosuggest_placeholder\\&quot;,\\&quot;fields\\&quot;:[\\&quot;post_title^1\\&quot;,\\&quot;post_excerpt^1\\&quot;,\\&quot;post_content^1\\&quot;,\\&quot;post_author.display_name^1\\&quot;,\\&quot;terms.post_tag.name^1\\&quot;,\\&quot;terms.category.name^1\\&quot;,\\&quot;terms.ep_custom_result.name^9999\\&quot;,\\&quot;post_title.suggest^1\\&quot;],\\&quot;type\\&quot;:\\&quot;phrase\\&quot;,\\&quot;slop\\&quot;:5}}]}}],\\&quot;filter\\&quot;:[{\\&quot;match\\&quot;:{\\&quot;post_type.raw\\&quot;:\\&quot;post\\&quot;}}]}},{\\&quot;bool\\&quot;:{\\&quot;must\\&quot;:[{\\&quot;bool\\&quot;:{\\&quot;should\\&quot;:[{\\&quot;multi_match\\&quot;:{\\&quot;query\\&quot;:\\&quot;ep_autosuggest_placeholder\\&quot;,\\&quot;type\\&quot;:\\&quot;phrase\\&quot;,\\&quot;fields\\&quot;:[\\&quot;post_title^1\\&quot;,\\&quot;post_excerpt^1\\&quot;,\\&quot;post_content^1\\&quot;,\\&quot;post_author.display_name^1\\&quot;,\\&quot;terms.ep_custom_result.name^9999\\&quot;],\\&quot;boost\\&quot;:3}},{\\&quot;multi_match\\&quot;:{\\&quot;query\\&quot;:\\&quot;ep_autosuggest_placeholder\\&quot;,\\&quot;fields\\&quot;:[\\&quot;post_title^1\\&quot;,\\&quot;post_excerpt^1\\&quot;,\\&quot;post_content^1\\&quot;,\\&quot;post_author.display_name^1\\&quot;,\\&quot;terms.ep_custom_result.name^9999\\&quot;,\\&quot;post_title.suggest^1\\&quot;],\\&quot;type\\&quot;:\\&quot;phrase\\&quot;,\\&quot;slop\\&quot;:5}}]}}],\\&quot;filter\\&quot;:[{\\&quot;match\\&quot;:{\\&quot;post_type.raw\\&quot;:\\&quot;page\\&quot;}}]}},{\\&quot;bool\\&quot;:{\\&quot;must\\&quot;:[{\\&quot;bool\\&quot;:{\\&quot;should\\&quot;:[{\\&quot;multi_match\\&quot;:{\\&quot;query\\&quot;:\\&quot;ep_autosuggest_placeholder\\&quot;,\\&quot;type\\&quot;:\\&quot;phrase\\&quot;,\\&quot;fields\\&quot;:[\\&quot;post_title^1\\&quot;,\\&quot;post_excerpt^1\\&quot;,\\&quot;post_content^1\\&quot;,\\&quot;post_author.display_name^1\\&quot;,\\&quot;terms.ep_custom_result.name^9999\\&quot;],\\&quot;boost\\&quot;:3}},{\\&quot;multi_match\\&quot;:{\\&quot;query\\&quot;:\\&quot;ep_autosuggest_placeholder\\&quot;,\\&quot;fields\\&quot;:[\\&quot;post_title^1\\&quot;,\\&quot;post_excerpt^1\\&quot;,\\&quot;post_content^1\\&quot;,\\&quot;post_author.display_name^1\\&quot;,\\&quot;terms.ep_custom_result.name^9999\\&quot;,\\&quot;post_title.suggest^1\\&quot;],\\&quot;type\\&quot;:\\&quot;phrase\\&quot;,\\&quot;slop\\&quot;:5}}]}}],\\&quot;filter\\&quot;:[{\\&quot;match\\&quot;:{\\&quot;post_type.raw\\&quot;:\\&quot;gallery\\&quot;}}]}}]}},\\&quot;functions\\&quot;:[{\\&quot;exp\\&quot;:{\\&quot;post_date_gmt\\&quot;:{\\&quot;scale\\&quot;:\\&quot;14d\\&quot;,\\&quot;decay\\&quot;:0.25,\\&quot;offset\\&quot;:\\&quot;7d\\&quot;}}},{\\&quot;weight\\&quot;:0.001}],\\&quot;score_mode\\&quot;:\\&quot;sum\\&quot;,\\&quot;boost_mode\\&quot;:\\&quot;multiply\\&quot;}},\\&quot;post_filter\\&quot;:{\\&quot;bool\\&quot;:{\\&quot;must\\&quot;:[{\\&quot;terms\\&quot;:{\\&quot;post_type.raw\\&quot;:[\\&quot;post\\&quot;,\\&quot;page\\&quot;,\\&quot;gallery\\&quot;]}},{\\&quot;terms\\&quot;:{\\&quot;post_status\\&quot;:[\\&quot;publish\\&quot;,\\&quot;acf-disabled\\&quot;]}}]}}}&quot;,&quot;placeholder&quot;:&quot;ep_autosuggest_placeholder&quot;,&quot;endpointUrl&quot;:&quot;https:\\/\\/search.facts.net\\/factsnet-post-1\\/_search&quot;,&quot;selector&quot;:&quot;.search-field&quot;,&quot;defaultSelectors&quot;:&quot;.ep-autosuggest, input[type=\\&quot;search\\&quot;], .search-field&quot;,&quot;action&quot;:&quot;navigate&quot;,&quot;mimeTypes&quot;:[],&quot;http_headers&quot;:[],&quot;triggerAnalytics&quot;:&quot;&quot;,&quot;addSearchTermHeader&quot;:&quot;&quot;};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-content%2fplugins%2felasticpress%2fdist%2fjs%2fautosuggest-script.min.js%3fver%3d3.6.2&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;&lt;script src=&quot;_httpextlink_&amp;amp;rl=0&amp;amp;href=https:%2f%2ffacts.net%2fwp-includes%2fjs%2fwp-embed.min.js%3fver%3d5.8.1&quot; defer type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;flying-scripts&quot;&gt;const loadScriptsTimer=setTimeout(loadScripts,1*1000);const userInteractionEvents=[&quot;mouseover&quot;,&quot;keydown&quot;,&quot;touchstart&quot;,&quot;touchmove&quot;,&quot;wheel&quot;];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){loadScripts();clearTimeout(loadScriptsTimer);userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}
+function loadScripts(){document.querySelectorAll(&quot;script[data-type='lazy']&quot;).forEach(function(elem){elem.setAttribute(&quot;src&quot;,elem.getAttribute(&quot;data-src&quot;))})}&lt;/script&gt;
+    
+
+
+
+&lt;!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Database Caching 62/351 queries in 0.216 seconds using Redis
+
+Served from: facts.net @ 2024-06-29 20:21:43 by W3 Total Cache
+--&gt;</Content>
+</Section>
+</Archive>
